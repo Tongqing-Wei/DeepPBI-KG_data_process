@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Streptococcus,0.95765996,0.7244890961323108,Streptococcus_pyogenes,0.99998534,6.221258867234073

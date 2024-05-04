@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9626,0.4641,0.4334,0.1695,0.0,0.9877,1.0000,0.9999,NA,0.9733,0.9733,0.9425,0.9076,0.8460
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9584,0.4763,0.3611,0.1699,0.0,0.9906,0.9998,0.9994,NA,,,,,
+GCF_000300175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,Alteromonas macleodii str. 'Balearic Sea AD45',0.9364,0.4342,0.4189,0.1689,0.0,0.9701,1.0000,1.0000,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9340,0.4556,0.3304,0.1699,0.0,0.9826,0.9997,0.9993,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.9338,0.4883,0.1998,0.1701,0.0,0.9932,0.9983,0.9983,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9327,0.4422,0.3788,0.1698,0.0,0.9764,0.9999,0.9995,NA,,,,,
+GCF_009363355.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. THAF190c,Vibrio sp. THAF190c,0.9064,0.5163,0.0000,0.1701,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_008756925.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio fortis,Vibrio fortis,0.9056,0.5157,0.0000,0.1701,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_000238335.2,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas marina,Pseudoalteromonas marina DSM 17587,0.9038,0.4315,0.3314,0.1699,0.0,0.9660,0.9997,0.9993,NA,,,,,
+GCF_000368225.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Acinetobacter baumannii NIPH 2061,0.9014,0.4203,0.3693,0.1699,0.0,0.9516,0.9998,0.9995,NA,,,,,

@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Salmonella,0.88533336,1.273741087196504,Salmonella_typhimurium,0.99952507,5.752959522903095

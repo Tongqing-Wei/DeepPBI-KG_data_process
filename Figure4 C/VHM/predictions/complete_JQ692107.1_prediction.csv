@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.4735,0.3191,0.2767,0.1767,0.0,0.9859,0.9999,0.9997,NA
+GCF_000614565.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O153:H2 str. 2010C-5034,0.4464,0.3204,0.2464,0.1767,0.0,0.9888,0.9997,0.9995,NA
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.4436,0.3227,0.2346,0.1767,0.0,0.9943,0.9996,0.9994,NA
+GCF_002150905.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,Shigella sonnei,0.4331,0.3198,0.2363,0.1767,0.0,0.9876,0.9996,0.9994,NA
+GCF_000732965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O157:H7 str. EDL933,0.4246,0.3240,0.2113,0.1768,0.0,0.9969,0.9993,0.9992,NA
+GCF_002968175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella boydii,Shigella boydii,0.4232,0.3148,0.2468,0.1767,0.0,0.9764,0.9997,0.9995,NA
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.4193,0.3176,0.2317,0.1767,0.0,0.9819,0.9996,0.9994,NA
+GCF_000009565.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli BL21(DE3),0.4186,0.3184,0.2275,0.1767,0.0,0.9838,0.9995,0.9997,NA
+GCF_001005605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.4134,0.3205,0.2143,0.1767,0.0,0.9892,0.9994,0.9995,NA
+GCF_001281005.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter portucalensis,Citrobacter portucalensis,0.4132,0.3143,0.2390,0.1767,0.0,0.9756,0.9997,0.9995,NA

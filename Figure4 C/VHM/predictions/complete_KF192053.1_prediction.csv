@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9919,0.3280,0.9028,0.1017,0.0,0.9487,1.0000,0.9999,NA,0.9832,0.9832,0.9592,0.9305,0.8729
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9583,0.3765,0.3152,0.1012,0.0,0.9960,0.9998,1.0000,NA,,,,,
+GCF_003612315.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium D16-59,bacterium D16-59,0.9390,0.4342,0.0000,0.1027,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_000257925.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. oral taxon 306,Prevotella sp. oral taxon 306 str. F0472,0.9389,0.4341,0.0000,0.1027,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_003612285.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium D16-51,bacterium D16-51,0.9388,0.4341,0.0000,0.1027,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_003612355.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 1xD8-6,bacterium 1xD8-6,0.9348,0.4301,0.0000,0.1027,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_003611745.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium D16-36,bacterium D16-36,0.9347,0.4300,0.0000,0.1027,0.0,0.9999,0.0001,0.0005,NA,,,,,
+GCF_000423565.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Runella,Runella zeae,Runella zeae DSM 19591,0.9345,0.4298,0.0000,0.1027,0.0,0.9999,0.0001,0.0005,NA,,,,,
+GCF_000613325.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella veroralis,Prevotella veroralis DSM 19559 = JCM 6290,0.9338,0.4292,0.0000,0.1027,0.0,0.9999,0.0001,0.0005,NA,,,,,
+GCF_000175795.2,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Ruminiclostridium,Ruminiclostridium papyrosolvens,Ruminiclostridium papyrosolvens DSM 2782,0.9336,0.4290,0.0000,0.1027,0.0,0.9999,0.0001,0.0005,NA,,,,,

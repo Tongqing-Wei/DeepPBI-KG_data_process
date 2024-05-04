@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000153285.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7805,Synechococcus sp. WH 7805,0.7442,0.4422,0.4768,0.2412,0.0,0.9990,1.0000,0.9999,NA,0.9400,0.9365,0.8971,0.8508,0.7427
+GCF_000179235.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CB0101,Synechococcus sp. CB0101,0.7377,0.4653,0.3741,0.2409,0.0,0.9997,1.0000,0.9999,NA,,,,,
+GCF_000161795.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8109,Synechococcus sp. WH 8109,0.6720,0.4550,0.3413,0.2409,0.0,0.9995,0.9999,0.9999,NA,,,,,
+GCF_004209775.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8101,Synechococcus sp. WH 8101,0.5940,0.4382,0.3325,0.2413,0.0,0.9987,0.9999,0.9998,NA,,,,,
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.5757,0.4421,0.2990,0.2412,0.0,0.9989,0.9998,0.9999,NA,,,,,
+GCF_000011485.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9313,0.5685,0.4195,0.3834,0.2413,0.0,0.9962,1.0000,0.9998,NA,,,,,
+GCF_000063505.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803,0.5390,0.4241,0.3239,0.2394,0.0,0.9974,0.9998,1.0000,NA,,,,,
+GCF_000179255.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CB0205,Synechococcus sp. CB0205,0.4218,0.4809,0.0000,0.2415,0.0,1.0000,0.0000,0.0019,NA,,,,,
+GCF_004217555.1,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Edaphobacter,Edaphobacter modestus,Edaphobacter modestus,0.4128,0.4788,0.0000,0.2415,0.0,1.0000,0.0000,0.0019,NA,,,,,
+GCF_900108185.1,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Bryocella,Bryocella elongata,Bryocella elongata,0.4102,0.4782,0.0000,0.2415,0.0,1.0000,0.0000,0.0019,NA,,,,,

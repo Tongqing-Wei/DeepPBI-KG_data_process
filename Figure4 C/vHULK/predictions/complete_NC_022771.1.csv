@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Bacillus,0.9998965,0.003143624962056446,Bacillus_subtilis,1.0,3.235460673301672

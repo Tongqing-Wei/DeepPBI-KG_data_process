@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002850535.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus siamensis,Bacillus siamensis,0.9179,0.4549,0.0000,0.1271,0.0,1.0000,0.0000,0.0010,NA,0.9671,0.9671,0.9360,0.8953,0.8178
+GCF_001584345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus nakamurai,Bacillus nakamurai,0.9154,0.4530,0.0000,0.1271,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_002688645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus,0.9128,0.4511,0.0000,0.1271,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000742675.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus subsp. globigii,0.9118,0.4504,0.0000,0.1271,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_001584335.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus,0.9111,0.4499,0.0000,0.1271,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_007678125.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus velezensis,Bacillus velezensis,0.9110,0.4498,0.0000,0.1271,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_000165925.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus 1942,0.9110,0.4498,0.0000,0.1271,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_000743235.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus,0.9110,0.4498,0.0000,0.1271,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_002243495.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus,0.9108,0.4497,0.0000,0.1271,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_001591925.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus NBRC 15539,0.9106,0.4495,0.0000,0.1271,0.0,0.9999,0.0000,0.0010,NA,,,,,

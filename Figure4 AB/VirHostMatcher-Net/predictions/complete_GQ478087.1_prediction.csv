@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9946,0.5374,0.4023,0.1388,0.0,0.9955,0.9999,0.9995,NA,0.9867,0.9867,0.9629,0.9390,0.8992
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9943,0.5227,0.4481,0.1388,0.0,0.9890,1.0000,0.9996,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9931,0.5514,0.2888,0.1390,0.0,0.9989,0.9991,0.9989,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9924,0.5187,0.3943,0.1388,0.0,0.9856,0.9999,0.9994,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9921,0.5163,0.3932,0.1382,0.0,0.9821,0.9998,0.9999,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9917,0.5160,0.3872,0.1389,0.0,0.9818,0.9998,0.9994,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9913,0.5197,0.3597,0.1386,0.0,0.9869,0.9997,0.9997,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9913,0.5176,0.3676,0.1389,0.0,0.9839,0.9998,0.9994,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9903,0.5099,0.3732,0.1389,0.0,0.9719,0.9998,0.9994,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9895,0.5215,0.3095,0.1389,0.0,0.9884,0.9994,0.9991,NA,,,,,

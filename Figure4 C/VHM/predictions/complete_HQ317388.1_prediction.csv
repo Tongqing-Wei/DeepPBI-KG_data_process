@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.8480,0.4460,0.3348,0.1982,0.0,0.9844,0.9998,0.9995,NA,0.9524,0.9524,0.9176,0.8755,0.7839
+GCF_004209775.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8101,Synechococcus sp. WH 8101,0.8472,0.3492,0.7140,0.1971,0.0,0.7393,1.0000,0.9999,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.8465,0.4469,0.3277,0.1981,0.0,0.9856,0.9997,0.9998,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.8117,0.4380,0.3067,0.1982,0.0,0.9679,0.9996,0.9993,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.7872,0.4387,0.2674,0.1981,0.0,0.9697,0.9992,0.9997,NA,,,,,
+GCF_000269945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Lactococcus garvieae Lg2,0.7867,0.4249,0.3228,0.1982,0.0,0.9438,0.9997,0.9994,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.7858,0.4296,0.3027,0.1982,0.0,0.9520,0.9995,0.9992,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.7819,0.4391,0.2595,0.1983,0.0,0.9712,0.9990,0.9989,NA,,,,,
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.7780,0.4358,0.2670,0.1982,0.0,0.9628,0.9991,0.9995,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.7768,0.4340,0.2725,0.1982,0.0,0.9592,0.9992,0.9995,NA,,,,,

@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Vibrio,0.9985941,0.03732644428304184,Vibrio_cholerae,0.9999948,5.013904471958347

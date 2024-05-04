@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9983,0.5898,0.5011,0.1442,0.0,0.9991,1.0000,0.9998,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9983,0.5907,0.4933,0.1438,0.0,0.9993,1.0000,0.9999,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9981,0.5818,0.5016,0.1446,0.0,0.9973,1.0000,0.9996,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9934,0.5150,0.4799,0.1447,0.0,0.9795,1.0000,0.9996,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9932,0.5364,0.3861,0.1445,0.0,0.9872,0.9998,0.9998,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9899,0.5043,0.4204,0.1441,0.0,0.9712,0.9999,0.9999,NA,,,,,
+GCF_001559865.1,Bacteria,Firmicutes,Clostridia,Clostridiales,NAmissing,NAmissing,Clostridiales bacterium MCWD3,Clostridiales bacterium MCWD3,0.9896,0.6090,0.0000,0.1451,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000387765.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Caldisalinibacter,Caldisalinibacter kiritimatiensis,Caldisalinibacter kiritimatiensis,0.9896,0.6089,0.0000,0.1451,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9893,0.5080,0.3955,0.1448,0.0,0.9744,0.9998,0.9994,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9890,0.5034,0.4076,0.1447,0.0,0.9707,0.9998,0.9994,NA,,,,,

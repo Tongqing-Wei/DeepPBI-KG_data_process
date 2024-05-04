@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000223905.1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula,Haloarcula hispanica,Haloarcula hispanica ATCC 33960,0.4205,0.4433,0.2334,0.2544,0.0,0.9942,0.9990,0.0018,NA
+GCF_000306765.2,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mediterranei,Haloferax mediterranei ATCC 33500,0.3313,0.4792,0.0000,0.2544,0.0,1.0000,0.0001,0.0022,NA
+GCF_005406325.1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mediterranei,Haloferax mediterranei ATCC 33500,0.3301,0.4789,0.0000,0.2544,0.0,1.0000,0.0001,0.0022,NA
+GCF_000337295.1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mediterranei,Haloferax mediterranei ATCC 33500,0.3300,0.4788,0.0000,0.2544,0.0,1.0000,0.0001,0.0022,NA
+GCF_000685635.1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax mediterranei,Haloferax mediterranei ATCC 33500,0.3298,0.4788,0.0000,0.2544,0.0,1.0000,0.0001,0.0022,NA
+GCF_902362925.1,Bacteria,Firmicutes,Clostridia,Clostridiales,NAmissing,NAmissing,Clostridiales bacterium,Clostridiales bacterium,0.3217,0.4767,0.0000,0.2544,0.0,0.9999,0.0001,0.0022,NA
+GCF_000738005.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium crudilactis,Bifidobacterium crudilactis,0.3212,0.4765,0.0000,0.2544,0.0,0.9999,0.0001,0.0022,NA
+GCF_000169255.2,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,Pseudoflavonifractor,Pseudoflavonifractor capillosus,Pseudoflavonifractor capillosus ATCC 29799,0.3211,0.4765,0.0000,0.2544,0.0,0.9999,0.0001,0.0022,NA
+GCF_008806815.1,Archaea,Euryarchaeota,Halobacteria,Haloferacales,Haloferacaceae,Haloferax,Haloferax sp. CBA1148,Haloferax sp. CBA1148,0.3170,0.4754,0.0000,0.2544,0.0,0.9999,0.0001,0.0022,NA
+GCF_003722095.1,Archaea,Euryarchaeota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas,Natronomonas sp. CBA1133,Natronomonas sp. CBA1133,0.3162,0.4752,0.0000,0.2544,0.0,0.9999,0.0001,0.0022,NA

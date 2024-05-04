@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9979,0.5821,0.4823,0.1442,0.0,0.9920,1.0000,0.9999,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9979,0.5756,0.5120,0.1450,0.0,0.9911,1.0000,0.9997,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9978,0.5813,0.4752,0.1446,0.0,0.9919,1.0000,0.9998,NA,,,,,
+GCF_004353185.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium cuniculi,Clostridium cuniculi,0.9932,0.6347,0.0000,0.1454,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_001404355.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium disporicum,Clostridium disporicum,0.9930,0.6332,0.0000,0.1454,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_001405575.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium disporicum,Clostridium disporicum,0.9929,0.6322,0.0000,0.1454,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_000577815.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium saudiense,Clostridium saudiense,0.9927,0.6302,0.0000,0.1454,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_001949385.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,Clostridium perfringens,0.9925,0.6292,0.0000,0.1454,0.0,0.9999,0.0000,0.0011,NA,,,,,
+GCF_003181615.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,Clostridium perfringens,0.9925,0.6286,0.0000,0.1454,0.0,0.9999,0.0000,0.0011,NA,,,,,
+GCF_001414595.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,Clostridium perfringens CP4,0.9924,0.6282,0.0000,0.1454,0.0,0.9999,0.0000,0.0011,NA,,,,,

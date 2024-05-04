@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.3452,0.3783,0.2851,0.2338,0.0,0.9972,0.9995,0.9993,NA
+GCF_900167535.1,Bacteria,Verrucomicrobia,Verrucomicrobiae,Verrucomicrobiales,Verrucomicrobiaceae,Prosthecobacter,Prosthecobacter debontii,Prosthecobacter debontii,0.2782,0.4313,0.0000,0.2338,0.0,1.0000,0.0000,0.0019,NA
+GCF_000700805.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas sp. KLE 1280,Porphyromonas sp. KLE 1280,0.2602,0.4259,0.0000,0.2338,0.0,1.0000,0.0000,0.0019,NA
+GCF_001553165.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,NAmissing,Porphyromonadaceae bacterium KA00676,Porphyromonadaceae bacterium KA00676,0.2568,0.4249,0.0000,0.2338,0.0,1.0000,0.0000,0.0019,NA
+GCF_001553215.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas somerae,Porphyromonas somerae,0.2568,0.4249,0.0000,0.2338,0.0,1.0000,0.0000,0.0019,NA
+GCF_000292995.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas sp. oral taxon 279,Porphyromonas sp. oral taxon 279 str. F0450,0.2568,0.4249,0.0000,0.2338,0.0,0.9999,0.0000,0.0019,NA
+GCF_003688415.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Umboniibacter,Umboniibacter marinipuniceus,Umboniibacter marinipuniceus,0.2457,0.4214,0.0000,0.2338,0.0,0.9999,0.0000,0.0019,NA
+GCF_002813445.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas tolaasii,Pseudomonas tolaasii NCPPB 2192,0.2433,0.3045,0.4639,0.2336,0.0,0.8071,1.0000,0.9999,NA
+GCF_008728435.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.2400,0.3637,0.2253,0.2340,0.0,0.9919,0.9988,0.0005,NA
+GCF_001481615.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.2373,0.3615,0.2294,0.2338,0.0,0.9900,0.9989,0.0018,NA

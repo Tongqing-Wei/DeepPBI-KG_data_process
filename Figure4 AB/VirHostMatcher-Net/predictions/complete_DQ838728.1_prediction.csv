@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9976,0.5233,0.4755,0.1122,0.0,0.9997,1.0000,0.9997,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9974,0.5104,0.5080,0.1117,0.0,0.9989,1.0000,0.9999,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9972,0.5130,0.4829,0.1122,0.0,0.9991,1.0000,0.9997,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.9964,0.5124,0.4119,0.1101,0.0,0.9991,0.9999,1.0000,NA,,,,,
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.9957,0.5105,0.3893,0.1123,0.0,0.9990,0.9999,0.9995,NA,,,,,
+GCF_007109175.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis,0.9872,0.5445,0.0000,0.1126,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002276835.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis,0.9862,0.5398,0.0000,0.1126,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9856,0.4456,0.3567,0.1108,0.0,0.9937,0.9999,0.9999,NA,,,,,
+GCF_005146285.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis,0.9848,0.5341,0.0000,0.1126,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_005864305.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9845,0.5328,0.0000,0.1126,0.0,1.0000,0.0000,0.0008,NA,,,,,

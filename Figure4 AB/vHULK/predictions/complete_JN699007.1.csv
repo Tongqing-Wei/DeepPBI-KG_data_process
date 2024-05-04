@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Mycobacterium,0.9997117,0.007666848543910376,Mycobacterium_smegmatis,0.99999964,5.458670457647114

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9661,0.5578,0.3334,0.2083,0.0,0.9992,0.9995,0.9993,NA,0.9730,0.9730,0.9459,0.9127,0.8503
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9581,0.5542,0.2959,0.2081,0.0,0.9985,0.9991,0.9997,NA,,,,,
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.9328,0.4119,0.7346,0.2059,0.0,0.7828,1.0000,0.9999,NA,,,,,
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.9196,0.5881,0.0000,0.2084,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.9087,0.4935,0.3449,0.2083,0.0,0.9787,0.9996,0.9994,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.9022,0.5017,0.2943,0.2082,0.0,0.9835,0.9991,0.9995,NA,,,,,
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.8988,0.4996,0.2936,0.2082,0.0,0.9827,0.9991,0.9995,NA,,,,,
+GCF_004117915.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus metriopterae,Lactobacillus metriopterae,0.8942,0.5704,0.0000,0.2084,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_002762335.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus terrae,Lactobacillus terrae,0.8939,0.5702,0.0000,0.2084,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000702785.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma primatum,Mycoplasma primatum ATCC 25948,0.8935,0.5699,0.0000,0.2084,0.0,1.0000,0.0001,0.0012,NA,,,,,

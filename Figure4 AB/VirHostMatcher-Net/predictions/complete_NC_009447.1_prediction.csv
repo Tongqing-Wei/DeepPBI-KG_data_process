@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002079305.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sp. P5,Rhodovulum sp. P5,0.6420,0.3753,0.2891,0.1884,0.0,0.9906,0.9999,0.9998,NA
+GCF_000182725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella inopinata,Brucella inopinata BO1,0.6275,0.3744,0.2782,0.1884,0.0,0.9900,0.9999,0.9997,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.6012,0.3705,0.2677,0.1884,0.0,0.9794,0.9998,0.9996,NA
+GCF_002708645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. IP1,Sphingobium sp. IP1,0.5729,0.3444,0.3446,0.1883,0.0,0.9582,1.0000,0.9999,NA
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.5679,0.3672,0.2485,0.1884,0.0,0.9768,0.9997,0.9998,NA
+GCF_000981305.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia,Burkholderia cenocepacia,Burkholderia cenocepacia,0.5559,0.3241,0.4090,0.1883,0.0,0.9256,1.0000,0.9999,NA
+GCF_001275725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas coronafaciens,Pseudomonas coronafaciens pv. porri,0.5541,0.3766,0.1988,0.1885,0.0,0.9920,0.9991,0.9992,NA
+GCF_000739315.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Brucella abortus 544,0.5512,0.3730,0.2104,0.1885,0.0,0.9864,0.9992,0.9992,NA
+GCF_000011965.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Ruegeria,Ruegeria pomeroyi,Ruegeria pomeroyi DSS-3,0.5225,0.3457,0.2913,0.1883,0.0,0.9608,0.9999,0.9999,NA
+GCF_002155655.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Erythrobacteraceae,Porphyrobacter,Porphyrobacter sanguineus,Porphyrobacter sanguineus,0.5031,0.4143,0.0000,0.1885,0.0,1.0000,0.0000,0.0020,NA

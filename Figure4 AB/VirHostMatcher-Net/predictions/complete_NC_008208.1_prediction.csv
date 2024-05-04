@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000300175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,Alteromonas macleodii str. 'Balearic Sea AD45',0.7903,0.4243,0.4170,0.2116,0.0,0.9732,0.9999,1.0000,NA,0.9451,0.9416,0.9080,0.8637,0.7628
+GCF_004352735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. KCJ4950,Streptococcus sp. KCJ4950,0.7736,0.5243,0.0000,0.2126,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000448625.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HSISB1,Streptococcus sp. HSISB1,0.7599,0.5198,0.0000,0.2126,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.7569,0.4482,0.2800,0.2121,0.0,0.9881,0.9993,0.9999,NA,,,,,
+GCF_900321175.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.7534,0.5178,0.0000,0.2126,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_900199575.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.7505,0.5168,0.0000,0.2126,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_900104225.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.7491,0.5164,0.0000,0.2126,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_900102715.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.7484,0.5162,0.0000,0.2126,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_900109105.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.7476,0.5160,0.0000,0.2126,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_900099885.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.7460,0.5155,0.0000,0.2126,0.0,0.9999,0.0001,0.0012,NA,,,,,

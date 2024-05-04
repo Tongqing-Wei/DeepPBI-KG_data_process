@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000022365.1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus gammatolerans,Thermococcus gammatolerans EJ3,0.4145,0.1255,0.0000,0.0230,0.0,1.0000,0.0005,0.0013,NA
+GCF_001577775.1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus,Pyrococcus kukulkanii,Pyrococcus kukulkanii,0.4033,0.1228,0.0000,0.0230,0.0,1.0000,0.0005,0.0013,NA
+GCF_002214605.1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus chitonophagus,Thermococcus chitonophagus,0.3975,0.1214,0.0000,0.0230,0.0,1.0000,0.0005,0.0013,NA
+GCF_900012635.1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus chitonophagus,Thermococcus chitonophagus,0.3975,0.1214,0.0000,0.0230,0.0,1.0000,0.0005,0.0013,NA
+GCF_008367275.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,NAmissing,Flavobacteriaceae bacterium MT2-5-19,Flavobacteriaceae bacterium MT2-5-19,0.3900,0.1196,0.0000,0.0230,0.0,0.9999,0.0005,0.0013,NA
+GCF_000688035.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,Ruminococcaceae bacterium AE2021,Ruminococcaceae bacterium AE2021,0.3893,0.1194,0.0000,0.0230,0.0,0.9999,0.0005,0.0013,NA
+GCF_900176545.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,Ruminococcaceae bacterium,Ruminococcaceae bacterium,0.3890,0.1193,0.0000,0.0230,0.0,0.9999,0.0005,0.0013,NA
+GCF_008367235.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,NAmissing,Flavobacteriaceae bacterium S2-4-21,Flavobacteriaceae bacterium S2-4-21,0.3865,0.1187,0.0000,0.0230,0.0,0.9999,0.0005,0.0013,NA
+GCF_000816105.1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus guaymasensis,Thermococcus guaymasensis DSM 11113,0.3839,0.1181,0.0000,0.0230,0.0,0.9999,0.0005,0.0013,NA
+GCF_002214585.1,Archaea,Euryarchaeota,Thermococci,Thermococcales,Thermococcaceae,Thermococcus,Thermococcus profundus,Thermococcus profundus,0.3778,0.1166,0.0000,0.0230,0.0,0.9999,0.0005,0.0013,NA

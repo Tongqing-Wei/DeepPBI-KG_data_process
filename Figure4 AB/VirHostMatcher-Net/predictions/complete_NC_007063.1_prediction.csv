@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9989,0.5330,0.7107,0.1247,0.0,0.9998,1.0000,0.9998,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9982,0.5236,0.6239,0.1248,0.0,0.9979,1.0000,0.9997,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9977,0.5049,0.6449,0.1248,0.0,0.9885,1.0000,0.9997,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9976,0.5212,0.5626,0.1238,0.0,0.9968,1.0000,0.9999,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9968,0.5156,0.5209,0.1250,0.0,0.9937,0.9999,0.9996,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9966,0.5350,0.4304,0.1251,0.0,0.9999,0.9999,0.9995,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9962,0.5364,0.3955,0.1248,0.0,0.9999,0.9999,0.9998,NA,,,,,
+GCF_901542495.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus hyicus,Staphylococcus hyicus,0.9825,0.5465,0.0000,0.1254,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_001663015.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis,0.9800,0.5386,0.0000,0.1254,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000966705.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis,0.9798,0.5380,0.0000,0.1254,0.0,1.0000,0.0000,0.0007,NA,,,,,

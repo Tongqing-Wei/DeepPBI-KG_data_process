@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9982,0.4683,0.7783,0.1152,0.0,0.9990,1.0000,0.9998,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9937,0.4829,0.4333,0.1157,0.0,1.0000,1.0000,0.9996,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9864,0.4441,0.4076,0.1157,0.0,0.9947,0.9999,0.9995,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9833,0.4358,0.3919,0.1157,0.0,0.9919,0.9999,0.9995,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9812,0.4380,0.3551,0.1157,0.0,0.9928,0.9998,0.9994,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9804,0.4275,0.3870,0.1157,0.0,0.9858,0.9999,0.9995,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9804,0.4339,0.3572,0.1152,0.0,0.9906,0.9998,0.9999,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9792,0.4042,0.4652,0.1156,0.0,0.9540,1.0000,0.9996,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9786,0.4370,0.3286,0.1158,0.0,0.9924,0.9997,0.9993,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9773,0.3996,0.4628,0.1156,0.0,0.9488,1.0000,0.9996,NA,,,,,

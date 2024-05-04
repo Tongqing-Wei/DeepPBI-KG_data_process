@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9650,0.4249,0.3792,0.1344,0.0,0.9958,0.9997,0.9998,NA,0.9731,0.9731,0.9441,0.9089,0.8468
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9624,0.4123,0.4117,0.1343,0.0,0.9819,0.9999,0.9998,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9477,0.3984,0.3889,0.1347,0.0,0.9607,0.9997,0.9993,NA,,,,,
+GCF_003269215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9418,0.4893,0.0000,0.1350,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000368225.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Acinetobacter baumannii NIPH 2061,0.9410,0.3911,0.3884,0.1347,0.0,0.9466,0.9997,0.9992,NA,,,,,
+GCF_002892785.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9392,0.4867,0.0000,0.1350,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9388,0.4032,0.3314,0.1348,0.0,0.9687,0.9996,0.9991,NA,,,,,
+GCF_002892885.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9384,0.4859,0.0000,0.1350,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000369285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Acinetobacter baumannii NIPH 528,0.9382,0.3854,0.3999,0.1347,0.0,0.9368,0.9998,0.9993,NA,,,,,
+GCF_002892965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9378,0.4852,0.0000,0.1350,0.0,1.0000,0.0001,0.0006,NA,,,,,

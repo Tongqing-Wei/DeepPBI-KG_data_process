@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Enterobacter,0.99989223,0.0035404108761824204,None,0.0,0.0

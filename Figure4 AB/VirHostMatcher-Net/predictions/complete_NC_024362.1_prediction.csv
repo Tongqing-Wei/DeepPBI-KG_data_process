@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.5236,0.3961,0.2978,0.2202,0.0,0.9935,0.9997,0.9998,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.4958,0.3897,0.2978,0.2203,0.0,0.9906,0.9997,0.9996,NA
+GCF_001275725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas coronafaciens,Pseudomonas coronafaciens pv. porri,0.4917,0.3885,0.2984,0.2202,0.0,0.9899,0.9997,0.9998,NA
+GCF_000710145.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia sp. 670,Delftia sp. 670,0.4371,0.3366,0.4539,0.2201,0.0,0.9386,1.0000,0.9999,NA
+GCF_003415675.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhodoferax,Rhodoferax sp. IMCC26218,Rhodoferax sp. IMCC26218,0.4293,0.3504,0.3921,0.2202,0.0,0.9594,0.9999,0.9998,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.3857,0.2871,0.2674,0.1684,0.0,0.7891,0.9996,1.0000,NA
+GCF_900215505.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Cohaesibacteraceae,Cohaesibacter,Cohaesibacter sp. ES.047,Cohaesibacter sp. ES.047,0.3402,0.4265,0.0000,0.2204,0.0,1.0000,0.0000,0.0023,NA
+GCF_002754475.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,Comamonas sp. 26,Comamonas sp. 26,0.3366,0.4256,0.0000,0.2204,0.0,1.0000,0.0000,0.0023,NA
+GCF_009600465.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.3306,0.4240,0.0000,0.2204,0.0,1.0000,0.0000,0.0023,NA
+GCF_009600495.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.3288,0.4235,0.0000,0.2204,0.0,1.0000,0.0000,0.0023,NA

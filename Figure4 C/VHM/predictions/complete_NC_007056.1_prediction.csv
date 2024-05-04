@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9951,0.5137,0.5027,0.1365,0.0,0.9984,1.0000,0.9996,NA,0.9854,0.9854,0.9592,0.9388,0.8950
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9948,0.5082,0.5109,0.1365,0.0,0.9953,1.0000,0.9996,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9944,0.5085,0.4874,0.1356,0.0,0.9955,1.0000,0.9999,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9937,0.5066,0.4742,0.1365,0.0,0.9943,0.9999,0.9996,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9931,0.5164,0.4131,0.1366,0.0,0.9992,0.9999,0.9995,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9928,0.4962,0.4821,0.1365,0.0,0.9879,1.0000,0.9996,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9923,0.5165,0.3857,0.1363,0.0,0.9993,0.9999,0.9998,NA,,,,,
+GCF_007681915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus warneri,Staphylococcus warneri,0.9691,0.5312,0.0000,0.1369,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_007672305.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus warneri,Staphylococcus warneri,0.9670,0.5271,0.0000,0.1369,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_001231125.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus haemolyticus,Staphylococcus haemolyticus,0.9663,0.5259,0.0000,0.1369,0.0,1.0000,0.0001,0.0007,NA,,,,,

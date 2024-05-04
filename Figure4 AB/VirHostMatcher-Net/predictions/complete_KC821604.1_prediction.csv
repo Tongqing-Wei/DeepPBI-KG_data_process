@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000015665.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9515,0.9942,0.5463,0.3593,0.1402,0.0,0.9978,0.9999,0.9998,NA,0.9867,0.9867,0.9629,0.9390,0.8992
+GCF_000012645.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9312,0.9941,0.5519,0.3327,0.1405,0.0,0.9985,0.9997,0.9994,NA,,,,,
+GCF_000011465.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus subsp. pastoris str. CCMP1986,0.9937,0.5536,0.3055,0.1395,0.0,0.9987,0.9995,0.9999,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.9930,0.4615,0.6480,0.1395,0.0,0.9207,1.0000,0.9999,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9916,0.5068,0.4294,0.1403,0.0,0.9839,1.0000,0.9996,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9887,0.5090,0.3501,0.1402,0.0,0.9857,0.9998,0.9997,NA,,,,,
+GCF_000015685.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. NATL1A,0.9877,0.5024,0.3536,0.1399,0.0,0.9786,0.9999,0.9998,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9873,0.5003,0.3577,0.1404,0.0,0.9751,0.9999,0.9995,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9871,0.4944,0.3741,0.1398,0.0,0.9650,0.9999,0.9999,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9869,0.4943,0.3739,0.1401,0.0,0.9649,0.9999,0.9998,NA,,,,,

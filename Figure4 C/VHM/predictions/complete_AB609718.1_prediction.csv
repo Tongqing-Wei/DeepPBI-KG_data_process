@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9980,0.5520,0.5125,0.1295,0.0,0.9979,1.0000,0.9996,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9972,0.5664,0.3810,0.1297,0.0,0.9988,0.9997,0.9992,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9959,0.4776,0.6448,0.1294,0.0,0.9445,1.0000,0.9997,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9948,0.5185,0.4137,0.1279,0.0,0.9867,0.9998,1.0000,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9918,0.4573,0.5634,0.1295,0.0,0.9041,1.0000,0.9996,NA,,,,,
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9914,0.4934,0.4095,0.1296,0.0,0.9672,0.9998,0.9993,NA,,,,,
+GCF_001886115.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus phoeniculicola,Enterococcus phoeniculicola,0.9913,0.5950,0.0000,0.1300,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000394035.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus phoeniculicola,Enterococcus phoeniculicola ATCC BAA-412,0.9913,0.5950,0.0000,0.1300,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000407505.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus phoeniculicola,Enterococcus phoeniculicola ATCC BAA-412,0.9912,0.5948,0.0000,0.1300,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_005217815.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lysinibacillus,Lysinibacillus varians,Lysinibacillus varians,0.9911,0.5936,0.0000,0.1300,0.0,1.0000,0.0000,0.0007,NA,,,,,

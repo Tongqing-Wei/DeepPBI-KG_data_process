@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.5210,0.2994,0.2509,0.1537,0.0,0.6951,0.9999,1.0000,NA
+GCF_002708645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. IP1,Sphingobium sp. IP1,0.4153,0.3422,0.3104,0.2046,0.0,0.9180,1.0000,0.9999,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.3994,0.3457,0.2804,0.2046,0.0,0.9398,1.0000,1.0000,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.3980,0.3561,0.2381,0.2047,0.0,0.9798,0.9998,0.9999,NA
+GCF_008274965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum brasilense,Azospirillum brasilense,0.3862,0.3465,0.2651,0.2047,0.0,0.9445,0.9999,0.9998,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.3625,0.3382,0.2748,0.2047,0.0,0.8876,0.9999,0.9999,NA
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.3507,0.3312,0.2905,0.2047,0.0,0.8409,1.0000,0.9999,NA
+GCF_000092025.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,Agrobacterium fabrum str. C58,0.3411,0.3487,0.2110,0.2048,0.0,0.9540,0.9996,0.9996,NA
+GCF_000420325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Spongiibacteraceae,Spongiibacter,Spongiibacter tropicus,Spongiibacter tropicus DSM 19543,0.3392,0.4009,0.0000,0.2048,0.0,1.0000,0.0000,0.0024,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.3391,0.3338,0.2684,0.2047,0.0,0.8559,0.9999,0.9998,NA

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9741,0.3938,0.3548,0.1002,0.0,0.9894,0.9999,0.9998,NA,0.9724,0.9724,0.9469,0.9151,0.8535
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9734,0.3948,0.3427,0.1000,0.0,0.9900,0.9999,0.9999,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9732,0.3892,0.3667,0.1005,0.0,0.9873,1.0000,0.9995,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9672,0.3775,0.3650,0.1005,0.0,0.9791,1.0000,0.9995,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9649,0.3792,0.3418,0.1006,0.0,0.9803,0.9999,0.9994,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9604,0.3681,0.3572,0.1005,0.0,0.9681,1.0000,0.9995,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9579,0.3748,0.3159,0.1006,0.0,0.9766,0.9998,0.9994,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9570,0.3727,0.3154,0.1001,0.0,0.9743,0.9998,0.9998,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9557,0.3727,0.3114,0.1006,0.0,0.9743,0.9998,0.9994,NA,,,,,
+GCF_003181705.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium perfringens,Clostridium perfringens,0.9515,0.4453,0.0000,0.1009,0.0,1.0000,0.0001,0.0007,NA,,,,,

@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Staphylococcus,0.9994319,0.017032566693546868,Staphylococcus_aureus,0.9999998,4.684046043427558

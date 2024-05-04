@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.6565,0.3662,0.3467,0.1894,0.0,0.9833,1.0000,0.9999,NA
+GCF_000427765.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae VF39,0.6243,0.3647,0.3204,0.1894,0.0,0.9818,1.0000,0.9999,NA
+GCF_007004665.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,NAmissing,Rhodospirillaceae bacterium R148,Rhodospirillaceae bacterium R148,0.5963,0.4380,0.0000,0.1896,0.0,1.0000,0.0000,0.0022,NA
+GCF_000008125.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Thermus thermophilus HB27,0.5359,0.3815,0.1689,0.1896,0.0,0.9911,0.9990,0.0020,NA
+GCF_004375085.2,Bacteria,Bacteroidetes,Saprospiria,Saprospirales,Lewinellaceae,Lewinella,Lewinella sp. W8,Lewinella sp. W8,0.5338,0.4232,0.0000,0.1896,0.0,1.0000,0.0000,0.0022,NA
+GCF_003789045.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter sp. R17,Marinobacter sp. R17,0.5317,0.4227,0.0000,0.1896,0.0,1.0000,0.0000,0.0022,NA
+GCF_009388985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,Halioglobus,Halioglobus sp. IMCC14385,Halioglobus sp. IMCC14385,0.5291,0.4221,0.0000,0.1896,0.0,1.0000,0.0000,0.0022,NA
+GCF_000423345.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Cellvibrionaceae,Marinimicrobium,Marinimicrobium agarilyticum,Marinimicrobium agarilyticum DSM 16975,0.5218,0.4204,0.0000,0.1896,0.0,0.9999,0.0000,0.0022,NA
+GCF_004365135.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Labrenzia,Labrenzia sp. PT13C1,Labrenzia sp. PT13C1,0.5190,0.4197,0.0000,0.1896,0.0,0.9999,0.0000,0.0022,NA
+GCF_000364845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter nanhaiticus,Marinobacter nanhaiticus D15-8W,0.5184,0.4196,0.0000,0.1896,0.0,0.9999,0.0000,0.0022,NA

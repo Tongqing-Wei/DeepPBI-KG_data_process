@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9954,0.5274,0.4261,0.1304,0.0,0.9755,1.0000,0.9996,NA,0.9854,0.9854,0.9592,0.9388,0.8950
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9951,0.5458,0.3368,0.1305,0.0,0.9938,0.9997,0.9992,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9943,0.5184,0.4112,0.1304,0.0,0.9689,0.9999,0.9995,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9943,0.5194,0.4021,0.1298,0.0,0.9703,0.9999,0.9999,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9937,0.5194,0.3818,0.1304,0.0,0.9703,0.9998,0.9994,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9934,0.5299,0.3297,0.1303,0.0,0.9771,0.9996,0.9997,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9934,0.5342,0.3113,0.1305,0.0,0.9819,0.9995,0.9991,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9932,0.5195,0.3631,0.1305,0.0,0.9704,0.9998,0.9994,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9931,0.5117,0.3928,0.1304,0.0,0.9628,0.9999,0.9994,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9929,0.5383,0.2791,0.1306,0.0,0.9866,0.9991,0.9988,NA,,,,,

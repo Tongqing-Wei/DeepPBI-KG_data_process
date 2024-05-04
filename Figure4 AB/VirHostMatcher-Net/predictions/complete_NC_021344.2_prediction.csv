@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000009565.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli BL21(DE3),0.9941,0.5185,0.6835,0.1739,0.0,0.9933,1.0000,1.0000,NA,0.9867,0.9867,0.9629,0.9390,0.8992
+GCF_000754175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,Shigella flexneri,0.9842,0.5217,0.4413,0.1745,0.0,0.9963,1.0000,0.9999,NA,,,,,
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.9810,0.5208,0.4040,0.1748,0.0,0.9955,0.9999,0.9997,NA,,,,,
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.9806,0.5158,0.4188,0.1748,0.0,0.9910,1.0000,0.9998,NA,,,,,
+GCF_002150905.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,Shigella sonnei,0.9793,0.5143,0.4095,0.1748,0.0,0.9899,0.9999,0.9997,NA,,,,,
+GCF_000833145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.9784,0.5182,0.3844,0.1749,0.0,0.9930,0.9999,0.9996,NA,,,,,
+GCF_000732965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O157:H7 str. EDL933,0.9783,0.5132,0.4026,0.1748,0.0,0.9893,0.9999,0.9997,NA,,,,,
+GCF_000981485.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli K-12,0.9766,0.5166,0.3664,0.1742,0.0,0.9916,0.9998,1.0000,NA,,,,,
+GCF_000332755.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli APEC O78,0.9755,0.5191,0.3497,0.1749,0.0,0.9937,0.9998,0.9995,NA,,,,,
+GCF_000007445.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli CFT073,0.9746,0.5206,0.3354,0.1749,0.0,0.9953,0.9997,0.9994,NA,,,,,

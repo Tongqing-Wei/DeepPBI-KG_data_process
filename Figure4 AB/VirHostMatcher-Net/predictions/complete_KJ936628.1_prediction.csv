@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9443,0.4466,0.5257,0.1880,0.0,0.9870,1.0000,0.9999,NA,0.9721,0.9721,0.9402,0.9044,0.8307
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9279,0.4410,0.4867,0.1884,0.0,0.9819,0.9999,0.9995,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9159,0.4463,0.4271,0.1885,0.0,0.9866,0.9998,0.9994,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9046,0.4124,0.5296,0.1884,0.0,0.9442,1.0000,0.9996,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9001,0.4104,0.5259,0.1884,0.0,0.9394,1.0000,0.9996,NA,,,,,
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.8702,0.4296,0.3808,0.1886,0.0,0.9710,0.9997,0.9992,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8608,0.4249,0.3735,0.1875,0.0,0.9657,0.9996,1.0000,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.8588,0.4360,0.3329,0.1886,0.0,0.9778,0.9992,0.9989,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.8558,0.4269,0.3634,0.1886,0.0,0.9679,0.9995,0.9990,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.8540,0.4222,0.3789,0.1886,0.0,0.9620,0.9997,0.9992,NA,,,,,

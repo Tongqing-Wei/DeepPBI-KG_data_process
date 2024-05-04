@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9996,0.5880,0.7687,0.1291,0.0,0.9992,1.0000,0.9998,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9996,0.5709,0.7881,0.1291,0.0,0.9953,1.0000,0.9998,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9995,0.6033,0.6563,0.1293,0.0,1.0000,1.0000,0.9997,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9993,0.5892,0.6151,0.1282,0.0,0.9992,1.0000,1.0000,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9988,0.5941,0.4686,0.1295,0.0,0.9997,0.9999,0.9995,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9988,0.5785,0.5202,0.1295,0.0,0.9974,0.9999,0.9996,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9980,0.5798,0.3997,0.1293,0.0,0.9978,0.9998,0.9998,NA,,,,,
+GCF_901542495.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus hyicus,Staphylococcus hyicus,0.9925,0.6035,0.0000,0.1299,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000557145.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus M0537,0.9918,0.5988,0.0000,0.1299,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001838775.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus sp. HMSC34H10,Staphylococcus sp. HMSC34H10,0.9918,0.5988,0.0000,0.1299,0.0,1.0000,0.0000,0.0008,NA,,,,,

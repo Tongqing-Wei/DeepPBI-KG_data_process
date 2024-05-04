@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9998,0.5743,0.9422,0.1227,0.0,0.9852,1.0000,1.0000,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9989,0.5826,0.4981,0.1242,0.0,0.9901,1.0000,0.9997,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9983,0.5961,0.3421,0.1244,0.0,0.9996,0.9997,0.9993,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9977,0.5674,0.3837,0.1244,0.0,0.9842,0.9999,0.9995,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9976,0.5860,0.2992,0.1245,0.0,0.9943,0.9995,0.9991,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9974,0.5781,0.3166,0.1244,0.0,0.9864,0.9996,0.9992,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9964,0.5359,0.4049,0.1236,0.0,0.9709,1.0000,0.9999,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9962,0.5423,0.3705,0.1244,0.0,0.9789,0.9998,0.9995,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9962,0.5375,0.3881,0.1244,0.0,0.9739,0.9999,0.9995,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9960,0.5372,0.3765,0.1241,0.0,0.9732,0.9999,0.9998,NA,,,,,

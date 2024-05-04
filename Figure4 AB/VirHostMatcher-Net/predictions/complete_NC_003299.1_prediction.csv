@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003415675.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhodoferax,Rhodoferax sp. IMCC26218,Rhodoferax sp. IMCC26218,0.3806,0.1923,0.1448,0.0917,0.0,0.9979,0.9999,0.9997,NA
+GCF_000063505.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803,0.3294,0.1853,0.1168,0.0912,0.0,0.9938,0.9996,1.0000,NA
+GCF_000427765.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae VF39,0.3223,0.1703,0.1727,0.0917,0.0,0.9393,1.0000,0.9999,NA
+GCF_900114765.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas pachastrellae,Pseudomonas pachastrellae,0.3079,0.2097,0.0000,0.0918,0.0,1.0000,0.0001,0.0018,NA
+GCF_001989375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas pachastrellae,Pseudomonas pachastrellae,0.3075,0.2096,0.0000,0.0918,0.0,1.0000,0.0001,0.0018,NA
+GCF_003444685.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas gallaeciensis,Pseudomonas gallaeciensis,0.2941,0.2059,0.0000,0.0918,0.0,1.0000,0.0001,0.0018,NA
+GCF_000153285.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7805,Synechococcus sp. WH 7805,0.2929,0.1769,0.1145,0.0918,0.0,0.9733,0.9995,0.9993,NA
+GCF_900217235.1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Pseudodesulfovibrio,Pseudodesulfovibrio profundus,Pseudodesulfovibrio profundus,0.2912,0.2051,0.0000,0.0918,0.0,1.0000,0.0001,0.0018,NA
+GCF_002307495.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas abyssi,Pseudomonas abyssi,0.2893,0.2045,0.0000,0.0918,0.0,0.9999,0.0001,0.0018,NA
+GCF_900129015.1,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Cnuella,Cnuella takakiae,Cnuella takakiae,0.2878,0.2041,0.0000,0.0918,0.0,0.9999,0.0001,0.0018,NA

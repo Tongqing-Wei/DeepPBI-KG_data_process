@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8443,0.2748,0.2094,0.0741,0.0,0.9975,1.0000,0.9996,NA,0.9525,0.9525,0.9177,0.8757,0.7824
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.8432,0.2830,0.1740,0.0740,0.0,0.9994,0.9998,0.9998,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.7862,0.2614,0.1724,0.0742,0.0,0.9828,0.9998,0.9993,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.7774,0.2658,0.1432,0.0742,0.0,0.9872,0.9993,0.9989,NA,,,,,
+GCF_003856525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. LJC006,Vibrio sp. LJC006,0.7733,0.3003,0.0000,0.0743,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000259175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii,Providencia stuartii MRSN 2154,0.7602,0.2552,0.1625,0.0742,0.0,0.9775,0.9996,0.9992,NA,,,,,
+GCF_003716875.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. HBUAS61001,Vibrio sp. HBUAS61001,0.7539,0.2940,0.0000,0.0743,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_003544875.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alfacsensis,Vibrio alfacsensis,0.7512,0.2931,0.0000,0.0743,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_003605645.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. BEI233,Vibrio sp. BEI233,0.7465,0.2917,0.0000,0.0743,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000733315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. ER1A,Vibrio sp. ER1A,0.7421,0.2903,0.0000,0.0743,0.0,0.9999,0.0001,0.0008,NA,,,,,

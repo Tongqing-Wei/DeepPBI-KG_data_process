@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Streptococcus,0.9996412,0.009691751098566926,Streptococcus_thermophilus,0.9999992,4.573612360882083

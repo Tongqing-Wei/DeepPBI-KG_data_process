@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.4766,0.3897,0.2877,0.2215,0.0,0.9930,0.9997,0.9998,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.4632,0.3845,0.2964,0.2216,0.0,0.9900,0.9997,0.9996,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4628,0.2944,0.2750,0.1627,0.0,0.8060,0.9996,1.0000,NA
+GCF_001275725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas coronafaciens,Pseudomonas coronafaciens pv. porri,0.4612,0.3836,0.2973,0.2215,0.0,0.9894,0.9997,0.9998,NA
+GCF_003415675.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhodoferax,Rhodoferax sp. IMCC26218,Rhodoferax sp. IMCC26218,0.4148,0.3484,0.3943,0.2215,0.0,0.9579,1.0000,0.9999,NA
+GCF_000710145.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Delftia,Delftia sp. 670,Delftia sp. 670,0.3854,0.3326,0.4285,0.2214,0.0,0.9240,1.0000,0.9999,NA
+GCF_002754475.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Comamonas,Comamonas sp. 26,Comamonas sp. 26,0.2962,0.4167,0.0000,0.2217,0.0,1.0000,0.0001,0.0023,NA
+GCF_000336555.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Afipia,Afipia clevelandensis,Afipia clevelandensis ATCC 49720,0.2961,0.4167,0.0000,0.2217,0.0,1.0000,0.0001,0.0023,NA
+GCF_009600465.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.2954,0.4165,0.0000,0.2217,0.0,1.0000,0.0001,0.0023,NA
+GCF_000219645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,NAmissing,Bradyrhizobiaceae bacterium SG-6C,Bradyrhizobiaceae bacterium SG-6C,0.2940,0.4161,0.0000,0.2217,0.0,1.0000,0.0001,0.0023,NA

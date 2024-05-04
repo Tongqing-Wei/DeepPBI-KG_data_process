@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9474,0.4014,0.2342,0.1129,0.0,0.9998,0.9994,0.9990,NA,0.9719,0.9719,0.9399,0.9058,0.8357
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9371,0.3967,0.2089,0.1129,0.0,0.9987,0.9991,0.9988,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9313,0.3767,0.2668,0.1129,0.0,0.9879,0.9997,0.9992,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9296,0.3659,0.3035,0.1128,0.0,0.9725,1.0000,0.9996,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9234,0.3696,0.2678,0.1129,0.0,0.9803,0.9997,0.9993,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9170,0.3651,0.2642,0.1127,0.0,0.9708,0.9997,0.9997,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9162,0.3643,0.2661,0.1129,0.0,0.9691,0.9997,0.9992,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9088,0.3577,0.2707,0.1129,0.0,0.9591,0.9998,0.9993,NA,,,,,
+GCF_001580475.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.9043,0.3521,0.2809,0.1129,0.0,0.9527,0.9999,0.9994,NA,,,,,
+GCF_000186525.1,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,Coprobacillus,Coprobacillus cateniformis,Coprobacillus cateniformis,0.8928,0.4151,0.0000,0.1131,0.0,1.0000,0.0001,0.0008,NA,,,,,

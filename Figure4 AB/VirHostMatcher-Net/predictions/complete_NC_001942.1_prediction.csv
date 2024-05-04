@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000020065.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma arthritidis,Mycoplasma arthritidis 158L3-1,0.9089,0.3758,0.0000,0.0822,0.0,1.0000,0.0000,0.0008,NA,0.9635,0.9635,0.9327,0.8923,0.8115
+GCF_900660645.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma citelli,Mycoplasma citelli,0.8745,0.3548,0.0000,0.0822,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_900660595.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma californicum,Mycoplasma californicum,0.8617,0.3483,0.0000,0.0822,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_900660715.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma arthritidis,Mycoplasma arthritidis,0.8607,0.3478,0.0000,0.0822,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.8587,0.2961,0.2021,0.0821,0.0,0.9983,0.9997,0.9994,NA,,,,,
+GCF_000367805.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovigenitalium,Mycoplasma bovigenitalium 51080,0.8560,0.3456,0.0000,0.0822,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.8553,0.2943,0.2033,0.0821,0.0,0.9977,0.9998,0.9994,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.8527,0.2988,0.1794,0.0820,0.0,0.9989,0.9996,0.9997,NA,,,,,
+GCF_900660525.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma bovigenitalium,Mycoplasma bovigenitalium,0.8462,0.3410,0.0000,0.0822,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_900660675.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma columborale,Mycoplasma columborale,0.8358,0.3365,0.0000,0.0822,0.0,0.9999,0.0000,0.0008,NA,,,,,

@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Corynebacterium,0.9975573,0.05892088352509291,Corynebacterium_vitaeruminis,0.99999875,6.191711817846436

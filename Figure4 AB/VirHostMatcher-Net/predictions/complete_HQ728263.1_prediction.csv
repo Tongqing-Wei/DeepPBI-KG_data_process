@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9786,0.4218,0.3961,0.1170,0.0,0.9873,0.9998,0.9994,NA,0.9743,0.9743,0.9507,0.9186,0.8565
+GCF_000467895.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. F0091,Prevotella sp. F0091,0.9771,0.5174,0.0000,0.1173,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9770,0.3970,0.4756,0.1164,0.0,0.9703,1.0000,0.9999,NA,,,,,
+GCF_002208725.2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.9769,0.5169,0.0000,0.1173,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_000144405.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica ATCC 25845,0.9769,0.5169,0.0000,0.1173,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_003609775.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.9766,0.5160,0.0000,0.1173,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_000163035.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica D18,0.9764,0.5155,0.0000,0.1173,0.0,0.9999,0.0001,0.0005,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9736,0.4277,0.3236,0.1170,0.0,0.9918,0.9995,0.9990,NA,,,,,
+GCF_000517825.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. ICM33,Prevotella sp. ICM33,0.9725,0.5064,0.0000,0.1173,0.0,0.9999,0.0001,0.0005,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.9722,0.4248,0.3229,0.1170,0.0,0.9897,0.9995,0.9990,NA,,,,,

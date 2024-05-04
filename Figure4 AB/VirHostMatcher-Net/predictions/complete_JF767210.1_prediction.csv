@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9965,0.5142,0.4526,0.1167,0.0,0.9995,1.0000,0.9999,NA,0.9844,0.9844,0.9564,0.9346,0.8941
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9960,0.5124,0.4338,0.1172,0.0,0.9993,1.0000,0.9998,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9959,0.5050,0.4606,0.1176,0.0,0.9978,1.0000,0.9996,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9831,0.4565,0.3190,0.1177,0.0,0.9856,0.9996,0.9992,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9826,0.4434,0.3636,0.1177,0.0,0.9695,0.9999,0.9994,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9813,0.4404,0.3575,0.1174,0.0,0.9661,0.9998,0.9997,NA,,,,,
+GCF_004318505.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.9777,0.5200,0.0000,0.1180,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_007114005.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.9774,0.5192,0.0000,0.1180,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_004319085.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.9774,0.5192,0.0000,0.1180,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_900243265.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.9773,0.5190,0.0000,0.1180,0.0,1.0000,0.0000,0.0008,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.8860,0.2907,0.2703,0.0803,0.0,0.9978,1.0000,0.9996,NA,0.9550,0.9550,0.9212,0.8818,0.7936
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.8697,0.2931,0.2229,0.0801,0.0,0.9987,0.9999,0.9999,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.8663,0.2935,0.2156,0.0802,0.0,0.9989,0.9999,0.9998,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.8218,0.2737,0.2165,0.0804,0.0,0.9827,0.9999,0.9995,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.8092,0.2760,0.1880,0.0804,0.0,0.9866,0.9997,0.9992,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.8072,0.2723,0.1997,0.0804,0.0,0.9787,0.9998,0.9993,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.7994,0.2672,0.2087,0.0804,0.0,0.9658,0.9998,0.9994,NA,,,,,
+GCF_900129815.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Asaccharospora,Asaccharospora irregularis,Asaccharospora irregularis DSM 2635,0.7959,0.3183,0.0000,0.0806,0.0,1.0000,0.0001,0.0009,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.7890,0.2691,0.1855,0.0803,0.0,0.9694,0.9996,0.9997,NA,,,,,
+GCF_001594005.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tepidiprofundi,Clostridium tepidiprofundi DSM 19306,0.7748,0.3109,0.0000,0.0806,0.0,1.0000,0.0001,0.0009,NA,,,,,

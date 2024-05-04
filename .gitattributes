@@ -1,0 +1,16 @@
+Figure1[[:space:]]A/RF_all_sample.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure1[[:space:]]B/Mycobacterium_phage.fa filter=lfs diff=lfs merge=lfs -text
+Figure1[[:space:]]CD/RF_all_sample.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure3[[:space:]]A/key_gene_test_set.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure3[[:space:]]A/key_gene_train_set.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure3[[:space:]]A/key_gene_train_set_random.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure3[[:space:]]B/RF_all_sample.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure3[[:space:]]CD/swissprot filter=lfs diff=lfs merge=lfs -text
+Figure3[[:space:]]CD/swissprot.dmnd filter=lfs diff=lfs merge=lfs -text
+Figure4[[:space:]]AB/MyModel/external_key_gene_PHI_new.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure4[[:space:]]AB/MyModel/external_PHI_final.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure4[[:space:]]C/MyModel/external_key_gene_PHI_new.xlsx filter=lfs diff=lfs merge=lfs -text
+Figure4[[:space:]]D/讨论菌种AUC的负样本_key_gene.xlsx filter=lfs diff=lfs merge=lfs -text
+Table2/MyModel/KP_RF_train_set.xlsx filter=lfs diff=lfs merge=lfs -text
+Table2/MyModel/KP_train_set_new.xlsx filter=lfs diff=lfs merge=lfs -text
+Table2/PB-LKS/KP_train_set_new.xlsx filter=lfs diff=lfs merge=lfs -text

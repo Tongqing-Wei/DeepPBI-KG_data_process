@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003610015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Zymobacter,Zymobacter palmae,Zymobacter palmae,0.3056,0.2075,0.0000,0.0908,0.0,1.0000,0.0001,0.0023,NA
+GCF_000527155.1,Bacteria,Actinobacteria,Actinobacteria,Glycomycetales,Glycomycetaceae,Haloglycomyces,Haloglycomyces albus,Haloglycomyces albus DSM 45210,0.3015,0.2063,0.0000,0.0908,0.0,1.0000,0.0001,0.0023,NA
+GCF_000620025.1,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Zymobacter,Zymobacter palmae,Zymobacter palmae DSM 10491,0.3002,0.2060,0.0000,0.0908,0.0,1.0000,0.0001,0.0023,NA
+GCF_001687305.1,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinomyces,Actinomyces vulturis,Actinomyces vulturis,0.2680,0.1967,0.0000,0.0908,0.0,1.0000,0.0001,0.0023,NA
+GCF_001051235.1,Bacteria,Proteobacteria,Gammaproteobacteria,NAmissing,Candidatus Competibacteraceae,Candidatus Competibacter,Candidatus Competibacter denitrificans,Candidatus Competibacter denitrificans Run_A_D11,0.2679,0.1967,0.0000,0.0908,0.0,0.9999,0.0001,0.0023,NA
+GCF_000010085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',0.2645,0.1684,0.1092,0.0908,0.0,0.9690,0.9997,0.9996,NA
+GCF_000439085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Budviciaceae,Leminorella,Leminorella grimontii,Leminorella grimontii ATCC 33999 = DSM 5078,0.2642,0.1956,0.0000,0.0908,0.0,0.9999,0.0001,0.0023,NA
+GCF_902385615.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Budviciaceae,Leminorella,Leminorella grimontii,Leminorella grimontii,0.2642,0.1956,0.0000,0.0908,0.0,0.9999,0.0001,0.0023,NA
+GCF_002332255.1,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas sp. JB37,Halomonas sp. JB37,0.2640,0.1955,0.0000,0.0908,0.0,0.9999,0.0001,0.0023,NA
+GCF_000735425.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Budviciaceae,Leminorella,Leminorella grimontii,Leminorella grimontii ATCC 33999 = DSM 5078,0.2634,0.1953,0.0000,0.0908,0.0,0.9999,0.0001,0.0023,NA

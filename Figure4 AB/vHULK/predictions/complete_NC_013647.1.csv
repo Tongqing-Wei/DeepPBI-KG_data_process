@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Klebsiella,0.9904468,0.1848377278811995,Klebsiella_pneumoniae,0.9999937,4.666890559209945

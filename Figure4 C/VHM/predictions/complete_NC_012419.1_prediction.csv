@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9942,0.4110,0.6392,0.0998,0.0,0.9987,1.0000,0.9998,NA,0.9867,0.9867,0.9629,0.9390,0.8992
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9827,0.4106,0.3837,0.1002,0.0,0.9986,1.0000,0.9995,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9815,0.4212,0.3254,0.1002,0.0,0.9997,0.9998,0.9993,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9790,0.4028,0.3679,0.1002,0.0,0.9952,0.9999,0.9995,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9777,0.4038,0.3507,0.1002,0.0,0.9956,0.9999,0.9994,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9764,0.4052,0.3314,0.1002,0.0,0.9963,0.9998,0.9993,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9755,0.4023,0.3304,0.0997,0.0,0.9947,0.9998,0.9999,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9753,0.3954,0.3596,0.1002,0.0,0.9899,0.9999,0.9995,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9709,0.3910,0.3283,0.0988,0.0,0.9856,0.9998,1.0000,NA,,,,,
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9678,0.3933,0.3040,0.1003,0.0,0.9877,0.9997,0.9993,NA,,,,,

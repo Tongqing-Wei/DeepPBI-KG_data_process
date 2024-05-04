@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Aeromonas,0.9999393,0.0019882565228054984,Aeromonas_hydrophila,0.9999993,2.803908327108827

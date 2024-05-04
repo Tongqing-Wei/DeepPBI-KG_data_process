@@ -1,0 +1,12 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9963,0.5612,0.4207,0.1429,0.0,0.9918,0.9999,0.9997,NA,0.9844,0.9844,0.9564,0.9346,0.8941
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9957,0.5542,0.4182,0.1433,0.0,0.9891,0.9999,0.9995,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9956,0.5577,0.3935,0.1427,0.0,0.9908,0.9998,0.9998,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9952,0.5381,0.4524,0.1432,0.0,0.9800,1.0000,0.9995,NA,,,,,
+GCF_000302555.5,Bacteria,Proteobacteria,Epsilonproteobacteria,Campylobacterales,Campylobacteraceae,Campylobacter,Campylobacter jejuni,Campylobacter jejuni subsp. jejuni PT14,0.9938,0.3961,0.9598,0.1426,0.0,0.8397,1.0000,0.9999,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9918,0.5335,0.3444,0.1429,0.0,0.9755,0.9996,0.9998,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9918,0.5353,0.3398,0.1434,0.0,0.9778,0.9995,0.9993,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9916,0.5352,0.3352,0.1434,0.0,0.9778,0.9995,0.9992,NA,,,,,
+GCF_900232905.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Miniphocibacter,Miniphocibacter massiliensis,Miniphocibacter massiliensis,0.9915,0.6185,0.0000,0.1436,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_900092375.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium septicum,Clostridium septicum,0.9914,0.6180,0.0000,0.1436,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_902386445.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium septicum,Clostridium septicum,0.9914,0.6180,0.0000,0.1436,0.0,1.0000,0.0000,0.0012,NA,,,,,

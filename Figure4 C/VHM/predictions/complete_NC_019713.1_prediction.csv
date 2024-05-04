@@ -1,0 +1,12 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.4092,0.3131,0.2760,0.1823,0.0,0.9835,0.9999,0.9997,NA
+GCF_002265625.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. 885,Prevotella sp. 885,0.4063,0.3815,0.0000,0.1824,0.0,1.0000,0.0000,0.0017,NA
+GCF_000614565.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O153:H2 str. 2010C-5034,0.3808,0.3148,0.2420,0.1823,0.0,0.9875,0.9997,0.9996,NA
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.3750,0.3167,0.2288,0.1824,0.0,0.9907,0.9995,0.9993,NA
+GCF_000235885.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella stercorea,Prevotella stercorea DSM 18206,0.3686,0.3722,0.0000,0.1824,0.0,1.0000,0.0000,0.0017,NA
+GCF_002150905.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,Shigella sonnei,0.3673,0.3136,0.2333,0.1823,0.0,0.9850,0.9996,0.9995,NA
+GCF_000011605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum SCRI1043,0.3663,0.2972,0.2967,0.1821,0.0,0.9455,1.0000,0.9999,NA
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.3639,0.3116,0.2379,0.1823,0.0,0.9788,0.9997,0.9995,NA
+GCF_000732965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O157:H7 str. EDL933,0.3628,0.3174,0.2137,0.1824,0.0,0.9913,0.9993,0.9991,NA
+GCF_902364475.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella stercorea,Prevotella stercorea,0.3556,0.3690,0.0000,0.1824,0.0,1.0000,0.0000,0.0017,NA
+GCF_003473415.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella stercorea,Prevotella stercorea,0.3556,0.3690,0.0000,0.1824,0.0,1.0000,0.0000,0.0017,NA

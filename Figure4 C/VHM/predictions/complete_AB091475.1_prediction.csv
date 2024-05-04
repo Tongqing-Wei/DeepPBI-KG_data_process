@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.4475,0.1738,0.1154,0.0658,0.0,0.9943,0.9995,0.9999,NA
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.4457,0.1646,0.1520,0.0660,0.0,0.9870,1.0000,0.9996,NA
+GCF_000960765.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfosporosinus,Desulfosporosinus sp. I2,Desulfosporosinus sp. I2,0.4087,0.1939,0.0000,0.0661,0.0,1.0000,0.0001,0.0008,NA
+GCF_004551515.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas levii,Porphyromonas levii,0.4058,0.1932,0.0000,0.0661,0.0,1.0000,0.0001,0.0008,NA
+GCF_000379925.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas levii,Porphyromonas levii DSM 23370,0.4040,0.1928,0.0000,0.0661,0.0,1.0000,0.0001,0.0008,NA
+GCF_004551505.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas levii,Porphyromonas levii,0.4036,0.1927,0.0000,0.0661,0.0,1.0000,0.0001,0.0008,NA
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.4022,0.1584,0.1351,0.0661,0.0,0.9764,0.9999,0.9994,NA
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.3989,0.1668,0.0989,0.0661,0.0,0.9899,0.9991,0.9988,NA
+GCF_000224595.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. C561,Prevotella sp. C561,0.3941,0.1904,0.0000,0.0661,0.0,0.9999,0.0001,0.0008,NA
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.3927,0.1632,0.1070,0.0661,0.0,0.9844,0.9993,0.9989,NA

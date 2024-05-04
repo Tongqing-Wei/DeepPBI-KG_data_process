@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900000025.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma phagocytophilum,Anaplasma phagocytophilum,0.6903,0.2721,0.0000,0.0722,0.0,1.0000,0.0001,0.0009,NA
+GCF_000448605.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HSISS3,Streptococcus sp. HSISS3,0.6781,0.2688,0.0000,0.0722,0.0,1.0000,0.0001,0.0009,NA
+GCF_000689615.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma phagocytophilum,Anaplasma phagocytophilum str. CRT35,0.6765,0.2683,0.0000,0.0722,0.0,1.0000,0.0001,0.0009,NA
+GCF_000689635.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma phagocytophilum,Anaplasma phagocytophilum str. Norway variant2,0.6710,0.2669,0.0000,0.0722,0.0,1.0000,0.0001,0.0009,NA
+GCF_902167585.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus thermophilus,Streptococcus thermophilus,0.6706,0.2668,0.0000,0.0722,0.0,0.9999,0.0001,0.0009,NA
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.6633,0.2312,0.1319,0.0718,0.0,0.9881,0.9990,0.9999,NA
+GCF_000448665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HSISS2,Streptococcus sp. HSISS2,0.6623,0.2646,0.0000,0.0722,0.0,0.9999,0.0001,0.0009,NA
+GCF_900088645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma phagocytophilum,Anaplasma phagocytophilum,0.6604,0.2641,0.0000,0.0722,0.0,0.9999,0.0001,0.0009,NA
+GCF_002849375.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Anaplasma,Anaplasma phagocytophilum,Anaplasma phagocytophilum,0.6601,0.2640,0.0000,0.0722,0.0,0.9999,0.0001,0.0009,NA
+GCF_001546835.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius,Streptococcus salivarius,0.6592,0.2638,0.0000,0.0722,0.0,0.9999,0.0001,0.0009,NA

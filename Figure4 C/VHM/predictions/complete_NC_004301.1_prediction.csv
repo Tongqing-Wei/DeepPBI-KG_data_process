@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001318295.1,Bacteria,Verrucomicrobia,Spartobacteria,NAmissing,NAmissing,Candidatus Xiphinematobacter,Candidatus Xiphinematobacter sp. Idaho Grape,Candidatus Xiphinematobacter sp. Idaho Grape,0.4551,0.1453,0.0000,0.0293,0.0,1.0000,0.0004,0.0010,NA
+GCF_002118285.1,Bacteria,Proteobacteria,Alphaproteobacteria,Kiloniellales,Kiloniellaceae,Kiloniella,Kiloniella majae,Kiloniella majae,0.4034,0.1329,0.0000,0.0293,0.0,1.0000,0.0004,0.0010,NA
+GCF_900107215.1,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Acetomicrobium,Acetomicrobium thermoterrenum,Acetomicrobium thermoterrenum DSM 13490,0.3966,0.1313,0.0000,0.0293,0.0,1.0000,0.0004,0.0010,NA
+GCF_000160455.2,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Acetomicrobium,Acetomicrobium hydrogeniformans,Acetomicrobium hydrogeniformans ATCC BAA-1850,0.3733,0.1255,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA
+GCF_902374045.1,Bacteria,Synergistetes,Synergistia,Synergistales,Synergistaceae,Acetomicrobium,Acetomicrobium hydrogeniformans,Acetomicrobium hydrogeniformans,0.3733,0.1255,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA
+GCF_001553115.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Peptoniphilus,Peptoniphilus coxii,Peptoniphilus coxii,0.3681,0.1242,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA
+GCF_000169115.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,NAmissing,marine gamma proteobacterium HTCC2080,marine gamma proteobacterium HTCC2080,0.3528,0.1204,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA
+GCF_000015205.1,Archaea,Crenarchaeota,Thermoprotei,Thermoproteales,Thermoproteaceae,Pyrobaculum,Pyrobaculum islandicum,Pyrobaculum islandicum DSM 4184,0.3486,0.1193,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA
+GCF_000745905.1,Bacteria,Actinobacteria,Acidimicrobiia,Acidimicrobiales,Acidimicrobiaceae,Ferrimicrobium,Ferrimicrobium acidiphilum,Ferrimicrobium acidiphilum DSM 19497,0.3476,0.1190,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA
+GCF_001560465.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.3467,0.1188,0.0000,0.0293,0.0,0.9999,0.0004,0.0010,NA

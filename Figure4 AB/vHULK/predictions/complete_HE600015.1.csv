@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Dickeya,0.991808,0.14867304864045536,Dickeya_solani,0.9999875,2.381067853022638

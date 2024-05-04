@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Shigella,0.5646473,1.8260585465045014,Shigella_flexneri,0.99994445,1.4869310406103509

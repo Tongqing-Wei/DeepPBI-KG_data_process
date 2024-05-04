@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Rhodococcus,0.9897649,0.20996994528136384,Rhodococcus_equi,0.99999726,6.072774926535614

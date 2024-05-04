@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9941,0.4191,0.6646,0.1098,0.0,0.9758,1.0000,0.9997,NA,0.9867,0.9867,0.9629,0.9390,0.8992
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9922,0.4128,0.6259,0.1098,0.0,0.9623,1.0000,0.9997,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9769,0.3786,0.5055,0.1099,0.0,0.9148,1.0000,0.9996,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9757,0.4108,0.3663,0.1101,0.0,0.9588,0.9999,0.9995,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9706,0.4230,0.2724,0.1102,0.0,0.9808,0.9993,0.9990,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9683,0.4088,0.3091,0.1099,0.0,0.9560,0.9997,0.9996,NA,,,,,
+GCF_002743115.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina sp. P17b,Sporosarcina sp. P17b,0.9676,0.4854,0.0000,0.1104,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_002743245.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina sp. P26b,Sporosarcina sp. P26b,0.9663,0.4830,0.0000,0.1104,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_002743375.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina sp. P34,Sporosarcina sp. P34,0.9657,0.4819,0.0000,0.1104,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_002109325.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina ureae,Sporosarcina ureae,0.9651,0.4808,0.0000,0.1104,0.0,1.0000,0.0001,0.0007,NA,,,,,

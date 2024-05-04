@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000269945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Lactococcus garvieae Lg2,0.9463,0.4785,0.3147,0.1737,0.0,0.9919,0.9993,0.9989,NA,0.9720,0.9720,0.9400,0.9040,0.8340
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9462,0.4708,0.3450,0.1737,0.0,0.9880,0.9997,0.9992,NA,,,,,
+GCF_008520265.1,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium sp. 5.0403-2,Sphingobacterium sp. 5.0403-2,0.9383,0.5487,0.0000,0.1739,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9362,0.4713,0.3006,0.1737,0.0,0.9882,0.9991,0.9988,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9357,0.3678,0.7102,0.1732,0.0,0.8214,1.0000,0.9998,NA,,,,,
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9339,0.4461,0.3919,0.1736,0.0,0.9623,0.9999,0.9994,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.9318,0.4691,0.2927,0.1737,0.0,0.9871,0.9989,0.9987,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.9315,0.4653,0.3067,0.1737,0.0,0.9844,0.9992,0.9988,NA,,,,,
+GCF_004138395.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,Candidatus Saccharibacteria bacterium TM7_G3_2_Rum_HOT_351B,Candidatus Saccharibacteria bacterium TM7_G3_2_Rum_HOT_351B,0.9313,0.5420,0.0000,0.1739,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9246,0.4253,0.4421,0.1735,0.0,0.9418,1.0000,0.9996,NA,,,,,

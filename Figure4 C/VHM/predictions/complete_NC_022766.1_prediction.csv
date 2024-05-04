@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000024465.1,Bacteria,Proteobacteria,Alphaproteobacteria,NAmissing,NAmissing,Candidatus Puniceispirillum,Candidatus Puniceispirillum marinum,Candidatus Puniceispirillum marinum IMCC1322,0.8068,0.3235,0.2947,0.1268,0.0,0.9937,1.0000,0.9995,NA,0.9515,0.9479,0.9138,0.8725,0.7720
+GCF_003611805.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 1xD42-87,bacterium 1xD42-87,0.7903,0.3915,0.0000,0.1270,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000403215.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,NAmissing,Lachnospiraceae bacterium A4,Lachnospiraceae bacterium A4,0.7449,0.3766,0.0000,0.1270,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_001936615.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfosporosinus,Desulfosporosinus sp. OL,Desulfosporosinus sp. OL,0.7400,0.3751,0.0000,0.1270,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.7351,0.3033,0.2806,0.1268,0.0,0.9595,0.9999,0.9995,NA,,,,,
+GCF_001611555.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Anaerosporomusa,Anaerosporomusa subterranea,Anaerosporomusa subterranea,0.7341,0.3733,0.0000,0.1270,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000011605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum SCRI1043,0.7326,0.3137,0.2353,0.1268,0.0,0.9818,0.9993,0.9997,NA,,,,,
+GCF_001404415.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,[Eubacterium] siraeum,[Eubacterium] siraeum,0.7298,0.3720,0.0000,0.1270,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_902364095.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium,Firmicutes bacterium,0.7293,0.3719,0.0000,0.1270,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_003479265.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium AF19-2LB,Firmicutes bacterium AF19-2LB,0.7293,0.3719,0.0000,0.1270,0.0,0.9999,0.0000,0.0007,NA,,,,,

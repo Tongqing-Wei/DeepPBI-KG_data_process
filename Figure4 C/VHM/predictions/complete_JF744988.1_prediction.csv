@@ -1,0 +1,12 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.5307,0.2283,0.2887,0.1142,0.0,0.9092,1.0000,1.0000,NA
+GCF_001481615.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.2159,0.3247,0.1674,0.2059,0.0,0.9994,0.9993,0.0023,NA
+GCF_008728435.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.2103,0.3245,0.1654,0.2067,0.0,0.9993,0.9993,0.0001,NA
+GCF_001642025.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,[Propionibacterium] namnetense,[Propionibacterium] namnetense,0.1304,0.3309,0.0000,0.2059,0.0,1.0000,0.0002,0.0026,NA
+GCF_003384605.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,[Propionibacterium] namnetense,[Propionibacterium] namnetense,0.1256,0.3284,0.0000,0.2059,0.0,1.0000,0.0002,0.0026,NA
+GCF_001297165.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.1234,0.3273,0.0000,0.2059,0.0,1.0000,0.0002,0.0026,NA
+GCF_001446935.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. TTU2014-080ASC,Pseudomonas sp. TTU2014-080ASC,0.1231,0.3271,0.0000,0.2059,0.0,1.0000,0.0002,0.0026,NA
+GCF_000735065.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes HL201PA1,0.1230,0.3270,0.0000,0.2059,0.0,0.9999,0.0002,0.0026,NA
+GCF_003384175.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.1229,0.3270,0.0000,0.2059,0.0,0.9999,0.0002,0.0026,NA
+GCF_005937705.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.1229,0.3270,0.0000,0.2059,0.0,0.9999,0.0002,0.0026,NA
+GCF_005774135.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.1229,0.3270,0.0000,0.2059,0.0,0.9999,0.0002,0.0026,NA

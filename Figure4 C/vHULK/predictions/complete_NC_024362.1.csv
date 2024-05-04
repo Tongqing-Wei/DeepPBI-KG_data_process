@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Pseudomonas,0.9993812,0.016534869319298196,Pseudomonas_putida,0.999945,4.493008604744676

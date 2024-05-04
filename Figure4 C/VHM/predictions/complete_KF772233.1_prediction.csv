@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000010085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',0.6152,0.4631,0.3822,0.2611,0.0,0.9836,1.0000,0.9999,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.6119,0.3992,0.3071,0.2106,0.0,0.7606,0.9996,1.0000,NA
+GCF_000220485.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae KCTC 2242,0.5940,0.4560,0.3896,0.2611,0.0,0.9632,1.0000,0.9999,NA
+GCF_001450525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5912,0.4611,0.3668,0.2611,0.0,0.9800,0.9999,0.9998,NA
+GCF_001750805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.5874,0.4586,0.3730,0.2611,0.0,0.9723,0.9999,0.9999,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.5825,0.4549,0.3832,0.2611,0.0,0.9593,1.0000,0.9999,NA
+GCF_000263215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,Cronobacter sakazakii ES15,0.5777,0.4531,0.3858,0.2611,0.0,0.9523,1.0000,0.9999,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.5698,0.4593,0.3536,0.2612,0.0,0.9747,0.9999,0.9997,NA
+GCF_001729505.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5647,0.4586,0.3514,0.2612,0.0,0.9724,0.9998,0.9997,NA
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.5567,0.4539,0.3626,0.2612,0.0,0.9558,0.9999,0.9998,NA

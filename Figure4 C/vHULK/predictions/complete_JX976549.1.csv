@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Acinetobacter,0.99988914,0.0038837923703042066,Acinetobacter_baumannii,0.9999989,5.676117852047201

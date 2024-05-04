@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9586,0.4639,0.3518,0.1606,0.0,0.9963,1.0000,0.9996,NA,0.9735,0.9735,0.9430,0.9084,0.8473
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9560,0.4549,0.3714,0.1603,0.0,0.9945,1.0000,0.9998,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9544,0.4649,0.3243,0.1606,0.0,0.9967,0.9998,0.9994,NA,,,,,
+GCF_000817815.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio owensii,Vibrio owensii CAIM 1854 = LMG 25443,0.8740,0.4817,0.0000,0.1608,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000400385.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio owensii,Vibrio owensii CAIM 1854 = LMG 25443,0.8733,0.4813,0.0000,0.1608,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_002929885.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio hyugaensis,Vibrio hyugaensis,0.8707,0.4800,0.0000,0.1608,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_002929985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio jasicida,Vibrio jasicida,0.8694,0.4793,0.0000,0.1608,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_002929865.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio hyugaensis,Vibrio hyugaensis,0.8682,0.4787,0.0000,0.1608,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_002954525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio jasicida,Vibrio jasicida,0.8675,0.4783,0.0000,0.1608,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_000818475.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio hyugaensis,Vibrio hyugaensis,0.8672,0.4782,0.0000,0.1608,0.0,0.9999,0.0001,0.0008,NA,,,,,

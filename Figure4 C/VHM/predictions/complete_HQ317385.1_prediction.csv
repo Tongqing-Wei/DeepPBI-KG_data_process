@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9508,0.5463,0.4551,0.2339,0.0,0.9868,0.9998,0.9996,NA,0.9719,0.9719,0.9398,0.9056,0.8373
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9492,0.5480,0.4406,0.2339,0.0,0.9877,0.9997,0.9995,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9217,0.5402,0.3596,0.2333,0.0,0.9836,0.9994,0.9999,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.9191,0.5342,0.3799,0.2340,0.0,0.9802,0.9996,0.9993,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9178,0.5345,0.3736,0.2339,0.0,0.9804,0.9995,0.9997,NA,,,,,
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.9147,0.5390,0.3466,0.2339,0.0,0.9830,0.9992,0.9996,NA,,,,,
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9048,0.5443,0.2986,0.2341,0.0,0.9858,0.9987,0.9986,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.9015,0.5393,0.3088,0.2340,0.0,0.9832,0.9988,0.9993,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.8984,0.5077,0.4274,0.2340,0.0,0.9543,0.9997,0.9994,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8929,0.5442,0.2680,0.2341,0.0,0.9858,0.9984,0.9989,NA,,,,,

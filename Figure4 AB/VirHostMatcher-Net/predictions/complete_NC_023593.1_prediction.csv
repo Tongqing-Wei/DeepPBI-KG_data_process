@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.9813,0.4078,0.7793,0.1624,0.0,0.8687,1.0000,0.9998,NA,0.9737,0.9737,0.9497,0.9168,0.8578
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9632,0.4445,0.4724,0.1627,0.0,0.9683,1.0000,0.9995,NA,,,,,
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9539,0.4364,0.4479,0.1624,0.0,0.9499,0.9999,0.9998,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9530,0.4571,0.3613,0.1626,0.0,0.9843,0.9995,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9509,0.4318,0.4528,0.1627,0.0,0.9390,0.9999,0.9994,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9507,0.4574,0.3502,0.1629,0.0,0.9846,0.9994,0.9990,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9490,0.4314,0.4451,0.1628,0.0,0.9382,0.9999,0.9994,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9434,0.4544,0.3217,0.1619,0.0,0.9807,0.9991,0.9999,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9342,0.4248,0.4084,0.1628,0.0,0.9225,0.9998,0.9993,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9217,0.4245,0.3647,0.1626,0.0,0.9216,0.9995,0.9996,NA,,,,,

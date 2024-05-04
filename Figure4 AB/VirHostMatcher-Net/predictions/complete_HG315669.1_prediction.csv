@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_008274965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum brasilense,Azospirillum brasilense,0.4508,0.2635,0.2033,0.1343,0.0,0.9817,0.9999,0.9999,NA
+GCF_002708645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. IP1,Sphingobium sp. IP1,0.4028,0.2482,0.2187,0.1343,0.0,0.9345,1.0000,0.9999,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.3751,0.2564,0.1588,0.1343,0.0,0.9651,0.9997,0.9996,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.3687,0.1994,0.1645,0.1010,0.0,0.6942,0.9997,1.0000,NA
+GCF_000342145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa PA21_ST175,0.3674,0.2424,0.2070,0.1343,0.0,0.8986,1.0000,0.9999,NA
+GCF_001450525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.3566,0.2414,0.1999,0.1343,0.0,0.8933,0.9999,0.9999,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.3560,0.2418,0.1976,0.1343,0.0,0.8957,0.9999,0.9998,NA
+GCF_001449605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.3539,0.2411,0.1985,0.1343,0.0,0.8913,0.9999,0.9998,NA
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.3485,0.2553,0.1363,0.1344,0.0,0.9619,0.9995,0.9995,NA
+GCF_003332735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.3380,0.2431,0.1740,0.1343,0.0,0.9029,0.9998,0.9997,NA

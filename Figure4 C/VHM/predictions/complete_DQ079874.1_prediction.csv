@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001546485.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Gardnerella vaginalis,0.7766,0.2745,0.0000,0.0577,0.0,1.0000,0.0002,0.0008,NA,0.9439,0.9404,0.9070,0.8614,0.7561
+GCF_000414465.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Gardnerella vaginalis JCP8481A,0.7758,0.2743,0.0000,0.0577,0.0,1.0000,0.0002,0.0008,NA,,,,,
+GCF_000414445.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Gardnerella vaginalis JCP8481B,0.7743,0.2738,0.0000,0.0577,0.0,1.0000,0.0002,0.0008,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.7636,0.2391,0.1231,0.0575,0.0,0.9985,0.9990,0.9997,NA,,,,,
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.7455,0.2387,0.1030,0.0577,0.0,0.9984,0.9987,0.9985,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.7432,0.2245,0.1533,0.0570,0.0,0.9879,0.9995,0.9999,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7359,0.2107,0.2028,0.0575,0.0,0.9752,0.9999,0.9995,NA,,,,,
+GCF_900091325.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 2013Arg42i,bacterium 2013Arg42i,0.7354,0.2615,0.0000,0.0577,0.0,1.0000,0.0002,0.0008,NA,,,,,
+GCF_000024225.1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Atopobium,Atopobium parvulum,Atopobium parvulum DSM 20469,0.7300,0.2599,0.0000,0.0577,0.0,0.9999,0.0002,0.0008,NA,,,,,
+GCF_002092535.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc pseudomesenteroides,Leuconostoc pseudomesenteroides,0.7176,0.2366,0.0787,0.0577,0.0,0.9971,0.9982,0.9982,NA,,,,,

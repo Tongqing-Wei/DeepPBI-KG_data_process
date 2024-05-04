@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.5478,0.1880,0.1870,0.0711,0.0,0.9920,1.0000,0.9996,NA
+GCF_000451625.2,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile P9,0.5380,0.2326,0.0000,0.0713,0.0,1.0000,0.0001,0.0010,NA
+GCF_004319085.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.5376,0.2325,0.0000,0.0713,0.0,1.0000,0.0001,0.0010,NA
+GCF_004319125.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.5366,0.2323,0.0000,0.0713,0.0,1.0000,0.0001,0.0010,NA
+GCF_004315285.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.5366,0.2323,0.0000,0.0713,0.0,1.0000,0.0001,0.0010,NA
+GCF_004318505.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.5363,0.2322,0.0000,0.0713,0.0,0.9999,0.0001,0.0010,NA
+GCF_004318405.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.5353,0.2320,0.0000,0.0713,0.0,0.9999,0.0001,0.0010,NA
+GCF_000450685.2,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile DA00310,0.5351,0.2319,0.0000,0.0713,0.0,0.9999,0.0001,0.0010,NA
+GCF_901004745.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile,0.5344,0.2318,0.0000,0.0713,0.0,0.9999,0.0001,0.0010,NA
+GCF_000449285.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Clostridioides,Clostridioides difficile,Clostridioides difficile CD129,0.5341,0.2317,0.0000,0.0713,0.0,0.9999,0.0001,0.0010,NA

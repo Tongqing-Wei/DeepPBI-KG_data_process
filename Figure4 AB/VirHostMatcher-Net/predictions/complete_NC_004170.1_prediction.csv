@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900110895.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella aff. ruminicola Tc2-24,Prevotella aff. ruminicola Tc2-24,0.3705,0.2004,0.0000,0.0759,0.0,1.0000,0.0001,0.0014,NA
+GCF_900107065.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. lc2012,Prevotella sp. lc2012,0.3629,0.1985,0.0000,0.0759,0.0,1.0000,0.0001,0.0014,NA
+GCF_900115435.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. tf2-5,Prevotella sp. tf2-5,0.3335,0.1909,0.0000,0.0759,0.0,1.0000,0.0001,0.0014,NA
+GCF_900108325.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella ruminicola,Prevotella ruminicola,0.3304,0.1901,0.0000,0.0759,0.0,1.0000,0.0001,0.0014,NA
+GCF_900107705.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. tc2-28,Prevotella sp. tc2-28,0.3276,0.1893,0.0000,0.0759,0.0,0.9999,0.0001,0.0014,NA
+GCF_900109055.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. khp7,Prevotella sp. khp7,0.3234,0.1882,0.0000,0.0759,0.0,0.9999,0.0001,0.0014,NA
+GCF_000746155.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. FD3004,Prevotella sp. FD3004,0.3208,0.1875,0.0000,0.0759,0.0,0.9999,0.0001,0.0014,NA
+GCF_900110085.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. ne3005,Prevotella sp. ne3005,0.3161,0.1863,0.0000,0.0759,0.0,0.9999,0.0001,0.0014,NA
+GCF_002251345.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. P4-119,Prevotella sp. P4-119,0.3128,0.1854,0.0000,0.0759,0.0,0.9999,0.0001,0.0014,NA
+GCF_005116575.1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfobacterales,Desulfobulbaceae,Desulforhopalus,Desulforhopalus sp. IMCC35007,Desulforhopalus sp. IMCC35007,0.3118,0.1851,0.0000,0.0759,0.0,0.9999,0.0001,0.0014,NA

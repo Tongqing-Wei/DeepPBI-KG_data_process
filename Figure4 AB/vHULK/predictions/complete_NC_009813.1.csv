@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Listeria,0.9974541,0.06533614037703046,Listeria_monocytogenes,0.99998915,5.631716761656031

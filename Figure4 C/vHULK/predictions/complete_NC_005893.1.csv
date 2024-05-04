@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Lactobacillus,0.996293,0.09066445503426622,Lactobacillus_casei,0.99999934,5.5900469332745075

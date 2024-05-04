@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7830,0.2665,0.2188,0.0851,0.0,0.9942,0.9999,0.9994,NA,0.9438,0.9402,0.9069,0.8612,0.7575
+GCF_000023765.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,Candidatus Liberibacter asiaticus str. psy62,0.7730,0.2799,0.1523,0.0852,0.0,0.9998,0.9988,0.9987,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.7679,0.2688,0.1857,0.0846,0.0,0.9957,0.9994,0.9999,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7601,0.2671,0.1856,0.0851,0.0,0.9944,0.9994,0.9997,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.7331,0.2587,0.1866,0.0852,0.0,0.9889,0.9995,0.9990,NA,,,,,
+GCF_902386265.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.7176,0.3009,0.0000,0.0853,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000506865.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.7176,0.3009,0.0000,0.0853,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900099475.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega sp. MC2,Pelistega sp. MC2,0.7108,0.2990,0.0000,0.0853,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_002921285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium versatile,Pectobacterium versatile,0.7086,0.2426,0.2224,0.0851,0.0,0.9659,0.9999,0.9994,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.7030,0.2542,0.1692,0.0851,0.0,0.9825,0.9992,0.9995,NA,,,,,

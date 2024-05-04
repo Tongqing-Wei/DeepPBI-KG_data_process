@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Streptomyces,0.99877065,0.03422744210943165,Streptomyces_griseus,0.9999743,4.738879673710365

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_005697565.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 957,TM7 phylum sp. oral taxon 957,0.4111,0.3576,0.0000,0.1669,0.0,1.0000,0.0001,0.0018,NA
+GCF_005697215.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 488,TM7 phylum sp. oral taxon 488,0.3891,0.3523,0.0000,0.1669,0.0,1.0000,0.0001,0.0018,NA
+GCF_007845255.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 353,TM7 phylum sp. oral taxon 353,0.3867,0.3517,0.0000,0.1669,0.0,1.0000,0.0001,0.0018,NA
+GCF_007845555.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 346,TM7 phylum sp. oral taxon 346,0.3863,0.3516,0.0000,0.1669,0.0,1.0000,0.0001,0.0018,NA
+GCF_008274195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.3770,0.2979,0.2056,0.1669,0.0,0.9941,0.9996,0.9995,NA
+GCF_007845545.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 346,TM7 phylum sp. oral taxon 346,0.3668,0.3468,0.0000,0.1669,0.0,0.9999,0.0001,0.0018,NA
+GCF_001750805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.3645,0.2997,0.1862,0.1669,0.0,0.9971,0.9992,0.9992,NA
+GCF_000220485.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae KCTC 2242,0.3596,0.2974,0.1901,0.1669,0.0,0.9931,0.9993,0.9992,NA
+GCF_001720635.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.3572,0.2980,0.1853,0.1669,0.0,0.9944,0.9992,0.9992,NA
+GCF_009184445.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.3451,0.2957,0.1825,0.1669,0.0,0.9885,0.9991,0.9991,NA

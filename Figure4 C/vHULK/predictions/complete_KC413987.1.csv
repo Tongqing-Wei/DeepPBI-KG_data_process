@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Streptococcus,0.999948,0.0018741007289499124,Streptococcus_suis,0.9999995,6.235030426964655

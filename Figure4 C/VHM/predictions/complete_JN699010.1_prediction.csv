@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.9976,0.5842,0.4499,0.1459,0.0,0.9996,1.0000,1.0000,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_004307055.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.8321,0.5829,0.4540,0.3054,0.0,0.9992,1.0000,0.9999,NA,,,,,
+GCF_003183825.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,Gordonia terrae,Gordonia terrae,0.7106,0.5351,0.4813,0.3054,0.0,0.9832,1.0000,0.9999,NA,,,,,
+GCF_001698225.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,Gordonia terrae,Gordonia terrae,0.6425,0.5353,0.3753,0.3005,0.0,0.9832,0.9999,1.0000,NA,,,,,
+GCF_001612665.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Nocardia alba,Nocardia alba NBRC 108234,0.4858,0.5998,0.0000,0.3056,0.0,1.0000,0.0003,0.0027,NA,,,,,
+GCF_004339125.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Nocardia alba,Nocardia alba,0.4849,0.5996,0.0000,0.3056,0.0,1.0000,0.0003,0.0027,NA,,,,,
+GCF_002101965.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium wolinskyi,Mycolicibacterium wolinskyi,0.4759,0.5975,0.0000,0.3056,0.0,1.0000,0.0003,0.0027,NA,,,,,
+GCF_001545135.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium wolinskyi,Mycolicibacterium wolinskyi,0.4758,0.5975,0.0000,0.3056,0.0,1.0000,0.0003,0.0027,NA,,,,,
+GCF_002846365.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Nocardia fluminea,Nocardia fluminea,0.4749,0.5973,0.0000,0.3056,0.0,0.9999,0.0003,0.0027,NA,,,,,
+GCF_001613085.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Nocardia,Nocardia salmonicida,Nocardia salmonicida NBRC 13393,0.4713,0.5964,0.0000,0.3056,0.0,0.9999,0.0003,0.0027,NA,,,,,

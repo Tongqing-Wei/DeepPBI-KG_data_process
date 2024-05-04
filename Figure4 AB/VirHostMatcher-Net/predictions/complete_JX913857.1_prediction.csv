@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7236,0.2371,0.1914,0.0743,0.0,0.9991,0.9999,0.9995,NA,0.9388,0.9354,0.8946,0.8435,0.7364
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7085,0.2387,0.1669,0.0742,0.0,0.9994,0.9996,0.9997,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.6761,0.2297,0.1681,0.0743,0.0,0.9972,0.9996,0.9992,NA,,,,,
+GCF_902386265.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.6397,0.2624,0.0000,0.0744,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000506865.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.6397,0.2624,0.0000,0.0744,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000023765.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,Candidatus Liberibacter asiaticus str. psy62,0.6325,0.2273,0.1329,0.0744,0.0,0.9959,0.9990,0.9988,NA,,,,,
+GCF_900099475.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega sp. MC2,Pelistega sp. MC2,0.6322,0.2605,0.0000,0.0744,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.6270,0.2183,0.1599,0.0738,0.0,0.9870,0.9995,0.9999,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.6253,0.2273,0.1235,0.0740,0.0,0.9959,0.9988,0.9999,NA,,,,,
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.6211,0.2340,0.0949,0.0744,0.0,0.9984,0.9983,0.9982,NA,,,,,

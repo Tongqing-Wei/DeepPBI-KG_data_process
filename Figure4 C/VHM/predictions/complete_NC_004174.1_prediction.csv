@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000012505.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CC9902,Synechococcus sp. CC9902,0.3246,0.1529,0.0000,0.0539,0.0,1.0000,0.0002,0.0020,NA
+GCF_000153805.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. BL107,Synechococcus sp. BL107,0.3107,0.1492,0.0000,0.0539,0.0,1.0000,0.0002,0.0020,NA
+GCF_000011485.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9313,0.2897,0.1147,0.1143,0.0539,0.0,0.9975,1.0000,0.9999,NA
+GCF_900474245.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. UW179B,Synechococcus sp. UW179B,0.2754,0.1393,0.0000,0.0539,0.0,1.0000,0.0002,0.0020,NA
+GCF_001040845.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8020,Synechococcus sp. WH 8020,0.2680,0.1371,0.0000,0.0539,0.0,1.0000,0.0002,0.0020,NA
+GCF_000179235.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CB0101,Synechococcus sp. CB0101,0.2668,0.1203,0.0652,0.0539,0.0,0.9989,0.9995,0.9999,NA
+GCF_000230675.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8016,Synechococcus sp. WH 8016,0.2639,0.1358,0.0000,0.0539,0.0,0.9999,0.0002,0.0020,NA
+GCF_000375405.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides propionicifaciens,Bacteroides propionicifaciens DSM 19291 = JCM 14649,0.2611,0.1350,0.0000,0.0539,0.0,0.9999,0.0002,0.0020,NA
+GCF_000613745.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides propionicifaciens,Bacteroides propionicifaciens DSM 19291 = JCM 14649,0.2591,0.1344,0.0000,0.0539,0.0,0.9999,0.0002,0.0020,NA
+GCF_001642915.1,Bacteria,Planctomycetes,Planctomycetia,Planctomycetales,Planctomycetaceae,Roseimaritima,Roseimaritima ulvae,Roseimaritima ulvae,0.2577,0.1339,0.0000,0.0539,0.0,0.9999,0.0002,0.0020,NA

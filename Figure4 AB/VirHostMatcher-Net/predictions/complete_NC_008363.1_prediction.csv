@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.9965,0.3839,0.7897,0.0887,0.0,0.9944,1.0000,0.9999,NA,0.9844,0.9844,0.9564,0.9346,0.8941
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9903,0.3993,0.4942,0.0891,0.0,0.9964,1.0000,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9876,0.3889,0.4781,0.0891,0.0,0.9952,1.0000,0.9996,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.9845,0.3822,0.4353,0.0866,0.0,0.9941,1.0000,1.0000,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9819,0.3897,0.3829,0.0888,0.0,0.9954,0.9999,0.9998,NA,,,,,
+GCF_900167335.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Pilibacter,Pilibacter termitis,Pilibacter termitis,0.9719,0.4603,0.0000,0.0896,0.0,1.0000,0.0000,0.0005,NA,,,,,
+GCF_000463505.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus C238,0.9673,0.4510,0.0000,0.0896,0.0,1.0000,0.0000,0.0005,NA,,,,,
+GCF_003460205.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9659,0.4485,0.0000,0.0896,0.0,1.0000,0.0000,0.0005,NA,,,,,
+GCF_001596665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9656,0.3584,0.3567,0.0892,0.0,0.9844,0.9999,0.9995,NA,,,,,
+GCF_003463665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9655,0.4479,0.0000,0.0896,0.0,1.0000,0.0000,0.0005,NA,,,,,

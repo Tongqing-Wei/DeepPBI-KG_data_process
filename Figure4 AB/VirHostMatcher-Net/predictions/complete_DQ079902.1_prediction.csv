@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_003287245.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.7207,0.1797,0.4894,0.0854,0.0,0.9202,1.0000,0.9999,NA,0.9373,0.9339,0.8915,0.8407,0.7339
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.5522,0.2124,0.1884,0.0857,0.0,0.9916,0.9998,0.9995,NA,,,,,
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5470,0.2192,0.1564,0.0858,0.0,0.9972,0.9994,0.9992,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.5440,0.2118,0.1830,0.0857,0.0,0.9909,0.9998,0.9995,NA,,,,,
+GCF_002921285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium versatile,Pectobacterium versatile,0.5373,0.1945,0.2454,0.0857,0.0,0.9684,1.0000,0.9997,NA,,,,,
+GCF_001329615.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5346,0.2180,0.1497,0.0858,0.0,0.9968,0.9993,0.9991,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.5088,0.2048,0.1781,0.0857,0.0,0.9832,0.9997,0.9994,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.5002,0.1976,0.1978,0.0856,0.0,0.9725,0.9999,0.9998,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.4970,0.2127,0.1357,0.0858,0.0,0.9920,0.9990,0.9988,NA,,,,,
+GCF_000759305.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica DNF00666,0.4901,0.2451,0.0000,0.0859,0.0,1.0000,0.0000,0.0009,NA,,,,,

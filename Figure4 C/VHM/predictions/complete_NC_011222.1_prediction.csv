@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000599345.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. S36L12,0.9786,0.4486,0.0000,0.0724,0.0,1.0000,0.0001,0.0006,NA,0.9743,0.9743,0.9507,0.9186,0.8565
+GCF_000599125.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. S36L11,0.9777,0.4461,0.0000,0.0724,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_003465265.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis,0.9766,0.4434,0.0000,0.0724,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_007896595.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis,0.9765,0.4431,0.0000,0.0724,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_003464635.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis,0.9765,0.4430,0.0000,0.0724,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_000598265.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. 1007-1-F #8,0.9764,0.4429,0.0000,0.0724,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_000598545.2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. 1007-1-F #4,0.9762,0.4423,0.0000,0.0724,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_000598365.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. 3988T(B)14,0.9758,0.4412,0.0000,0.0724,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_000599265.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. 1007-1-F #3,0.9757,0.4411,0.0000,0.0724,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_000598445.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides fragilis,Bacteroides fragilis str. 3986 N(B)19,0.9756,0.4408,0.0000,0.0724,0.0,0.9999,0.0001,0.0006,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9788,0.3918,0.8046,0.1610,0.0,0.8372,1.0000,0.9998,NA,0.9743,0.9743,0.9507,0.9186,0.8565
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9619,0.4752,0.3329,0.1615,0.0,0.9836,0.9994,0.9990,NA,,,,,
+GCF_000269945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Lactococcus garvieae Lg2,0.9600,0.4666,0.3553,0.1615,0.0,0.9784,0.9997,0.9992,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.9598,0.4475,0.4301,0.1614,0.0,0.9509,0.9999,0.9994,NA,,,,,
+GCF_008520265.1,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium sp. 5.0403-2,Sphingobacterium sp. 5.0403-2,0.9588,0.5539,0.0000,0.1618,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9582,0.4399,0.4509,0.1614,0.0,0.9404,1.0000,0.9995,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9573,0.4388,0.4502,0.1614,0.0,0.9386,1.0000,0.9995,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9568,0.4723,0.3143,0.1616,0.0,0.9820,0.9991,0.9988,NA,,,,,
+GCF_008362905.1,Bacteria,Deferribacteres,Deferribacteres,Deferribacterales,Deferribacteraceae,Deferribacter,Deferribacter autotrophicus,Deferribacter autotrophicus,0.9550,0.5485,0.0000,0.1618,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.9523,0.4688,0.3037,0.1616,0.0,0.9794,0.9989,0.9986,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.7503,0.4068,0.3315,0.1958,0.0,0.9715,1.0000,0.9999,NA,0.9398,0.9363,0.8967,0.8503,0.7435
+GCF_000332755.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli APEC O78,0.7382,0.4073,0.3148,0.1958,0.0,0.9727,1.0000,0.9998,NA,,,,,
+GCF_001005605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.7366,0.4073,0.3119,0.1957,0.0,0.9727,0.9999,1.0000,NA,,,,,
+GCF_002150905.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella sonnei,Shigella sonnei,0.7364,0.4098,0.3029,0.1958,0.0,0.9792,0.9999,0.9997,NA,,,,,
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.7295,0.4076,0.3033,0.1958,0.0,0.9733,0.9999,0.9997,NA,,,,,
+GCF_000009565.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli BL21(DE3),0.7246,0.4046,0.3086,0.1957,0.0,0.9673,0.9999,0.9999,NA,,,,,
+GCF_000732965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O157:H7 str. EDL933,0.7204,0.4085,0.2892,0.1959,0.0,0.9755,0.9998,0.9997,NA,,,,,
+GCF_001281005.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter portucalensis,Citrobacter portucalensis,0.7099,0.4218,0.2242,0.1959,0.0,0.9950,0.9992,0.9992,NA,,,,,
+GCF_002968175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella boydii,Shigella boydii,0.6794,0.4146,0.2196,0.1959,0.0,0.9878,0.9992,0.9991,NA,,,,,
+GCF_000754175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella flexneri,Shigella flexneri,0.6772,0.4116,0.2287,0.1959,0.0,0.9831,0.9992,0.9995,NA,,,,,

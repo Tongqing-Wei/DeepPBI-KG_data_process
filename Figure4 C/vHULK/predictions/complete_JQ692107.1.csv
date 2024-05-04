@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Vibrio,0.99042344,0.22080345489303,Vibrio_vulnificus,0.99999857,6.104216379013202

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002215485.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6833,0.1833,0.0000,0.0185,0.0,1.0000,0.0003,0.0006,NA
+GCF_002215445.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6809,0.1826,0.0000,0.0185,0.0,1.0000,0.0003,0.0006,NA
+GCF_001560375.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6803,0.1825,0.0000,0.0185,0.0,1.0000,0.0003,0.0006,NA
+GCF_001560675.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6802,0.1824,0.0000,0.0185,0.0,1.0000,0.0003,0.0006,NA
+GCF_001560725.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6796,0.1823,0.0000,0.0185,0.0,0.9999,0.0003,0.0006,NA
+GCF_001560405.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6795,0.1822,0.0000,0.0185,0.0,0.9999,0.0003,0.0006,NA
+GCF_000340315.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius N8,0.6795,0.1822,0.0000,0.0185,0.0,0.9999,0.0003,0.0006,NA
+GCF_001560605.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6793,0.1822,0.0000,0.0185,0.0,0.9999,0.0003,0.0006,NA
+GCF_002215525.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6787,0.1820,0.0000,0.0185,0.0,0.9999,0.0003,0.0006,NA
+GCF_001560835.1,Archaea,Crenarchaeota,Thermoprotei,Sulfolobales,Sulfolobaceae,Sulfolobus,Sulfolobus acidocaldarius,Sulfolobus acidocaldarius,0.6785,0.1820,0.0000,0.0185,0.0,0.9999,0.0003,0.0006,NA

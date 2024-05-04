@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9988,0.6081,0.4797,0.1392,0.0,0.9863,1.0000,0.9999,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9987,0.6139,0.4282,0.1397,0.0,0.9902,1.0000,0.9997,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9984,0.6295,0.3179,0.1398,0.0,0.9999,0.9997,0.9994,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9976,0.6168,0.2769,0.1399,0.0,0.9923,0.9995,0.9992,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9975,0.6202,0.2604,0.1399,0.0,0.9958,0.9993,0.9991,NA,,,,,
+GCF_001276195.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis,0.9943,0.6360,0.0000,0.1400,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_004153665.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus albus,Bacillus albus,0.9940,0.6335,0.0000,0.1400,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_000835235.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar kurstaki,0.9940,0.6332,0.0000,0.1400,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9937,0.5572,0.2940,0.1399,0.0,0.9821,0.9996,0.9993,NA,,,,,
+GCF_002147185.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar aizawai,0.9937,0.6309,0.0000,0.1400,0.0,1.0000,0.0000,0.0011,NA,,,,,

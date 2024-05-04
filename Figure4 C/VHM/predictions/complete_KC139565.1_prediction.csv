@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900290375.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfosporosinus,Candidatus Desulfosporosinus infrequens,Candidatus Desulfosporosinus infrequens,0.4909,0.1980,0.0000,0.0567,0.0,1.0000,0.0001,0.0011,NA
+GCF_004766045.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptococcaceae,Desulfosporosinus,Desulfosporosinus fructosivorans,Desulfosporosinus fructosivorans,0.4722,0.1936,0.0000,0.0567,0.0,1.0000,0.0001,0.0011,NA
+GCF_900118765.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia abortus,Chlamydia abortus,0.4672,0.1924,0.0000,0.0567,0.0,1.0000,0.0001,0.0011,NA
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.4621,0.1625,0.1145,0.0565,0.0,0.9916,0.9996,0.9997,NA
+GCF_000463345.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. ATCC 39006,Serratia sp. ATCC 39006,0.4577,0.1560,0.1364,0.0566,0.0,0.9780,1.0000,0.9996,NA
+GCF_900110675.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Aerococcaceae,Ignavigranum,Ignavigranum ruoffiae,Ignavigranum ruoffiae,0.4548,0.1895,0.0000,0.0567,0.0,1.0000,0.0001,0.0011,NA
+GCF_900118555.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia abortus,Chlamydia abortus,0.4511,0.1886,0.0000,0.0567,0.0,0.9999,0.0001,0.0011,NA
+GCF_001552955.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium kroppenstedtii,Corynebacterium kroppenstedtii,0.4394,0.1859,0.0000,0.0567,0.0,0.9999,0.0001,0.0011,NA
+GCF_002871755.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium kroppenstedtii,Corynebacterium kroppenstedtii,0.4390,0.1858,0.0000,0.0567,0.0,0.9999,0.0001,0.0011,NA
+GCF_900129075.1,Bacteria,Firmicutes,Clostridia,Thermoanaerobacterales,Thermoanaerobacteraceae,Caldanaerobius,Caldanaerobius fijiensis,Caldanaerobius fijiensis DSM 17918,0.4385,0.1857,0.0000,0.0567,0.0,0.9999,0.0001,0.0011,NA

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.7949,0.3167,0.2826,0.1234,0.0,0.9940,0.9999,0.9994,NA,0.9450,0.9415,0.9078,0.8635,0.7642
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.7823,0.3086,0.2974,0.1234,0.0,0.9874,1.0000,0.9995,NA,,,,,
+GCF_002174385.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus sp. 6D12_DIV0197,Enterococcus sp. 6D12_DIV0197,0.7535,0.3737,0.0000,0.1236,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_004099805.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7484,0.3721,0.0000,0.1236,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_003472845.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7463,0.3715,0.0000,0.1236,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_902162065.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7462,0.3715,0.0000,0.1236,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_900112655.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7460,0.3714,0.0000,0.1236,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_002077515.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7455,0.3713,0.0000,0.1236,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_902161305.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7454,0.3712,0.0000,0.1236,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_007677885.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus casseliflavus,Enterococcus casseliflavus,0.7454,0.3712,0.0000,0.1236,0.0,0.9999,0.0000,0.0008,NA,,,,,

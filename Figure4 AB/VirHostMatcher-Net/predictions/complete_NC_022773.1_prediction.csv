@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_003611805.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 1xD42-87,bacterium 1xD42-87,0.7775,0.3924,0.0000,0.1303,0.0,1.0000,0.0001,0.0006,NA,0.9439,0.9404,0.9070,0.8614,0.7561
+GCF_900142265.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum lactatifermentans,Anaerotignum lactatifermentans DSM 14214,0.7629,0.3876,0.0000,0.1303,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000024465.1,Bacteria,Proteobacteria,Alphaproteobacteria,NAmissing,NAmissing,Candidatus Puniceispirillum,Candidatus Puniceispirillum marinum,Candidatus Puniceispirillum marinum IMCC1322,0.7510,0.3058,0.3111,0.1301,0.0,0.9713,1.0000,0.9995,NA,,,,,
+GCF_001571775.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum neopropionicum,Anaerotignum neopropionicum,0.7507,0.3837,0.0000,0.1303,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_001611555.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Anaerosporomusa,Anaerosporomusa subterranea,Anaerosporomusa subterranea,0.7498,0.3834,0.0000,0.1303,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_002161375.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum lactatifermentans,Anaerotignum lactatifermentans,0.7474,0.3827,0.0000,0.1303,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_003611745.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium D16-36,bacterium D16-36,0.7420,0.3810,0.0000,0.1303,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_003612355.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 1xD8-6,bacterium 1xD8-6,0.7405,0.3806,0.0000,0.1303,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_000147335.1,Bacteria,Cyanobacteria,NAmissing,Chroococcales,Aphanothecaceae,Gloeothece,Gloeothece verrucosa,Gloeothece verrucosa PCC 7822,0.7365,0.3794,0.0000,0.1303,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_900129165.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum propionicum,Anaerotignum propionicum DSM 1682,0.7261,0.3763,0.0000,0.1303,0.0,0.9999,0.0001,0.0006,NA,,,,,

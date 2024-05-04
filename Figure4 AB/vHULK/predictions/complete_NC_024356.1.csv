@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Enterococcus,0.9907353,0.20600578411504103,Enterococcus_faecium,0.9999995,6.001427875534752

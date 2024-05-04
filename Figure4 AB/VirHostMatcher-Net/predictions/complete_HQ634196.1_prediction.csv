@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9650,0.4627,0.4349,0.1663,0.0,0.9874,1.0000,0.9999,NA,0.9731,0.9731,0.9441,0.9089,0.8468
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9606,0.4746,0.3612,0.1667,0.0,0.9905,0.9998,0.9994,NA,,,,,
+GCF_000300175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,Alteromonas macleodii str. 'Balearic Sea AD45',0.9411,0.4325,0.4242,0.1657,0.0,0.9718,1.0000,1.0000,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.9361,0.4850,0.2015,0.1669,0.0,0.9924,0.9984,0.9983,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9355,0.4519,0.3308,0.1668,0.0,0.9824,0.9997,0.9993,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9333,0.4384,0.3761,0.1667,0.0,0.9761,0.9999,0.9995,NA,,,,,
+GCF_008756925.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio fortis,Vibrio fortis,0.9119,0.5151,0.0000,0.1670,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_009363355.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. THAF190c,Vibrio sp. THAF190c,0.9115,0.5148,0.0000,0.1670,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000012325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea,Colwellia psychrerythraea 34H,0.9074,0.4265,0.3407,0.1668,0.0,0.9643,0.9997,0.9993,NA,,,,,
+GCF_000238335.2,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas marina,Pseudoalteromonas marina DSM 17587,0.9068,0.4293,0.3280,0.1668,0.0,0.9682,0.9997,0.9992,NA,,,,,

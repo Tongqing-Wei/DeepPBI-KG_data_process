@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900104355.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. OV277,Phyllobacterium sp. OV277,0.6415,0.3604,0.0000,0.1347,0.0,1.0000,0.0001,0.0013,NA
+GCF_900466815.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.6345,0.3586,0.0000,0.1347,0.0,1.0000,0.0001,0.0013,NA
+GCF_900465725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.6344,0.3586,0.0000,0.1347,0.0,1.0000,0.0001,0.0013,NA
+GCF_000282595.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. YR531,Phyllobacterium sp. YR531,0.6227,0.3557,0.0000,0.1347,0.0,1.0000,0.0001,0.0013,NA
+GCF_000182725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella inopinata,Brucella inopinata BO1,0.6083,0.2697,0.3285,0.1345,0.0,0.9868,1.0000,0.9997,NA
+GCF_002252475.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum rhizosphaerae,Ochrobactrum rhizosphaerae,0.5876,0.3471,0.0000,0.1347,0.0,0.9999,0.0001,0.0013,NA
+GCF_002920025.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum,0.5786,0.2528,0.3674,0.1344,0.0,0.9718,1.0000,0.9998,NA
+GCF_004368705.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp. LP_5_YM,Ochrobactrum sp. LP_5_YM,0.5755,0.3442,0.0000,0.1347,0.0,0.9999,0.0001,0.0013,NA
+GCF_001580765.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Gluconobacter,Gluconobacter japonicus,Gluconobacter japonicus,0.5740,0.3438,0.0000,0.1347,0.0,0.9999,0.0001,0.0013,NA
+GCF_900473335.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.5709,0.3431,0.0000,0.1347,0.0,0.9999,0.0001,0.0013,NA

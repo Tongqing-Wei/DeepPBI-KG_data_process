@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Burkholderia,0.9845436,0.3345475388945488,Burkholderia_cepacia,0.99999404,5.120300734003989

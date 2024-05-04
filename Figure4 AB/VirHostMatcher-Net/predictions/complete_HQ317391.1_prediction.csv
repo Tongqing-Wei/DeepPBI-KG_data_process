@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.8611,0.5279,0.0000,0.1934,0.0,1.0000,0.0000,0.0009,NA,0.9539,0.9539,0.9188,0.8764,0.7860
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8607,0.4460,0.3263,0.1932,0.0,0.9813,0.9996,0.9992,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.8577,0.4228,0.4127,0.1931,0.0,0.9503,0.9999,0.9996,NA,,,,,
+GCF_000949285.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium aceticum,Clostridium aceticum,0.8577,0.5262,0.0000,0.1934,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001042715.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium aceticum,Clostridium aceticum,0.8570,0.5259,0.0000,0.1934,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_900114615.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus propionicus,Pelosinus propionicus DSM 13327,0.8513,0.5232,0.0000,0.1934,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8502,0.4433,0.3122,0.1925,0.0,0.9791,0.9994,0.9999,NA,,,,,
+GCF_000271665.2,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus fermentans,Pelosinus fermentans JBW45,0.8407,0.5185,0.0000,0.1934,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8380,0.4431,0.2950,0.1930,0.0,0.9790,0.9992,0.9997,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.8372,0.4146,0.4084,0.1931,0.0,0.9217,0.9998,0.9995,NA,,,,,

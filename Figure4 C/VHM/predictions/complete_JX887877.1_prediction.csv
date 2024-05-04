@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9718,0.3280,0.3080,0.0555,0.0,0.9968,1.0000,0.9997,NA,0.9727,0.9727,0.9475,0.9160,0.8550
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9659,0.3297,0.2554,0.0556,0.0,0.9991,1.0000,0.9996,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9602,0.3242,0.2387,0.0554,0.0,0.9910,1.0000,0.9998,NA,,,,,
+GCF_001644645.1,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Flavisolibacter,Flavisolibacter tropicus,Flavisolibacter tropicus,0.9533,0.3748,0.0000,0.0558,0.0,1.0000,0.0003,0.0008,NA,,,,,
+GCF_002147375.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar wuhanensis,0.9334,0.3528,0.0000,0.0558,0.0,1.0000,0.0003,0.0008,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9328,0.3262,0.1040,0.0558,0.0,0.9943,0.9987,0.9986,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9327,0.3192,0.1315,0.0557,0.0,0.9884,0.9991,0.9990,NA,,,,,
+GCF_005747095.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. HB172195,Bacillus sp. HB172195,0.9302,0.3498,0.0000,0.0558,0.0,1.0000,0.0003,0.0008,NA,,,,,
+GCF_002147475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar ostriniae,0.9217,0.3426,0.0000,0.0558,0.0,1.0000,0.0003,0.0008,NA,,,,,
+GCF_003182155.1,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Chitinophaga,Chitinophaga sp. S165,Chitinophaga sp. S165,0.9203,0.3416,0.0000,0.0558,0.0,0.9999,0.0003,0.0008,NA,,,,,

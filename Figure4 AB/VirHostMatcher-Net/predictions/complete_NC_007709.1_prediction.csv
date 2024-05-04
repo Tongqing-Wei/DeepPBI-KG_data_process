@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001750805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.5180,0.3041,0.2048,0.1499,0.0,0.9993,0.9996,0.9993,NA
+GCF_008274195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.5073,0.3029,0.1998,0.1499,0.0,0.9984,0.9994,0.9992,NA
+GCF_000220485.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae KCTC 2242,0.5065,0.3007,0.2077,0.1499,0.0,0.9958,0.9996,0.9994,NA
+GCF_001720635.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.4896,0.3020,0.1868,0.1499,0.0,0.9978,0.9992,0.9990,NA
+GCF_009184445.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.4670,0.3000,0.1738,0.1500,0.0,0.9948,0.9989,0.9988,NA
+GCF_007845255.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 353,TM7 phylum sp. oral taxon 353,0.4375,0.3365,0.0000,0.1500,0.0,1.0000,0.0001,0.0014,NA
+GCF_005697565.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 957,TM7 phylum sp. oral taxon 957,0.4359,0.3361,0.0000,0.1500,0.0,1.0000,0.0001,0.0014,NA
+GCF_007845555.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,TM7 phylum sp. oral taxon 346,TM7 phylum sp. oral taxon 346,0.4212,0.3326,0.0000,0.1500,0.0,1.0000,0.0001,0.0014,NA
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.4130,0.2695,0.2442,0.1499,0.0,0.9560,1.0000,0.9997,NA
+GCF_000803625.1,Bacteria,Candidatus Saccharibacteria,NAmissing,NAmissing,NAmissing,NAmissing,Candidatus Saccharibacteria oral taxon TM7x,Candidatus Saccharibacteria oral taxon TM7x,0.4041,0.3285,0.0000,0.1500,0.0,1.0000,0.0001,0.0014,NA

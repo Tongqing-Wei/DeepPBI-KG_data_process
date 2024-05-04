@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002749655.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.8383,0.3910,0.2610,0.1555,0.0,0.9943,0.9999,0.9997,NA,0.9525,0.9525,0.9177,0.8757,0.7824
+GCF_001722065.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.7645,0.4290,0.0000,0.1556,0.0,1.0000,0.0000,0.0016,NA,,,,,
+GCF_001436295.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus vaccinostercus,Lactobacillus vaccinostercus DSM 20634,0.7608,0.4278,0.0000,0.1556,0.0,1.0000,0.0000,0.0016,NA,,,,,
+GCF_000474675.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis EW,0.7605,0.4278,0.0000,0.1556,0.0,1.0000,0.0000,0.0016,NA,,,,,
+GCF_000814725.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.7604,0.4277,0.0000,0.1556,0.0,1.0000,0.0000,0.0016,NA,,,,,
+GCF_001953605.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.7577,0.4268,0.0000,0.1556,0.0,0.9999,0.0000,0.0016,NA,,,,,
+GCF_002128765.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus reuteri,Lactobacillus reuteri,0.7520,0.4251,0.0000,0.1556,0.0,0.9999,0.0000,0.0016,NA,,,,,
+GCF_002871555.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Gardnerella vaginalis,0.7497,0.4243,0.0000,0.1556,0.0,0.9999,0.0000,0.0016,NA,,,,,
+GCF_900156885.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp. Marseille-P3519,Lactobacillus sp. Marseille-P3519,0.7497,0.4243,0.0000,0.1556,0.0,0.9999,0.0000,0.0016,NA,,,,,
+GCF_002117345.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.7490,0.4241,0.0000,0.1556,0.0,0.9999,0.0000,0.0016,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.8628,0.3307,0.1939,0.1009,0.0,0.9985,0.9999,0.9999,NA,0.9538,0.9538,0.9187,0.8762,0.7856
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8412,0.3219,0.1897,0.1010,0.0,0.9912,0.9998,0.9996,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.8348,0.3274,0.1567,0.1011,0.0,0.9960,0.9995,0.9993,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.8181,0.3259,0.1359,0.1011,0.0,0.9949,0.9992,0.9990,NA,,,,,
+GCF_002149065.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus,0.7649,0.3410,0.0000,0.1011,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002929985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio jasicida,Vibrio jasicida,0.7618,0.3400,0.0000,0.1011,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002153875.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.7597,0.3393,0.0000,0.1011,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003691505.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio owensii,Vibrio owensii,0.7588,0.3390,0.0000,0.1011,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003691545.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio owensii,Vibrio owensii,0.7584,0.3389,0.0000,0.1011,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_002930045.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio jasicida,Vibrio jasicida,0.7559,0.3381,0.0000,0.1011,0.0,0.9999,0.0000,0.0012,NA,,,,,

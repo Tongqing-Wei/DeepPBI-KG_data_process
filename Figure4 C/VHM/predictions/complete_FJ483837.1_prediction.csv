@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001050135.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Cyclobacterium,Cyclobacterium amurskyense,Cyclobacterium amurskyense,0.5825,0.1276,0.0000,-0.0001,0.0,1.0000,0.0009,0.0009,NA
+GCF_000259175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii,Providencia stuartii MRSN 2154,0.5818,0.1174,0.0398,-0.0002,0.0,0.9997,0.9994,0.9990,NA
+GCF_003925875.1,Bacteria,Firmicutes,Erysipelotrichia,Erysipelotrichales,Erysipelotrichaceae,NAmissing,Erysipelotrichaceae bacterium SG0102,Erysipelotrichaceae bacterium SG0102,0.5791,0.1268,0.0000,-0.0001,0.0,1.0000,0.0009,0.0009,NA
+GCF_000427295.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Cyclobacterium,Cyclobacterium qasimii,Cyclobacterium qasimii M12-11B,0.5593,0.1221,0.0000,-0.0001,0.0,1.0000,0.0009,0.0009,NA
+GCF_007991695.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cyclobacteriaceae,Cyclobacterium,Cyclobacterium qasimii,Cyclobacterium qasimii,0.5583,0.1219,0.0000,-0.0001,0.0,1.0000,0.0009,0.0009,NA
+GCF_900111195.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Gracilibacillus,Gracilibacillus ureilyticus,Gracilibacillus ureilyticus,0.5534,0.1207,0.0000,-0.0001,0.0,0.9999,0.0009,0.0009,NA
+GCF_001696805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus australis,Photorhabdus australis,0.5501,0.1199,0.0000,-0.0001,0.0,0.9999,0.0009,0.0009,NA
+GCF_009498735.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Gracilibacillus,Gracilibacillus sp. TD8,Gracilibacillus sp. TD8,0.5501,0.1199,0.0000,-0.0001,0.0,0.9999,0.0009,0.0009,NA
+GCF_003634575.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus asymbiotica,Photorhabdus asymbiotica,0.5489,0.1197,0.0000,-0.0001,0.0,0.9999,0.0009,0.0009,NA
+GCF_003287575.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus laumondii,Photorhabdus laumondii subsp. clarkei,0.5488,0.1196,0.0000,-0.0001,0.0,0.9999,0.0009,0.0009,NA

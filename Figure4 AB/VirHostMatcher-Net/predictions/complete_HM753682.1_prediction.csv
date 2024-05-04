@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7517,0.2664,0.2290,0.0930,0.0,0.9917,0.9999,0.9994,NA,0.9398,0.9363,0.8967,0.8503,0.7435
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.7474,0.2744,0.1884,0.0925,0.0,0.9977,0.9994,0.9999,NA,,,,,
+GCF_000023765.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,Candidatus Liberibacter asiaticus str. psy62,0.7288,0.2812,0.1424,0.0931,0.0,0.9996,0.9986,0.9985,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7268,0.2671,0.1955,0.0929,0.0,0.9923,0.9995,0.9997,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.7046,0.2589,0.2035,0.0930,0.0,0.9859,0.9997,0.9992,NA,,,,,
+GCF_002921285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium versatile,Pectobacterium versatile,0.6899,0.2489,0.2272,0.0930,0.0,0.9726,0.9999,0.9994,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.6825,0.2607,0.1719,0.0930,0.0,0.9875,0.9992,0.9995,NA,,,,,
+GCF_902386265.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.6794,0.3030,0.0000,0.0932,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000506865.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.6794,0.3030,0.0000,0.0932,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900099475.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega sp. MC2,Pelistega sp. MC2,0.6712,0.3009,0.0000,0.0932,0.0,1.0000,0.0001,0.0008,NA,,,,,

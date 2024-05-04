@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000829055.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei subsp. casei ATCC 393,0.9973,0.4520,1.0000,0.1535,0.0,0.9968,1.0000,1.0000,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_000026485.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei BL23,0.9850,0.4946,0.4296,0.1538,0.0,0.9996,1.0000,0.9999,NA,,,,,
+GCF_000309625.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei A2-362,0.9223,0.5029,0.0000,0.1545,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000410175.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Lactobacillus paracasei subsp. paracasei Lpp225,0.9211,0.5019,0.0000,0.1545,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000510825.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei A2-362,0.9196,0.5007,0.0000,0.1545,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000410195.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Lactobacillus paracasei subsp. paracasei Lpp219,0.9188,0.5001,0.0000,0.1545,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000409835.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Lactobacillus paracasei subsp. tolerans Lpl7,0.9170,0.4987,0.0000,0.1545,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_005864195.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Lactobacillus paracasei,0.9168,0.4986,0.0000,0.1545,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_003712755.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Lactobacillus paracasei,0.9168,0.4986,0.0000,0.1545,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_002442835.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paracasei,Lactobacillus paracasei,0.9164,0.4983,0.0000,0.1545,0.0,0.9999,0.0001,0.0008,NA,,,,,

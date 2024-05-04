@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Streptococcus,0.98768264,0.24592354245814932,Streptococcus_pneumoniae,0.9999631,5.1272750780440965

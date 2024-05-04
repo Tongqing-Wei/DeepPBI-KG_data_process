@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9998,0.5754,0.9362,0.1269,0.0,0.9846,1.0000,1.0000,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9987,0.5835,0.4909,0.1284,0.0,0.9896,1.0000,0.9997,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9981,0.5984,0.3368,0.1286,0.0,0.9996,0.9997,0.9993,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9972,0.5651,0.3811,0.1285,0.0,0.9825,0.9999,0.9995,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9972,0.5865,0.2903,0.1286,0.0,0.9924,0.9994,0.9991,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9971,0.5797,0.3086,0.1286,0.0,0.9863,0.9995,0.9992,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9967,0.5469,0.4086,0.1278,0.0,0.9751,1.0000,0.9999,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9965,0.5527,0.3741,0.1285,0.0,0.9805,0.9998,0.9995,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9965,0.5489,0.3892,0.1285,0.0,0.9779,0.9999,0.9995,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9964,0.5441,0.4012,0.1285,0.0,0.9718,1.0000,0.9996,NA,,,,,

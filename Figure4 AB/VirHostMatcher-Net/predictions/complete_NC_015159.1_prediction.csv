@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9323,0.3309,0.5157,0.1224,0.0,0.9548,1.0000,0.9999,NA,0.9705,0.9705,0.9390,0.9035,0.8287
+GCF_001281005.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter portucalensis,Citrobacter portucalensis,0.8919,0.2966,0.5361,0.1229,0.0,0.8811,1.0000,0.9998,NA,,,,,
+GCF_003001695.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda pacifica,Muricauda pacifica,0.8852,0.4273,0.0000,0.1234,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.8618,0.3242,0.3616,0.1231,0.0,0.9418,0.9998,0.9994,NA,,,,,
+GCF_000477535.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella salivae,Prevotella salivae F0493,0.8568,0.4125,0.0000,0.1234,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000185845.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella salivae,Prevotella salivae DSM 15606,0.8540,0.4111,0.0000,0.1234,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_902374235.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella salivae,Prevotella salivae,0.8540,0.4111,0.0000,0.1234,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000740015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus NBRC 103148,0.8511,0.4098,0.0000,0.1234,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_002892925.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.8492,0.4089,0.0000,0.1234,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_003269215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.8477,0.4083,0.0000,0.1234,0.0,0.9999,0.0001,0.0006,NA,,,,,

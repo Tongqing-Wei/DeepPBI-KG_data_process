@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Helicobacter,0.9995826,0.01356055417973039,None,0.0,0.0

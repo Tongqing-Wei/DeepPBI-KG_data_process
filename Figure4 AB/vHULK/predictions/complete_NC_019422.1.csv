@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Clostridium,0.9983449,0.0442517678191507,Clostridium_difficile,0.99998355,6.171156739200288

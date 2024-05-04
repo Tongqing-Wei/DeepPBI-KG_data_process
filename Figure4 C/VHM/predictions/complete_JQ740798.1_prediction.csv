@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.9977,0.4292,0.7907,0.1007,0.0,0.9956,1.0000,0.9999,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9944,0.4476,0.5064,0.1011,0.0,0.9976,1.0000,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9930,0.4349,0.5066,0.1011,0.0,0.9962,1.0000,0.9997,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9901,0.4341,0.4246,0.1008,0.0,0.9961,0.9999,0.9998,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.9894,0.4267,0.4248,0.0988,0.0,0.9953,1.0000,1.0000,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9778,0.4100,0.3334,0.1013,0.0,0.9923,0.9998,0.9993,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9776,0.3953,0.3902,0.1012,0.0,0.9857,0.9999,0.9995,NA,,,,,
+GCF_000463505.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus C238,0.9706,0.4768,0.0000,0.1015,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000269945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Lactococcus garvieae Lg2,0.9705,0.3743,0.4079,0.1012,0.0,0.9650,0.9999,0.9996,NA,,,,,
+GCF_003463665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9703,0.4762,0.0000,0.1015,0.0,1.0000,0.0000,0.0006,NA,,,,,

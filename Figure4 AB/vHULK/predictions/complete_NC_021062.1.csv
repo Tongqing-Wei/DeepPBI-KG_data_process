@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Pseudomonas,0.999114,0.02473497836149363,Pseudomonas_fluorescens,0.99999833,4.705266298391636

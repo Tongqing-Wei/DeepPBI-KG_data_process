@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.5699,0.2764,0.2670,0.1348,0.0,0.9894,0.9999,0.9999,NA
+GCF_003332735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5534,0.2564,0.3321,0.1349,0.0,0.9583,1.0000,0.9999,NA
+GCF_900290385.1,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophobacter sp. SbD2,Syntrophobacter sp. SbD2,0.5343,0.3351,0.0000,0.1351,0.0,1.0000,0.0000,0.0017,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.5336,0.2531,0.3266,0.1349,0.0,0.9533,1.0000,0.9999,NA
+GCF_900290365.1,Bacteria,Proteobacteria,Deltaproteobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter,Syntrophobacter sp. SbD1,Syntrophobacter sp. SbD1,0.5257,0.3331,0.0000,0.1351,0.0,1.0000,0.0000,0.0017,NA
+GCF_900155475.1,Bacteria,Proteobacteria,Gammaproteobacteria,Methylococcales,Methylococcaceae,Methylomagnum,Methylomagnum ishizawai,Methylomagnum ishizawai,0.5245,0.3328,0.0000,0.1351,0.0,1.0000,0.0000,0.0017,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.5212,0.2762,0.2230,0.1350,0.0,0.9890,0.9997,0.9996,NA
+GCF_001904985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens,Pseudomonas protegens,0.5173,0.2736,0.2300,0.1350,0.0,0.9840,0.9998,0.9997,NA
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.4683,0.2566,0.2518,0.1350,0.0,0.9587,0.9999,0.9998,NA
+GCF_000342145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa PA21_ST175,0.4640,0.2594,0.2366,0.1350,0.0,0.9631,0.9999,0.9997,NA

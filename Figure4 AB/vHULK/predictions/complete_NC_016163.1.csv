@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Yersinia,0.9963127,0.09569071660625923,Yersinia_enterocolitica,0.99999875,4.1743338415463835

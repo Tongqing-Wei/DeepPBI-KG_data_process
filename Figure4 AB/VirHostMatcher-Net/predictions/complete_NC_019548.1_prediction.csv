@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.6280,0.2709,0.1943,0.1115,0.0,0.7085,0.9997,1.0000,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.5654,0.3059,0.2742,0.1548,0.0,0.8950,1.0000,0.9999,NA
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.5635,0.3075,0.2660,0.1548,0.0,0.9048,1.0000,0.9999,NA
+GCF_001449605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5577,0.3115,0.2447,0.1549,0.0,0.9264,0.9999,0.9998,NA
+GCF_001450525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5575,0.3108,0.2474,0.1549,0.0,0.9227,1.0000,0.9999,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.5266,0.3051,0.2411,0.1549,0.0,0.8892,0.9999,0.9998,NA
+GCF_001729505.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5191,0.3058,0.2314,0.1549,0.0,0.8941,0.9999,0.9998,NA
+GCF_003332735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5101,0.3096,0.2077,0.1549,0.0,0.9163,0.9998,0.9997,NA
+GCF_002866685.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5018,0.3072,0.2099,0.1549,0.0,0.9028,0.9998,0.9997,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.4919,0.3053,0.2077,0.1548,0.0,0.8914,0.9998,0.9999,NA

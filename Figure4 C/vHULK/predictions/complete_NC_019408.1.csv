@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Caulobacter,0.9999827,0.0006023819816514342,Caulobacter_crescentus,0.9999988,3.995658207207816

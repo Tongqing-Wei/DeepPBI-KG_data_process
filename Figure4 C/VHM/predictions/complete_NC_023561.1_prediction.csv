@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9534,0.4868,0.4532,0.1949,0.0,0.9807,0.9999,0.9996,NA,0.9718,0.9718,0.9396,0.9054,0.8390
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9439,0.4761,0.4504,0.1949,0.0,0.9720,0.9999,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9417,0.4722,0.4566,0.1949,0.0,0.9674,1.0000,0.9996,NA,,,,,
+GCF_900129745.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Winogradskyella,Winogradskyella jejuensis,Winogradskyella jejuensis,0.9366,0.5815,0.0000,0.1952,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_002159575.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9312,0.5764,0.0000,0.1952,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9287,0.4972,0.3067,0.1949,0.0,0.9879,0.9992,0.9995,NA,,,,,
+GCF_000423385.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale DSM 1672,0.9256,0.5715,0.0000,0.1952,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_003458205.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9253,0.5712,0.0000,0.1952,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_900187035.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9232,0.5695,0.0000,0.1952,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003465005.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9223,0.5688,0.0000,0.1952,0.0,0.9999,0.0001,0.0010,NA,,,,,

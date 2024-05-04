@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.7867,0.2798,0.1799,0.0865,0.0,0.9993,0.9999,0.9999,NA,0.9435,0.9399,0.9064,0.8622,0.7615
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.7254,0.2734,0.1283,0.0867,0.0,0.9966,0.9992,0.9989,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.7193,0.2690,0.1390,0.0867,0.0,0.9912,0.9994,0.9991,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.7174,0.2699,0.1330,0.0867,0.0,0.9924,0.9993,0.9991,NA,,,,,
+GCF_003263775.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio maritimus,Vibrio maritimus,0.6677,0.2896,0.0000,0.0868,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000733315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. ER1A,Vibrio sp. ER1A,0.6643,0.2887,0.0000,0.0868,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000695725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mediterranei,Vibrio shiloi A203,0.6611,0.2878,0.0000,0.0868,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000755425.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio maritimus,Vibrio maritimus,0.6594,0.2874,0.0000,0.0868,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_003263785.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio variabilis,Vibrio variabilis,0.6579,0.2870,0.0000,0.0868,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_002995655.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mediterranei,Vibrio mediterranei,0.6576,0.2869,0.0000,0.0868,0.0,0.9999,0.0001,0.0008,NA,,,,,

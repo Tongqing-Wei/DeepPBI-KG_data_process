@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9831,0.4270,0.3179,0.0993,0.0,0.9944,1.0000,0.9999,NA,0.9737,0.9737,0.9496,0.9167,0.8575
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9822,0.4269,0.3041,0.0991,0.0,0.9944,0.9999,0.9999,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9814,0.4239,0.3085,0.0996,0.0,0.9932,0.9999,0.9996,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9690,0.3837,0.3477,0.0996,0.0,0.9770,1.0000,0.9996,NA,,,,,
+GCF_900092375.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium septicum,Clostridium septicum,0.9654,0.4643,0.0000,0.0999,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_902386445.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium septicum,Clostridium septicum,0.9654,0.4643,0.0000,0.0999,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_902375215.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,[Clostridium] dakarense,[Clostridium] dakarense,0.9636,0.4613,0.0000,0.0999,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000499525.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Peptostreptococcaceae,Romboutsia,[Clostridium] dakarense,[Clostridium] dakarense,0.9636,0.4613,0.0000,0.0999,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_003606265.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium septicum,Clostridium septicum,0.9632,0.4606,0.0000,0.0999,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_001190785.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Gottschalkiaceae,Gottschalkia,Gottschalkia purinilytica,Gottschalkia purinilytica,0.9630,0.4602,0.0000,0.0999,0.0,0.9999,0.0000,0.0010,NA,,,,,

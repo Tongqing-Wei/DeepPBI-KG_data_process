@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9842,0.4475,0.4047,0.1229,0.0,0.9900,0.9998,0.9994,NA,0.9735,0.9735,0.9491,0.9181,0.8584
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9829,0.4505,0.3746,0.1230,0.0,0.9917,0.9997,0.9993,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9829,0.4591,0.3402,0.1230,0.0,0.9955,0.9996,0.9992,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.9813,0.4602,0.3140,0.1230,0.0,0.9959,0.9994,0.9989,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.9800,0.4544,0.3212,0.1230,0.0,0.9934,0.9994,0.9990,NA,,,,,
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9791,0.4496,0.3299,0.1230,0.0,0.9913,0.9995,0.9991,NA,,,,,
+GCF_001329615.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9758,0.4472,0.3050,0.1231,0.0,0.9897,0.9992,0.9988,NA,,,,,
+GCF_003609775.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.9757,0.5236,0.0000,0.1233,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_000163035.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica D18,0.9754,0.5228,0.0000,0.1233,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_002208725.2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.9753,0.5226,0.0000,0.1233,0.0,1.0000,0.0001,0.0005,NA,,,,,

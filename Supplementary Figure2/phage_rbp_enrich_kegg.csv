@@ -1,0 +1,2 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"ko01002","Peptidases and inhibitors [BR:ko01002]","3/5","22/449",0.000963032896114251,0.000963032896114251,NA,"gene=mepH/gene=cwlO/gene=ykfC",3

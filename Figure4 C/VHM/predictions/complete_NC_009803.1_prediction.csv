@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000008125.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Thermus thermophilus HB27,0.9441,0.5666,0.3502,0.2351,0.0,0.9990,1.0000,0.9999,NA,0.9721,0.9721,0.9402,0.9044,0.8307
+GCF_001880325.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus brockianus,Thermus brockianus,0.8730,0.6017,0.0000,0.2352,0.0,1.0000,0.0000,0.0024,NA,,,,,
+GCF_000794385.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus sp. 2.9,Thermus sp. 2.9,0.8657,0.5979,0.0000,0.2352,0.0,1.0000,0.0000,0.0024,NA,,,,,
+GCF_000173055.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus Y51MC23,0.8425,0.5870,0.0000,0.2352,0.0,1.0000,0.0000,0.0024,NA,,,,,
+GCF_001399775.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus Y51MC23,0.8422,0.5869,0.0000,0.2352,0.0,1.0000,0.0000,0.0024,NA,,,,,
+GCF_001280255.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus,0.8326,0.5828,0.0000,0.2352,0.0,0.9999,0.0000,0.0024,NA,,,,,
+GCF_000745065.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus caliditerrae,Thermus caliditerrae,0.8204,0.5778,0.0000,0.2352,0.0,0.9999,0.0000,0.0024,NA,,,,,
+GCF_003959355.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus scotoductus,Thermus scotoductus,0.8152,0.5758,0.0000,0.2352,0.0,0.9999,0.0000,0.0024,NA,,,,,
+GCF_003959015.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus scotoductus,Thermus scotoductus,0.8139,0.5753,0.0000,0.2352,0.0,0.9999,0.0000,0.0024,NA,,,,,
+GCF_900102145.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus arciformis,Thermus arciformis,0.8115,0.5744,0.0000,0.2352,0.0,0.9999,0.0000,0.0024,NA,,,,,

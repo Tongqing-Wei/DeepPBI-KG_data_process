@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Citrobacter,0.91112393,1.0948729549604423,Citrobacter_rodentium,0.9999085,4.948993916634064

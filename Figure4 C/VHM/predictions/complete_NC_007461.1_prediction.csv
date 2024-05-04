@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000415745.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 09DC78,0.6872,0.1927,0.0000,0.0237,0.0,1.0000,0.0006,0.0015,NA
+GCF_001735985.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci,0.6869,0.1927,0.0000,0.0237,0.0,1.0000,0.0006,0.0015,NA
+GCF_000415705.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 08DC60,0.6863,0.1925,0.0000,0.0237,0.0,1.0000,0.0006,0.0015,NA
+GCF_000415645.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC23,0.6863,0.1925,0.0000,0.0237,0.0,1.0000,0.0006,0.0015,NA
+GCF_001401475.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci NJ1,0.6858,0.1924,0.0000,0.0237,0.0,0.9999,0.0006,0.0015,NA
+GCF_900239975.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia sp. S15-834C,Chlamydia sp. S15-834C,0.6857,0.1923,0.0000,0.0237,0.0,0.9999,0.0006,0.0015,NA
+GCF_000298555.2,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci NJ1,0.6847,0.1921,0.0000,0.0237,0.0,0.9999,0.0006,0.0015,NA
+GCF_000415625.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC22,0.6842,0.1920,0.0000,0.0237,0.0,0.9999,0.0006,0.0015,NA
+GCF_000470805.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia pecorum,Chlamydia pecorum W73,0.6842,0.1919,0.0000,0.0237,0.0,0.9999,0.0006,0.0015,NA
+GCF_000417605.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 09DC79,0.6840,0.1919,0.0000,0.0237,0.0,0.9999,0.0006,0.0015,NA

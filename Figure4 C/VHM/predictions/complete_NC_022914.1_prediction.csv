@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9962,0.5436,0.4539,0.1381,0.0,0.9997,0.9999,0.9998,NA,0.9844,0.9844,0.9564,0.9346,0.8941
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9948,0.5240,0.4608,0.1385,0.0,0.9901,1.0000,0.9996,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9948,0.5221,0.4675,0.1384,0.0,0.9889,1.0000,0.9996,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9943,0.5196,0.4543,0.1377,0.0,0.9867,1.0000,0.9999,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9942,0.5331,0.4002,0.1385,0.0,0.9960,0.9999,0.9994,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9940,0.5179,0.4515,0.1385,0.0,0.9858,0.9999,0.9996,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9935,0.5104,0.4628,0.1385,0.0,0.9836,1.0000,0.9996,NA,,,,,
+GCF_008764045.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus,Staphylococcus saprophyticus,0.9789,0.5571,0.0000,0.1388,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_007676995.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus saprophyticus,Staphylococcus saprophyticus,0.9787,0.5566,0.0000,0.1388,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_007681915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus warneri,Staphylococcus warneri,0.9783,0.5555,0.0000,0.1388,0.0,1.0000,0.0000,0.0008,NA,,,,,

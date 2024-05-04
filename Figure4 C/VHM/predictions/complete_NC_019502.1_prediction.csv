@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9993,0.6198,0.5173,0.1349,0.0,0.9865,1.0000,0.9999,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9991,0.6247,0.4444,0.1354,0.0,0.9907,1.0000,0.9996,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9990,0.6397,0.3730,0.1355,0.0,0.9996,0.9999,0.9995,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9985,0.6236,0.3316,0.1356,0.0,0.9892,0.9996,0.9993,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9985,0.6222,0.3362,0.1356,0.0,0.9880,0.9997,0.9993,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9961,0.5659,0.3450,0.1356,0.0,0.9812,0.9997,0.9994,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9961,0.5540,0.3854,0.1352,0.0,0.9737,0.9999,0.9998,NA,,,,,
+GCF_002147335.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar israelensis,0.9956,0.6452,0.0000,0.1358,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000835235.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar kurstaki,0.9956,0.6451,0.0000,0.1358,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_002146615.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar novosibirsk,0.9956,0.6451,0.0000,0.1358,0.0,1.0000,0.0000,0.0009,NA,,,,,

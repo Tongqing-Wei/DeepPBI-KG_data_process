@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9328,0.4742,0.4515,0.2008,0.0,0.9790,0.9999,0.9997,NA,0.9705,0.9705,0.9390,0.9035,0.8287
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9250,0.4675,0.4508,0.2008,0.0,0.9727,0.9999,0.9996,NA,,,,,
+GCF_003458205.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9227,0.5786,0.0000,0.2011,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_002159575.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9221,0.5781,0.0000,0.2011,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_003465005.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9211,0.5773,0.0000,0.2011,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_900110235.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas sp. Calf98-2,Megamonas sp. Calf98-2,0.9211,0.5773,0.0000,0.2011,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_900129745.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Winogradskyella,Winogradskyella jejuensis,Winogradskyella jejuensis,0.9205,0.5768,0.0000,0.2011,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_902385385.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9190,0.5756,0.0000,0.2011,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003439315.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9190,0.5756,0.0000,0.2011,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9187,0.4618,0.4530,0.2007,0.0,0.9646,1.0000,0.9997,NA,,,,,

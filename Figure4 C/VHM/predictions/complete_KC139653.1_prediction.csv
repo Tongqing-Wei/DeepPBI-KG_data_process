@@ -1,0 +1,12 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.6344,0.2581,0.1986,0.1033,0.0,0.9853,1.0000,0.9999,NA
+GCF_000332755.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli APEC O78,0.6111,0.2519,0.2001,0.1032,0.0,0.9704,1.0000,0.9999,NA
+GCF_000010085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',0.6076,0.2615,0.1585,0.1033,0.0,0.9922,0.9998,0.9996,NA
+GCF_000263215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,Cronobacter sakazakii ES15,0.5991,0.2542,0.1795,0.1033,0.0,0.9759,0.9999,0.9998,NA
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.5959,0.2538,0.1779,0.1033,0.0,0.9752,0.9999,0.9997,NA
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.5840,0.2503,0.1806,0.1033,0.0,0.9662,1.0000,0.9998,NA
+GCF_000732965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O157:H7 str. EDL933,0.5832,0.2524,0.1715,0.1033,0.0,0.9716,0.9999,0.9997,NA
+GCF_001005605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.5764,0.2506,0.1714,0.1032,0.0,0.9672,0.9999,0.9999,NA
+GCF_900446735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cedecea,Cedecea davisae,Cedecea davisae,0.5703,0.2922,0.0000,0.1034,0.0,1.0000,0.0001,0.0015,NA
+GCF_902375075.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cedecea,Cedecea davisae,Cedecea davisae,0.5699,0.2921,0.0000,0.1034,0.0,1.0000,0.0001,0.0015,NA
+GCF_000412335.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cedecea,Cedecea davisae,Cedecea davisae DSM 4568,0.5699,0.2921,0.0000,0.1034,0.0,1.0000,0.0001,0.0015,NA

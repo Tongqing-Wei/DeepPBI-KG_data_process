@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_900188145.1,Bacteria,Firmicutes,Clostridia,Clostridiales,NAmissing,Anaerovirgula,Anaerovirgula multivorans,Anaerovirgula multivorans,0.8528,0.5393,0.0000,0.2029,0.0,1.0000,0.0000,0.0010,NA,0.9522,0.9522,0.9173,0.8750,0.7849
+GCF_000949285.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium aceticum,Clostridium aceticum,0.8471,0.5367,0.0000,0.2029,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_001042715.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium aceticum,Clostridium aceticum,0.8446,0.5356,0.0000,0.2029,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000949425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. IHBB 10380,Paenibacillus sp. IHBB 10380,0.8427,0.5348,0.0000,0.2029,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_002003265.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae,0.8327,0.4548,0.2993,0.2023,0.0,0.9679,0.9991,0.9999,NA,,,,,
+GCF_000576305.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus pini,Paenibacillus pini JCM 16418,0.8276,0.5284,0.0000,0.2029,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_001315125.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus pini,Paenibacillus pini JCM 16418,0.8276,0.5284,0.0000,0.2029,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_001637205.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus glacialis,Paenibacillus glacialis,0.8214,0.5258,0.0000,0.2029,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_002080475.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium formicaceticum,Clostridium formicaceticum,0.8197,0.5252,0.0000,0.2029,0.0,0.9999,0.0000,0.0010,NA,,,,,
+GCF_001854185.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium formicaceticum,Clostridium formicaceticum,0.8197,0.5252,0.0000,0.2029,0.0,0.9999,0.0000,0.0010,NA,,,,,

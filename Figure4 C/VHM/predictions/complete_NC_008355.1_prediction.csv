@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000415645.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC23,0.7599,0.1885,0.0000,0.0080,0.0,1.0000,0.0009,0.0012,NA,0.9426,0.9391,0.9009,0.8557,0.7513
+GCF_000415705.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 08DC60,0.7595,0.1884,0.0000,0.0080,0.0,1.0000,0.0009,0.0012,NA,,,,,
+GCF_000415625.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC22,0.7591,0.1883,0.0000,0.0080,0.0,1.0000,0.0009,0.0012,NA,,,,,
+GCF_000415665.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 03DC29,0.7578,0.1878,0.0000,0.0080,0.0,1.0000,0.0009,0.0012,NA,,,,,
+GCF_000415545.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC15,0.7563,0.1874,0.0000,0.0080,0.0,0.9999,0.0009,0.0012,NA,,,,,
+GCF_000415585.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC18,0.7555,0.1871,0.0000,0.0080,0.0,0.9999,0.0009,0.0012,NA,,,,,
+GCF_000417585.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci 02DC24,0.7548,0.1869,0.0000,0.0080,0.0,0.9999,0.0009,0.0012,NA,,,,,
+GCF_001735985.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci,0.7535,0.1865,0.0000,0.0080,0.0,0.9999,0.0009,0.0012,NA,,,,,
+GCF_000415805.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci C19/98,0.7532,0.1864,0.0000,0.0080,0.0,0.9999,0.0009,0.0012,NA,,,,,
+GCF_001401475.1,Bacteria,Chlamydiae,Chlamydiia,Chlamydiales,Chlamydiaceae,Chlamydia,Chlamydia psittaci,Chlamydia psittaci NJ1,0.7508,0.1856,0.0000,0.0080,0.0,0.9999,0.0009,0.0012,NA,,,,,

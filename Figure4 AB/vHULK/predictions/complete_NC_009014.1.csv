@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Erwinia,0.9822286,0.3644764548726016,Erwinia_amylovora,0.99994165,5.5189439738206945

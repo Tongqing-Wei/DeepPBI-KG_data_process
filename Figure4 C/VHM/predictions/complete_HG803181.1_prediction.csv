@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9814,0.5884,0.2221,0.1878,0.0,0.9969,0.9992,0.9991,NA,0.9737,0.9737,0.9497,0.9168,0.8578
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9799,0.5632,0.3036,0.1877,0.0,0.9925,0.9999,0.9997,NA,,,,,
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9787,0.5712,0.2581,0.1877,0.0,0.9946,0.9996,0.9998,NA,,,,,
+GCF_002073065.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus,0.9615,0.6003,0.0000,0.1879,0.0,1.0000,0.0001,0.0014,NA,,,,,
+GCF_000576265.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus BAA87,0.9611,0.5997,0.0000,0.1879,0.0,1.0000,0.0001,0.0014,NA,,,,,
+GCF_002903885.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus,0.9603,0.5985,0.0000,0.1879,0.0,1.0000,0.0001,0.0014,NA,,,,,
+GCF_003184105.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus,0.9601,0.5981,0.0000,0.1879,0.0,1.0000,0.0001,0.0014,NA,,,,,
+GCF_002903505.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus,0.9601,0.5981,0.0000,0.1879,0.0,0.9999,0.0001,0.0014,NA,,,,,
+GCF_004214665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus,0.9595,0.5973,0.0000,0.1879,0.0,0.9999,0.0001,0.0014,NA,,,,,
+GCF_002891685.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio vulnificus,Vibrio vulnificus,0.9593,0.5969,0.0000,0.1879,0.0,0.9999,0.0001,0.0014,NA,,,,,

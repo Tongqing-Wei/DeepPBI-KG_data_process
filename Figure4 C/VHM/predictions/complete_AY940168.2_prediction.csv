@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9621,0.4942,0.3585,0.1770,0.0,0.9937,0.9997,0.9994,NA,0.9733,0.9733,0.9425,0.9076,0.8460
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9621,0.4832,0.4017,0.1769,0.0,0.9868,0.9998,0.9996,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9619,0.4928,0.3614,0.1768,0.0,0.9929,0.9997,0.9998,NA,,,,,
+GCF_000012465.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. NATL2A,0.9599,0.3908,0.7299,0.1725,0.0,0.8533,1.0000,1.0000,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9596,0.4959,0.3335,0.1766,0.0,0.9947,0.9996,0.9998,NA,,,,,
+GCF_000011465.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus subsp. pastoris str. CCMP1986,0.9581,0.4279,0.5819,0.1742,0.0,0.9187,1.0000,1.0000,NA,,,,,
+GCF_000015665.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9515,0.9523,0.4244,0.5770,0.1762,0.0,0.9092,0.9999,0.9999,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9432,0.4735,0.3406,0.1768,0.0,0.9761,0.9996,0.9997,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9401,0.4781,0.3109,0.1770,0.0,0.9830,0.9994,0.9992,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9366,0.4782,0.2961,0.1771,0.0,0.9833,0.9993,0.9991,NA,,,,,

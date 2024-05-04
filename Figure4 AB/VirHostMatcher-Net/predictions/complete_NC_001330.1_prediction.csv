@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.8440,0.2489,0.2218,0.0601,0.0,0.9830,0.9999,0.9998,NA,0.9525,0.9525,0.9177,0.8757,0.7824
+GCF_000981485.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli K-12,0.8422,0.2189,0.3327,0.0592,0.0,0.9341,1.0000,1.0000,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8369,0.2586,0.1683,0.0597,0.0,0.9919,0.9995,0.9999,NA,,,,,
+GCF_000463345.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. ATCC 39006,Serratia sp. ATCC 39006,0.8309,0.2529,0.1849,0.0604,0.0,0.9869,0.9997,0.9993,NA,,,,,
+GCF_001546835.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus salivarius,Streptococcus salivarius,0.7992,0.2870,0.0000,0.0605,0.0,1.0000,0.0002,0.0008,NA,,,,,
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.7979,0.2207,0.2620,0.0603,0.0,0.9406,1.0000,0.9996,NA,,,,,
+GCF_002968175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Shigella,Shigella boydii,Shigella boydii,0.7970,0.2243,0.2464,0.0603,0.0,0.9516,1.0000,0.9996,NA,,,,,
+GCF_003337175.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus gallolyticus,Streptococcus gallolyticus,0.7969,0.2862,0.0000,0.0605,0.0,1.0000,0.0002,0.0008,NA,,,,,
+GCF_000448665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HSISS2,Streptococcus sp. HSISS2,0.7932,0.2849,0.0000,0.0605,0.0,1.0000,0.0002,0.0008,NA,,,,,
+GCF_902167585.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus thermophilus,Streptococcus thermophilus,0.7899,0.2837,0.0000,0.0605,0.0,1.0000,0.0002,0.0008,NA,,,,,

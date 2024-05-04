@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Mycobacterium,0.999992,0.00029332324012729675,Mycobacterium_tuberculosis,1.0,3.9253035173415993

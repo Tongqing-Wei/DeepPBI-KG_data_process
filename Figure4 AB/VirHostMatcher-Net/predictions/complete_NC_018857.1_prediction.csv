@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9878,0.5020,0.5158,0.1643,0.0,0.9543,1.0000,0.9996,NA,0.9796,0.9796,0.9548,0.9276,0.8688
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9867,0.5194,0.4275,0.1644,0.0,0.9774,0.9999,0.9994,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9858,0.5159,0.4246,0.1644,0.0,0.9706,0.9999,0.9994,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9842,0.5176,0.3940,0.1645,0.0,0.9745,0.9998,0.9993,NA,,,,,
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9825,0.5115,0.3938,0.1645,0.0,0.9624,0.9997,0.9992,NA,,,,,
+GCF_000018685.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Lachnoclostridium,Lachnoclostridium phytofermentans,Lachnoclostridium phytofermentans ISDg,0.9825,0.6101,0.0000,0.1647,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000190475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Ornithinibacillus,Ornithinibacillus scapharcae,Ornithinibacillus scapharcae TW25,0.9807,0.6045,0.0000,0.1647,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001154345.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9799,0.5102,0.3655,0.1645,0.0,0.9608,0.9995,0.9990,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9796,0.5264,0.2972,0.1646,0.0,0.9851,0.9989,0.9986,NA,,,,,
+GCF_001038485.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Ornithinibacillus,Ornithinibacillus californiensis,Ornithinibacillus californiensis,0.9793,0.6003,0.0000,0.1647,0.0,1.0000,0.0000,0.0009,NA,,,,,

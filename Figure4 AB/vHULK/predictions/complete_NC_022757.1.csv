@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Lactobacillus,0.998085,0.05162768638188027,Lactobacillus_paracasei,0.99999785,5.7293642112776135

@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Pantoea,0.997182,0.07586223806956696,Pantoea_agglomerans,0.99990475,5.832690240671216

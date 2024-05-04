@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9667,0.4451,0.4052,0.1490,0.0,0.9831,0.9997,0.9993,NA,0.9730,0.9730,0.9459,0.9127,0.8503
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9615,0.4087,0.5151,0.1489,0.0,0.9500,1.0000,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9610,0.4098,0.5071,0.1489,0.0,0.9515,1.0000,0.9996,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9601,0.4521,0.3271,0.1481,0.0,0.9876,0.9993,0.9999,NA,,,,,
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9540,0.4305,0.3857,0.1491,0.0,0.9688,0.9997,0.9992,NA,,,,,
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9409,0.4439,0.2706,0.1492,0.0,0.9815,0.9986,0.9984,NA,,,,,
+GCF_001154345.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9390,0.4408,0.2750,0.1492,0.0,0.9778,0.9987,0.9984,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.9389,0.4358,0.2944,0.1492,0.0,0.9728,0.9990,0.9986,NA,,,,,
+GCF_000175795.2,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Ruminiclostridium,Ruminiclostridium papyrosolvens,Ruminiclostridium papyrosolvens DSM 2782,0.9387,0.5094,0.0000,0.1494,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9376,0.4275,0.3225,0.1491,0.0,0.9667,0.9993,0.9988,NA,,,,,

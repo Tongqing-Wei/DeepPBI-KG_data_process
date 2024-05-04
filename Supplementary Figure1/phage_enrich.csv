@@ -1,0 +1,62 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count,type
+GO:0009253,peptidoglycan catabolic process,13/178,18/851,3.21E-06,0.000195568,0.000161989,gene=acm/gene=slt/gene=lss/gene=cwlA/gene=cwlC/gene=atl/gene=lytN/gene=cwlH/gene=lytA/protein=Muramidase-2/gene=lyc/gene=rrrD/gene=lytC,13,biological_process
+GO:0019835,cytolysis,10/178,13/851,2.05E-05,0.000416731,0.000345178,gene=acm/gene=mltF/gene=sle1/gene=cwlA/gene=cwlC/gene=atl/gene=lytN/protein=Muramidase-2/gene=lyc/gene=rrrD,10,biological_process
+GO:0042742,defense response to bacterium,10/178,13/851,2.05E-05,0.000416731,0.000345178,gene=acm/gene=mltF/gene=sle1/gene=cwlA/gene=cwlC/gene=atl/gene=lytN/protein=Muramidase-2/gene=lyc/gene=rrrD,10,biological_process
+GO:0006310,DNA recombination,15/178,26/851,3.32E-05,0.000468591,0.000388134,gene=rdgC/gene=ligD/gene=recU/gene=sbcD/gene=torI/gene=intA/gene=recD2/gene=xerC/gene=intS/gene=ligC/gene=ssbB/gene=intQ/gene=rusA/gene=xerH/gene=recA,15,biological_process
+GO:0006260,DNA replication,26/178,60/851,3.84E-05,0.000468591,0.000388134,gene=dnaN/gene=ligD/gene=hindIIIM/gene=nrdD_2/gene=nrdD_1/gene=ligA_1/gene=rtpR/gene=ligA_2/gene=nrdZ/gene=nrdD/gene=dnaE1/gene=sbcD/gene=nrdA_2/gene=nrdB/gene=dnaE/gene=nrdA/gene=ssbA/gene=ssb/gene=thyA2/gene=nrdF/gene=polB/gene=ligC/gene=ssbB/gene=nrdA_1/gene=dnaX/gene=dnaE_1,26,biological_process
+GO:0008745,N-acetylmuramoyl-L-alanine amidase activity,9/178,12/851,7.88E-05,0.000801583,0.000663951,gene=lss/gene=sle1/gene=cwlA/gene=cwlC/gene=atl/gene=lytN/gene=cwlH/gene=lytA/gene=lytC,9,molecular_function
+GO:0003677,DNA binding,43/178,142/851,0.002506778,0.02184478,0.018094037,gene=abrB/gene=yhdJ/gene=dnaN/gene=parB/gene=hindIIIM/gene=pvuIIM/gene=polA_1/gene=hup/gene=ligA_1/gene=immR/gene=ligA_2/gene=holE/gene=lsr2/gene=dbpA/gene=torI/gene=tnpR/gene=intA/gene=ddrA/gene=ybaQ/gene=whiB1/gene=soj/gene=rhlB/gene=recD2/gene=xerC/gene=bamHIM/gene=whiB2_2/gene=whiB/gene=uvrC/gene=xerC_2/gene=hin/gene=polB/gene=parE/gene=polA/gene=gyrB/gene=intQ/gene=xerD/gene=rapA/gene=topoM/gene=dnaX/gene=xerH/gene=immR_2/gene=gyrA/gene=polA_2,43,molecular_function
+GO:0071555,cell wall organization,14/178,33/851,0.003579248,0.027291769,0.022605779,gene=slt/gene=lytB/gene=cwlK/gene=flgJ/gene=lss/gene=sle1/gene=cwlA/gene=atl/gene=lytN/gene=lytG/gene=cwlH/gene=lytA/gene=mepM/gene=lytM,14,biological_process
+GO:0030435,sporulation resulting in formation of a cellular spore,8/178,15/851,0.005256588,0.035627984,0.029510668,gene=abrB/gene=parB/gene=lss/gene=apr/gene=cwlA/gene=whiB/gene=cwlH/gene=lytA,8,biological_process
+GO:0003887,DNA-directed DNA polymerase activity,9/178,19/851,0.00831694,0.047413758,0.039272828,gene=dinB1/gene=dnaN/gene=polA_1/gene=holE/gene=dnaE1/gene=dnaE/gene=polB/gene=polA/gene=dnaE_1,9,molecular_function
+GO:0015074,DNA integration,7/178,13/851,0.008550022,0.047413758,0.039272828,gene=tnpR/gene=intA/gene=xerC/gene=hin/gene=intS/gene=intQ/gene=xerH,7,biological_process
+GO:0008408,3'-5' exonuclease activity,8/178,17/851,0.013467783,0.068461232,0.056706456,gene=dnaN/gene=polA_1/gene=exoX/gene=dnaE1/gene=sbcD/gene=dnaE/gene=polB/gene=dnaE_1,8,molecular_function
+GO:0046718,viral entry into host cell,6/178,13/851,0.035682211,0.167431912,0.138683896,gene=intA/gene=xerC/gene=hin/gene=intS/gene=intQ/gene=xerH,6,biological_process
+GO:0006281,DNA repair,10/178,30/851,0.0751795,0.327567819,0.27132451,gene=ligD/gene=dinI/gene=ligA_1/gene=ligA_2/gene=rtcB/gene=recU/gene=ligC/gene=ssbB/gene=rusA/gene=recA,10,biological_process
+GO:0009007,site-specific DNA-methyltransferase (adenine-specific) activity,5/178,12/851,0.083890404,0.341154308,0.282578202,gene=dpnM/gene=dam/gene=hindIIIM/gene=fokIM/gene=bamHIM,5,molecular_function
+GO:0003697,single-stranded DNA binding,4/178,10/851,0.136323816,0.461986264,0.382663342,gene=ssbA/gene=ssb/gene=ssbB/gene=recA,4,molecular_function
+GO:0003918,"DNA topoisomerase type II (double strand cut, ATP-hydrolyzing) activity",4/178,10/851,0.136323816,0.461986264,0.382663342,gene=parE/gene=gyrB/gene=topoM/gene=gyrA,4,molecular_function
+GO:0005694,chromosome,4/178,10/851,0.136323816,0.461986264,0.382663342,gene=parB/gene=parE/gene=gyrB/gene=gyrA,4,cellular_component
+GO:0005576,extracellular region,18/178,68/851,0.154172365,0.477991324,0.395920338,gene=lukDv/gene=acm/gene=lytB/gene=cwlK/gene=speA/gene=lss/gene=apr/gene=yocH/gene=sle1/gene=cwlA/gene=stxA/gene=atl/gene=xkdG/gene=stxB/gene=lytG/gene=cwlH/gene=lytA/gene=lytM,18,cellular_component
+GO:0004748,"ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor",7/178,23/851,0.186616635,0.477991324,0.395920338,gene=rtpR/gene=nrdZ/gene=nrdA_2/gene=nrdB/gene=nrdA/gene=nrdF/gene=nrdA_1,7,molecular_function
+GO:0006261,DNA-templated DNA replication,5/178,15/851,0.186914579,0.477991324,0.395920338,gene=dam/gene=polA_1/gene=parE/gene=polA/gene=gyrA,5,biological_process
+GO:0033644,host cell membrane,5/178,15/851,0.186914579,0.477991324,0.395920338,gene=mpa/gene=pulD/gene=ftsH3/gene=yfdH/gene=smc_1,5,cellular_component
+GO:0003676,nucleic acid binding,6/178,19/851,0.18806216,0.477991324,0.395920338,gene=dpnM/gene=rnhA/gene=exoX/gene=recU/gene=fokIM/gene=orn,6,molecular_function
+GO:0009263,deoxyribonucleotide biosynthetic process,6/178,19/851,0.18806216,0.477991324,0.395920338,gene=nrdA_2/gene=nrdB/gene=nrdA/gene=nrdF/gene=nrdA_1/gene=grxC,6,biological_process
+GO:0016787,hydrolase activity,8/178,29/851,0.245295856,0.598521888,0.495755835,gene=mltF/gene=rpfB/gene=intA/gene=yfbR/gene=hin/gene=cpdA/gene=rapA/gene=radD,8,molecular_function
+GO:0005971,ribonucleoside-diphosphate reductase complex,4/178,13/851,0.280351873,0.633387565,0.524635084,gene=nrdA_2/gene=nrdA/gene=nrdF/gene=nrdA_1,4,cellular_component
+GO:0008170,N-methyltransferase activity,4/178,13/851,0.280351873,0.633387565,0.524635084,gene=yhdJ/gene=hindIIIM/gene=pvuIIM/gene=bamHIM,4,molecular_function
+GO:0009307,DNA restriction-modification system,8/178,31/851,0.312621927,0.677241887,0.56095963,gene=dpnM/gene=dcm/gene=yhdJ/gene=pvuIIM/gene=hpaIIM/gene=fokIM/gene=bamHIM/gene=hhaIM,8,biological_process
+GO:0000166,nucleotide binding,4/178,14/851,0.33306978,0.677241887,0.56095963,gene=rtpR/gene=dcd/gene=yfbR/gene=polB,4,molecular_function
+GO:0032259,methylation,4/178,14/851,0.33306978,0.677241887,0.56095963,gene=thyA1/gene=thyX/gene=thyA/gene=thyA2,4,biological_process
+GO:0005739,mitochondrion,5/178,19/851,0.363989789,0.716237973,0.593260098,gene=prfB/gene=fabG/gene=topoM/gene=argD/gene=radD,5,cellular_component
+GO:0006265,DNA topological change,4/178,15/851,0.386217126,0.736226397,0.609816515,gene=parE/gene=gyrB/gene=topoM/gene=gyrA,4,biological_process
+GO:0008270,zinc ion binding,8/178,34/851,0.418961438,0.77444387,0.641472058,gene=dksA/gene=nrdD_2/gene=nrdD/gene=tadA/gene=queC/gene=rapA/gene=folE/gene=tdk,8,molecular_function
+GO:0005737,cytoplasm,34/178,157/851,0.437775699,0.785421108,0.650564507,gene=thyA1/gene=rdgC/gene=dnaN/gene=clpP1/gene=grxA/gene=rnhA/gene=cobB/gene=purA/gene=recU/gene=lsr2/gene=dnaE1/gene=dnaJ/gene=dnaE/gene=prfA/gene=whiB1/gene=srmB/gene=thyA/gene=whiB2_2/gene=whiB/gene=groS/gene=xerC_2/gene=prs/gene=parE/gene=gyrB/gene=rsr/gene=nadR/gene=xerD/gene=orn/gene=queF/gene=tdk/gene=gyrA/gene=radD/gene=dnaE_1/gene=recA,34,cellular_component
+GO:0030430,host cell cytoplasm,3/178,12/851,0.474539154,0.827053953,0.685049004,gene=gpFI/gene=cwlC/gene=hin,3,cellular_component
+GO:0042802,identical protein binding,5/178,22/851,0.501366268,0.849537287,0.703671955,gene=abrB/gene=pnuC/gene=intS/gene=recE/gene=parA,5,molecular_function
+GO:0000287,magnesium ion binding,7/178,33/851,0.554199356,0.910583391,0.754236459,gene=cca/gene=rnhA/gene=purA/gene=dut/gene=recU/gene=prs/gene=rusA,7,molecular_function
+GO:0090729,toxin activity,4/178,19/851,0.586089995,0.910583391,0.754236459,gene=lukDv/gene=speA/gene=stxA/gene=stxB,4,molecular_function
+GO:0003886,DNA (cytosine-5-)-methyltransferase activity,3/178,14/851,0.587265944,0.910583391,0.754236459,gene=dcm/gene=hpaIIM/gene=hhaIM,3,molecular_function
+GO:0005525,GTP binding,4/178,20/851,0.630002837,0.910583391,0.754236459,gene=purA/gene=rtcB/gene=folE/gene=spoT,4,molecular_function
+GO:0003723,RNA binding,3/178,15/851,0.637528149,0.910583391,0.754236459,gene=srmB/gene=rsr/gene=radD,3,molecular_function
+GO:0004252,serine-type endopeptidase activity,3/178,16/851,0.683382929,0.910583391,0.754236459,gene=clpP1/gene=apr/gene=clpP,3,molecular_function
+GO:0003684,damaged DNA binding,2/178,11/851,0.705964052,0.910583391,0.754236459,gene=dinB1/gene=recA,2,molecular_function
+GO:0004222,metalloendopeptidase activity,2/178,11/851,0.705964052,0.910583391,0.754236459,gene=cwlO/gene=mepM,2,molecular_function
+GO:0046677,response to antibiotic,2/178,11/851,0.705964052,0.910583391,0.754236459,gene=dhfrIII/gene=kilR,2,biological_process
+GO:0051082,unfolded protein binding,2/178,11/851,0.705964052,0.910583391,0.754236459,gene=dnaJ/gene=groS,2,molecular_function
+GO:0051539,"4 iron, 4 sulfur cluster binding",4/178,22/851,0.708510184,0.910583391,0.754236459,gene=nrdG/gene=whiB1/gene=whiB2_2/gene=whiB,4,molecular_function
+GO:0046872,metal ion binding,25/178,129/851,0.716524636,0.910583391,0.754236459,gene=nrdG/gene=ligD/gene=ligA_1/gene=cobB/gene=ligA_2/gene=apr/gene=nikR/gene=nrdB/gene=whiB1/gene=yfbR/gene=pphA/gene=whiB2_2/gene=whiB/gene=groS/gene=uvrC/gene=nrdF/gene=polB/gene=parE/gene=gyrB/gene=ligC/gene=rsr/gene=mepM/gene=topoM/gene=lytM/gene=polA_2,25,molecular_function
+GO:0016887,ATP hydrolysis activity,10/178,55/851,0.748820035,0.917743818,0.760167442,gene=mpa/gene=dbpA/gene=ftsH3/gene=soj/gene=rhlB/gene=srmB/gene=recD2/gene=groS/gene=ravA/gene=dnaX,10,molecular_function
+GO:0016740,transferase activity,2/178,12/851,0.752249031,0.917743818,0.760167442,gene=cobB/gene=intA,2,molecular_function
+GO:0004519,endonuclease activity,2/178,13/851,0.792149703,0.947473174,0.784792275,gene=sbcD/gene=uvrC,2,molecular_function
+GO:0005524,ATP binding,35/178,190/851,0.855989522,0.999674466,0.828030619,gene=ligD/gene=nrdD_2/gene=nrdD_1/gene=pomZ/gene=mpa/gene=cca/gene=nrdD/gene=dbpA/gene=nrdA_2/gene=dnaJ/gene=nrdA/gene=ftsH3/gene=soj/gene=rhlB/gene=srmB/gene=recD2/gene=groS/gene=prs/gene=ravA/gene=parE/gene=polA/gene=queC/gene=gyrB/gene=ligC/gene=cshB/gene=nadR/gene=nrdA_1/gene=rapA/gene=topoM/gene=tdk/gene=dnaX/gene=spoT/gene=gyrA/gene=radD/gene=recA,35,molecular_function
+GO:0016020,membrane,2/178,16/851,0.879903418,0.999674466,0.828030619,gene=slt/gene=cwlO,2,cellular_component
+GO:0005634,nucleus,5/178,36/851,0.903131506,0.999674466,0.828030619,gene=srmB/gene=polA/gene=gyrB/gene=rlmE/gene=radD,5,cellular_component
+GO:0009055,electron transfer activity,1/178,10/851,0.905652716,0.999674466,0.828030619,gene=grxA,1,molecular_function
+GO:0008168,methyltransferase activity,1/178,11/851,0.925621582,0.999674466,0.828030619,gene=hhaIM,1,molecular_function
+GO:0016021,integral component of membrane,12/178,84/851,0.961508533,0.999674466,0.828030619,gene=mltF/gene=oatA/gene=pnuC/gene=mpa/gene=pulD/gene=comEC/gene=ail/gene=ftsH3/gene=yfdH/gene=smc_1/gene=mepM/gene=rrrD,12,cellular_component
+GO:0005506,iron ion binding,1/178,14/851,0.963628178,0.999674466,0.828030619,gene=dnaJ,1,molecular_function
+GO:0005975,carbohydrate metabolic process,1/178,15/851,0.971363165,0.999674466,0.828030619,gene=nanS,1,biological_process
+GO:0005886,plasma membrane,6/178,62/851,0.995507176,0.999674466,0.828030619,gene=rpfB/gene=oatA/gene=pnuC/gene=comEC/gene=mepM/gene=nadR,6,cellular_component
+GO:0005829,cytosol,3/178,53/851,0.999674466,0.999674466,0.828030619,gene=dfrA/gene=exoX/gene=holE,3,cellular_component

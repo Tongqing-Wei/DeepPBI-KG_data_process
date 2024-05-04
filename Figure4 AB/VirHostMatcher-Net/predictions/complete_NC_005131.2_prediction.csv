@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.5093,0.2403,0.2037,0.1115,0.0,0.9971,1.0000,0.9999,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4326,0.1921,0.1377,0.0828,0.0,0.8809,0.9998,1.0000,NA
+GCF_001908755.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas gardneri,Xanthomonas gardneri,0.3409,0.2506,0.0000,0.1116,0.0,1.0000,0.0002,0.0024,NA
+GCF_002940065.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas populi,Xanthomonas populi,0.3397,0.2503,0.0000,0.1116,0.0,1.0000,0.0002,0.0024,NA
+GCF_001908775.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas gardneri,Xanthomonas gardneri,0.3372,0.2497,0.0000,0.1116,0.0,1.0000,0.0002,0.0024,NA
+GCF_001009625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas gardneri,Xanthomonas gardneri,0.3365,0.2495,0.0000,0.1116,0.0,1.0000,0.0002,0.0024,NA
+GCF_001009325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas gardneri,Xanthomonas gardneri,0.3350,0.2491,0.0000,0.1116,0.0,0.9999,0.0002,0.0024,NA
+GCF_001009295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas gardneri,Xanthomonas gardneri,0.3339,0.2488,0.0000,0.1116,0.0,0.9999,0.0002,0.0024,NA
+GCF_002285515.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas hortorum,Xanthomonas hortorum,0.3338,0.2488,0.0000,0.1116,0.0,0.9999,0.0002,0.0024,NA
+GCF_001009605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas,Xanthomonas gardneri,Xanthomonas gardneri,0.3326,0.2485,0.0000,0.1116,0.0,0.9999,0.0002,0.0024,NA

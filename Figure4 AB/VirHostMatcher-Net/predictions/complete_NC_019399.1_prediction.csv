@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9852,0.5517,0.5210,0.2029,0.0,0.9740,1.0000,0.9996,NA,0.9755,0.9755,0.9510,0.9220,0.8619
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9801,0.5762,0.3536,0.2030,0.0,0.9937,0.9994,0.9996,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9757,0.5361,0.4666,0.2030,0.0,0.9565,0.9999,0.9995,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9699,0.5492,0.3632,0.2031,0.0,0.9710,0.9995,0.9993,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9692,0.5202,0.4726,0.2030,0.0,0.9453,0.9999,0.9996,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9684,0.5478,0.3552,0.2028,0.0,0.9693,0.9994,0.9997,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9675,0.5489,0.3458,0.2031,0.0,0.9707,0.9994,0.9992,NA,,,,,
+GCF_003457635.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9672,0.6350,0.0000,0.2033,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003458205.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9668,0.6343,0.0000,0.2033,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9661,0.5478,0.3401,0.2032,0.0,0.9693,0.9993,0.9992,NA,,,,,

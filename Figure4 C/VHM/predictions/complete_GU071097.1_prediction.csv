@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.9262,0.4097,0.7789,0.2151,0.0,0.8018,1.0000,0.9999,NA,0.9688,0.9688,0.9376,0.8967,0.8226
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9188,0.5323,0.2809,0.2177,0.0,0.9972,0.9990,0.9989,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9068,0.5336,0.2405,0.2177,0.0,0.9976,0.9986,0.9990,NA,,,,,
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.8923,0.5843,0.0000,0.2178,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_000011465.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus subsp. pastoris str. CCMP1986,0.8751,0.4332,0.5503,0.2154,0.0,0.8669,0.9999,0.9999,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.8719,0.4850,0.3509,0.2176,0.0,0.9761,0.9996,0.9994,NA,,,,,
+GCF_002872255.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus nuruki,Lactobacillus nuruki,0.8709,0.5723,0.0000,0.2178,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.8637,0.4913,0.3085,0.2176,0.0,0.9799,0.9994,0.9996,NA,,,,,
+GCF_000015685.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. NATL1A,0.8623,0.4058,0.6399,0.2162,0.0,0.7896,1.0000,0.9999,NA,,,,,
+GCF_003573575.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus musae,Lactobacillus musae,0.8610,0.5674,0.0000,0.2178,0.0,1.0000,0.0001,0.0013,NA,,,,,

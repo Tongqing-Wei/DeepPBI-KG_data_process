@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9943,0.5434,0.3392,0.1349,0.0,0.9992,0.9999,0.9995,NA,0.9867,0.9867,0.9629,0.9390,0.8992
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9921,0.5322,0.3070,0.1349,0.0,0.9976,0.9997,0.9993,NA,,,,,
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9919,0.5203,0.3460,0.1346,0.0,0.9944,0.9999,0.9999,NA,,,,,
+GCF_000300175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,Alteromonas macleodii str. 'Balearic Sea AD45',0.9903,0.5090,0.3469,0.1341,0.0,0.9866,0.9999,1.0000,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.9847,0.5210,0.1959,0.1350,0.0,0.9947,0.9985,0.9983,NA,,,,,
+GCF_001306875.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus,0.9822,0.5613,0.0000,0.1351,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_001469735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus,0.9804,0.5555,0.0000,0.1351,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_001013315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus,0.9797,0.5534,0.0000,0.1351,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000834155.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus,0.9796,0.5531,0.0000,0.1351,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000834085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus,0.9796,0.5530,0.0000,0.1351,0.0,0.9999,0.0000,0.0007,NA,,,,,

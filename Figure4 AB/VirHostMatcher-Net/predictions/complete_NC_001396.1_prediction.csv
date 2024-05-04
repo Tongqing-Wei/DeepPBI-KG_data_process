@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003363155.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. 4G-K06,Dyella sp. 4G-K06,0.5446,0.3359,0.0000,0.1341,0.0,1.0000,0.0001,0.0023,NA
+GCF_003977665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. 4M-K27,Dyella sp. 4M-K27,0.5332,0.3332,0.0000,0.1341,0.0,1.0000,0.0001,0.0023,NA
+GCF_000011485.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9313,0.5096,0.2583,0.2767,0.1339,0.0,0.9426,1.0000,1.0000,NA
+GCF_003977615.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. DHOA06,Dyella sp. DHOA06,0.4907,0.3233,0.0000,0.1341,0.0,1.0000,0.0001,0.0023,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4906,0.2121,0.1721,0.0920,0.0,0.7547,0.9998,1.0000,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.4760,0.2748,0.1798,0.1340,0.0,0.9794,0.9998,0.9999,NA
+GCF_002878475.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. AD56,Dyella sp. AD56,0.4620,0.3165,0.0000,0.1341,0.0,1.0000,0.0001,0.0023,NA
+GCF_900114495.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. OK004,Dyella sp. OK004,0.4610,0.3163,0.0000,0.1341,0.0,0.9999,0.0001,0.0023,NA
+GCF_000153285.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7805,Synechococcus sp. WH 7805,0.4579,0.2718,0.1750,0.1340,0.0,0.9757,0.9998,0.9997,NA
+GCF_000179235.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CB0101,Synechococcus sp. CB0101,0.4528,0.2783,0.1442,0.1340,0.0,0.9836,0.9995,0.9997,NA

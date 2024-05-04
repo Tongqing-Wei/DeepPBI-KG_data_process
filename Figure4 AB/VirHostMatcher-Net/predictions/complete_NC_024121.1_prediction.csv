@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_900321175.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.4600,0.4263,0.0000,0.2022,0.0,1.0000,0.0001,0.0016,NA
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.4423,0.3401,0.3276,0.2020,0.0,0.9748,0.9999,0.9997,NA
+GCF_000448625.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HSISB1,Streptococcus sp. HSISB1,0.4397,0.4215,0.0000,0.2022,0.0,1.0000,0.0001,0.0016,NA
+GCF_000424045.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus B315,0.4350,0.4204,0.0000,0.2022,0.0,1.0000,0.0001,0.0016,NA
+GCF_900102715.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.4338,0.4201,0.0000,0.2022,0.0,1.0000,0.0001,0.0016,NA
+GCF_902374225.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.4316,0.4196,0.0000,0.2022,0.0,0.9999,0.0001,0.0016,NA
+GCF_000187265.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus ATCC 9812,0.4316,0.4196,0.0000,0.2022,0.0,0.9999,0.0001,0.0016,NA
+GCF_900099885.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.4311,0.4195,0.0000,0.2022,0.0,0.9999,0.0001,0.0016,NA
+GCF_900110365.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.4309,0.4194,0.0000,0.2022,0.0,0.9999,0.0001,0.0016,NA
+GCF_900112385.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus equinus,Streptococcus equinus,0.4306,0.4194,0.0000,0.2022,0.0,0.9999,0.0001,0.0016,NA

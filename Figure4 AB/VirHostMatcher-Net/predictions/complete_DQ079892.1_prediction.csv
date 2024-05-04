@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7786,0.2712,0.2423,0.0926,0.0,0.9899,0.9999,0.9995,NA,0.9439,0.9404,0.9070,0.8614,0.7561
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.7667,0.2826,0.1779,0.0922,0.0,0.9962,0.9994,0.9999,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.7535,0.2645,0.2362,0.0926,0.0,0.9842,0.9999,0.9994,NA,,,,,
+GCF_000023765.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,Candidatus Liberibacter asiaticus str. psy62,0.7528,0.2906,0.1319,0.0927,0.0,0.9976,0.9985,0.9984,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.7470,0.2737,0.1911,0.0925,0.0,0.9913,0.9995,0.9997,NA,,,,,
+GCF_900099475.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega sp. MC2,Pelistega sp. MC2,0.6960,0.3069,0.0000,0.0928,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_902386265.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.6959,0.3069,0.0000,0.0928,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000506865.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Pelistega,Pelistega indica,Pelistega indica,0.6959,0.3069,0.0000,0.0928,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000463345.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. ATCC 39006,Serratia sp. ATCC 39006,0.6887,0.2536,0.2048,0.0926,0.0,0.9709,0.9996,0.9992,NA,,,,,
+GCF_001808585.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HMSC076E03,Streptococcus sp. HMSC076E03,0.6825,0.3033,0.0000,0.0928,0.0,1.0000,0.0001,0.0008,NA,,,,,

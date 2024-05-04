@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Ralstonia,0.9979272,0.04416116060070863,Ralstonia_solanacearum,0.9999918,5.634219947703602

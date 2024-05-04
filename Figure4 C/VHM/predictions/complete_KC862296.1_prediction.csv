@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003332735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.6957,0.4741,0.4443,0.2646,0.0,0.9709,1.0000,0.9999,NA
+GCF_000342145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa PA21_ST175,0.6941,0.4755,0.4366,0.2646,0.0,0.9738,0.9999,0.9998,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.6822,0.4709,0.4421,0.2646,0.0,0.9666,1.0000,0.9999,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.6768,0.4819,0.3918,0.2645,0.0,0.9833,0.9999,1.0000,NA
+GCF_003055545.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.6339,0.4717,0.3892,0.2647,0.0,0.9679,0.9999,0.9998,NA
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.6314,0.4578,0.4418,0.2646,0.0,0.9384,0.9999,0.9998,NA
+GCF_003332785.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.6274,0.4741,0.3730,0.2647,0.0,0.9710,0.9998,0.9997,NA
+GCF_001450525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.6188,0.4724,0.3713,0.2647,0.0,0.9691,0.9998,0.9997,NA
+GCF_000568855.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa PAK,0.5987,0.4173,0.5569,0.2623,0.0,0.8476,1.0000,1.0000,NA
+GCF_002866685.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.5849,0.4704,0.3467,0.2647,0.0,0.9656,0.9996,0.9995,NA

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000739315.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Brucella abortus 544,0.9896,0.4013,1.0000,0.1708,0.0,0.9939,1.0000,1.0000,NA,0.9815,0.9815,0.9560,0.9282,0.8681
+GCF_000182725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella inopinata,Brucella inopinata BO1,0.8913,0.4063,0.4105,0.1715,0.0,0.9978,1.0000,0.9997,NA,,,,,
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.8284,0.3894,0.3547,0.1715,0.0,0.9783,1.0000,0.9996,NA,,,,,
+GCF_000732965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O157:H7 str. EDL933,0.8215,0.3890,0.3453,0.1716,0.0,0.9770,0.9999,0.9995,NA,,,,,
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.8200,0.3883,0.3455,0.1716,0.0,0.9750,0.9999,0.9995,NA,,,,,
+GCF_000011605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum SCRI1043,0.8095,0.3949,0.3021,0.1714,0.0,0.9878,0.9998,0.9997,NA,,,,,
+GCF_000010085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',0.8066,0.3828,0.3472,0.1715,0.0,0.9585,0.9999,0.9996,NA,,,,,
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.7983,0.3851,0.3259,0.1716,0.0,0.9640,0.9999,0.9994,NA,,,,,
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.7973,0.3862,0.3187,0.1714,0.0,0.9678,0.9998,0.9998,NA,,,,,
+GCF_000092025.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,Agrobacterium fabrum str. C58,0.7937,0.3726,0.3687,0.1715,0.0,0.9386,1.0000,0.9996,NA,,,,,

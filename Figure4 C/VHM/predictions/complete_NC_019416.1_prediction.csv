@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003992675.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda aquimarina,Muricauda aquimarina,0.6831,0.4368,0.0000,0.1752,0.0,1.0000,0.0001,0.0016,NA
+GCF_900111915.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Selenomonas ruminantium,0.6743,0.4344,0.0000,0.1752,0.0,1.0000,0.0001,0.0016,NA
+GCF_000687995.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Selenomonas ruminantium AC2024,0.6734,0.4342,0.0000,0.1752,0.0,1.0000,0.0001,0.0016,NA
+GCF_900119175.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Selenomonas ruminantium,0.6709,0.4335,0.0000,0.1752,0.0,1.0000,0.0001,0.0016,NA
+GCF_000701565.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas sp. FC4001,Selenomonas sp. FC4001,0.6596,0.4306,0.0000,0.1752,0.0,0.9999,0.0001,0.0016,NA
+GCF_900107615.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Selenomonas ruminantium,0.6548,0.4293,0.0000,0.1752,0.0,0.9999,0.0001,0.0016,NA
+GCF_900101815.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Pricia,Pricia antarctica,Pricia antarctica,0.6539,0.4291,0.0000,0.1752,0.0,0.9999,0.0001,0.0016,NA
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.6488,0.2756,0.6029,0.1741,0.0,0.9361,1.0000,1.0000,NA
+GCF_000424065.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Selenomonas ruminantium subsp. ruminantium ATCC 12561,0.6356,0.4244,0.0000,0.1752,0.0,0.9999,0.0001,0.0016,NA
+GCF_004296335.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda sp. 176CP4-71,Muricauda sp. 176CP4-71,0.6281,0.4225,0.0000,0.1752,0.0,0.9999,0.0001,0.0016,NA

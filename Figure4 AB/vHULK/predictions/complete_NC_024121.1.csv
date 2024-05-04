@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Serratia,0.9926623,0.15621688729046354,Serratia_marcescens,0.9999862,3.0670962570483216

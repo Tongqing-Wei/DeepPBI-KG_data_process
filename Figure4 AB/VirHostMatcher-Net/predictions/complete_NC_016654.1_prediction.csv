@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.9826,0.5708,0.4288,0.2064,0.0,0.9645,0.9999,1.0000,NA,0.9737,0.9737,0.9497,0.9168,0.8578
+GCF_001698225.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,Gordonia terrae,Gordonia terrae,0.8503,0.6050,0.4515,0.3138,0.0,0.9960,1.0000,1.0000,NA,,,,,
+GCF_003183825.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,Gordonia terrae,Gordonia terrae,0.8055,0.6050,0.4383,0.3231,0.0,0.9959,0.9999,0.9999,NA,,,,,
+GCF_004307055.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.7581,0.5700,0.5126,0.3230,0.0,0.9632,1.0000,1.0000,NA,,,,,
+GCF_003367705.1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,Microbacterium foliorum,Microbacterium foliorum,0.6897,0.5958,0.3302,0.3232,0.0,0.9903,0.9997,0.9997,NA,,,,,
+GCF_000203835.1,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor,Streptomyces coelicolor A3(2),0.6884,0.5663,0.4464,0.3231,0.0,0.9568,0.9999,0.9999,NA,,,,,
+GCF_005503035.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. Q,Rhodococcus sp. Q,0.5647,0.6469,0.0000,0.3233,0.0,1.0000,0.0001,0.0026,NA,,,,,
+GCF_001040705.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. RD6.2,Rhodococcus sp. RD6.2,0.5622,0.6463,0.0000,0.3233,0.0,1.0000,0.0001,0.0026,NA,,,,,
+GCF_900105725.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,Gordonia westfalica,Gordonia westfalica,0.5604,0.6458,0.0000,0.3233,0.0,1.0000,0.0001,0.0026,NA,,,,,
+GCF_004328705.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. ABRD24,Rhodococcus sp. ABRD24,0.5320,0.6392,0.0000,0.3233,0.0,1.0000,0.0001,0.0026,NA,,,,,

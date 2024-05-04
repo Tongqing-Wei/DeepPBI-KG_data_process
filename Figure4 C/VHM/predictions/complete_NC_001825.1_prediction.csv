@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9847,0.3889,0.3514,0.0772,0.0,0.9964,1.0000,0.9996,NA,0.9735,0.9735,0.9491,0.9181,0.8584
+GCF_001329615.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9844,0.3891,0.3453,0.0772,0.0,0.9965,1.0000,0.9996,NA,,,,,
+GCF_001154345.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9835,0.3818,0.3614,0.0772,0.0,0.9945,1.0000,0.9997,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.9828,0.3867,0.3316,0.0773,0.0,0.9959,0.9999,0.9996,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9818,0.3791,0.3489,0.0772,0.0,0.9932,1.0000,0.9996,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.9812,0.3809,0.3347,0.0773,0.0,0.9941,0.9999,0.9996,NA,,,,,
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9797,0.3811,0.3144,0.0773,0.0,0.9943,0.9999,0.9996,NA,,,,,
+GCF_004570575.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus cuniculi,Streptococcus cuniculi,0.9727,0.4426,0.0000,0.0776,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_001921845.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus cuniculi,Streptococcus cuniculi,0.9725,0.4421,0.0000,0.0776,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_004569435.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus acidominimus,Streptococcus acidominimus,0.9686,0.4341,0.0000,0.0776,0.0,1.0000,0.0001,0.0006,NA,,,,,

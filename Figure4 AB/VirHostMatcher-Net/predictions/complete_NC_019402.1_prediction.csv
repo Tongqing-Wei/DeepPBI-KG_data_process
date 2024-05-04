@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9420,0.4314,0.4459,0.1678,0.0,0.9687,0.9998,0.9998,NA,0.9722,0.9722,0.9405,0.9048,0.8294
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9374,0.4277,0.4440,0.1682,0.0,0.9660,0.9998,0.9994,NA,,,,,
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.9290,0.3812,0.5974,0.1680,0.0,0.8991,1.0000,0.9997,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9261,0.4180,0.4415,0.1682,0.0,0.9520,0.9998,0.9994,NA,,,,,
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9227,0.4332,0.3698,0.1683,0.0,0.9707,0.9996,0.9991,NA,,,,,
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9121,0.4406,0.3077,0.1683,0.0,0.9798,0.9992,0.9988,NA,,,,,
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9063,0.3989,0.4550,0.1678,0.0,0.9306,0.9999,0.9998,NA,,,,,
+GCF_002270355.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Flectobacillus,Flectobacillus sp. BAB-3569,Flectobacillus sp. BAB-3569,0.9019,0.5106,0.0000,0.1685,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000517825.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. ICM33,Prevotella sp. ICM33,0.9000,0.5094,0.0000,0.1685,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000467895.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. F0091,Prevotella sp. F0091,0.8989,0.5087,0.0000,0.1685,0.0,1.0000,0.0000,0.0007,NA,,,,,

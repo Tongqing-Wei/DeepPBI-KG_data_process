@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Leuconostoc,0.99975485,0.007988534700223227,Leuconostoc_mesenteroides,0.99999845,5.452623780052005

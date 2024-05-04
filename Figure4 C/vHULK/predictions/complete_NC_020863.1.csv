@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Vibrio,0.98479235,0.29351835630209283,Vibrio_anguillarum,0.99932194,5.116067544138151

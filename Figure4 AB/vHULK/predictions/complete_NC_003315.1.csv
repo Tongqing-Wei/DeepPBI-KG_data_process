@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Pasteurella,0.9917624,0.18071083208978964,Pasteurella_multocida,0.9997995,5.9564707885467385

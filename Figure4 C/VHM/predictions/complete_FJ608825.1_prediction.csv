@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_007752135.1,Bacteria,Planctomycetes,NAmissing,NAmissing,NAmissing,NAmissing,Planctomycetes bacterium Q31a,Planctomycetes bacterium Q31a,0.4056,0.1847,0.0000,0.0610,0.0,1.0000,0.0002,0.0017,NA
+GCF_000010085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',0.4044,0.1574,0.1082,0.0609,0.0,0.9997,0.9998,0.9997,NA
+GCF_000169155.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Thermosinus,Thermosinus carboxydivorans,Thermosinus carboxydivorans Nor1,0.3573,0.1728,0.0000,0.0610,0.0,1.0000,0.0002,0.0017,NA
+GCF_000517425.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis praecaptivus,Sodalis praecaptivus,0.3453,0.1697,0.0000,0.0610,0.0,1.0000,0.0002,0.0017,NA
+GCF_900102435.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Sporolituus,Sporolituus thermophilus,Sporolituus thermophilus DSM 23256,0.3382,0.1679,0.0000,0.0610,0.0,1.0000,0.0002,0.0017,NA
+GCF_002075285.3,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochlorotrichaceae,Halomicronema,Halomicronema hongdechloris,Halomicronema hongdechloris C2206,0.3343,0.1668,0.0000,0.0610,0.0,0.9999,0.0002,0.0017,NA
+GCF_004343195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Biostraticola,Biostraticola tofi,Biostraticola tofi,0.3338,0.1667,0.0000,0.0610,0.0,0.9999,0.0002,0.0017,NA
+GCF_000063505.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7803,Synechococcus sp. WH 7803,0.3309,0.1365,0.1097,0.0597,0.0,0.9866,0.9999,1.0000,NA
+GCF_007860185.1,Bacteria,Planctomycetes,NAmissing,NAmissing,NAmissing,NAmissing,Planctomycetes bacterium Q31b,Planctomycetes bacterium Q31b,0.3304,0.1658,0.0000,0.0610,0.0,0.9999,0.0002,0.0017,NA
+GCF_000517405.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Candidatus Sodalis pierantonius,Candidatus Sodalis pierantonius str. SOPE,0.3267,0.1648,0.0000,0.0610,0.0,0.9999,0.0002,0.0017,NA

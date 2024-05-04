@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Aeromonas,0.9999572,0.001471745520163359,Aeromonas_salmonicida,0.99999845,3.4186165780234576

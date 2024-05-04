@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002159575.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9686,0.6276,0.0000,0.1971,0.0,1.0000,0.0001,0.0010,NA,0.9729,0.9729,0.9458,0.9125,0.8521
+GCF_000423385.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale DSM 1672,0.9677,0.6258,0.0000,0.1971,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_900187035.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9675,0.6255,0.0000,0.1971,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_900453355.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9662,0.6230,0.0000,0.1971,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_003457635.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9654,0.6216,0.0000,0.1971,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003465005.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9643,0.6197,0.0000,0.1971,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_902385385.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9641,0.6195,0.0000,0.1971,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003439315.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9641,0.6195,0.0000,0.1971,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003458205.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9641,0.6194,0.0000,0.1971,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_000245775.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis YIT 11815,0.9639,0.6190,0.0000,0.1971,0.0,0.9999,0.0001,0.0010,NA,,,,,

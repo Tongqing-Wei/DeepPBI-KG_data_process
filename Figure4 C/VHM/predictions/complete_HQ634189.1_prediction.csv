@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.9135,0.4248,0.7479,0.2258,0.0,0.8873,1.0000,0.9999,NA,0.9672,0.9672,0.9363,0.8958,0.8147
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8922,0.5255,0.3031,0.2282,0.0,0.9947,0.9993,0.9992,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8769,0.5281,0.2577,0.2282,0.0,0.9957,0.9988,0.9993,NA,,,,,
+GCF_002872255.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus nuruki,Lactobacillus nuruki,0.8484,0.5785,0.0000,0.2283,0.0,1.0000,0.0001,0.0015,NA,,,,,
+GCF_003573575.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus musae,Lactobacillus musae,0.8298,0.5704,0.0000,0.2283,0.0,1.0000,0.0001,0.0015,NA,,,,,
+GCF_003967595.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus musae,Lactobacillus musae,0.8288,0.5700,0.0000,0.2283,0.0,1.0000,0.0001,0.0015,NA,,,,,
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.8185,0.5659,0.0000,0.2283,0.0,1.0000,0.0001,0.0015,NA,,,,,
+GCF_001438805.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus kimchiensis,Lactobacillus kimchiensis,0.8184,0.5659,0.0000,0.2283,0.0,0.9999,0.0001,0.0015,NA,,,,,
+GCF_004209775.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8101,Synechococcus sp. WH 8101,0.8113,0.4039,0.6314,0.2273,0.0,0.8164,1.0000,0.9999,NA,,,,,
+GCF_900660595.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma californicum,Mycoplasma californicum,0.8082,0.5619,0.0000,0.2283,0.0,0.9999,0.0001,0.0015,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001955785.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.9056,0.5587,0.0000,0.1966,0.0,1.0000,0.0000,0.0009,NA,0.9635,0.9635,0.9309,0.8906,0.8100
+GCF_001955845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.9003,0.5551,0.0000,0.1966,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000517925.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus sp. FSL H8-237,Paenibacillus sp. FSL H8-237,0.8994,0.5545,0.0000,0.1966,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001954595.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8981,0.5537,0.0000,0.1966,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001954335.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8956,0.5521,0.0000,0.1966,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001954375.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8951,0.5518,0.0000,0.1966,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001955595.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8937,0.5509,0.0000,0.1966,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001954285.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8935,0.5508,0.0000,0.1966,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001954575.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8927,0.5503,0.0000,0.1966,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001954365.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus odorifer,Paenibacillus odorifer,0.8927,0.5503,0.0000,0.1966,0.0,0.9999,0.0000,0.0009,NA,,,,,

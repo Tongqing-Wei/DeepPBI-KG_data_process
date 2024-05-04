@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Clostridium,0.9970636,0.07909947457346789,Clostridium_perfringens,0.9999951,5.958718685246259

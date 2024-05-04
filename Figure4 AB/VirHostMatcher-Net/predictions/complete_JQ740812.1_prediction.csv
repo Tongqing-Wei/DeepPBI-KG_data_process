@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.9968,0.3958,0.7854,0.0913,0.0,0.9944,1.0000,0.9999,NA,0.9844,0.9844,0.9564,0.9346,0.8941
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9921,0.4143,0.5005,0.0917,0.0,0.9967,1.0000,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9896,0.4021,0.4840,0.0917,0.0,0.9957,1.0000,0.9996,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9862,0.4009,0.4188,0.0914,0.0,0.9955,0.9999,0.9998,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.9861,0.3962,0.4237,0.0893,0.0,0.9946,1.0000,1.0000,NA,,,,,
+GCF_003460205.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9700,0.4605,0.0000,0.0922,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_003463665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9700,0.4604,0.0000,0.0922,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_008727075.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9693,0.4590,0.0000,0.0922,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000463505.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus C238,0.9685,0.4576,0.0000,0.0922,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_001835965.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus sp. HMSC034F02,Streptococcus sp. HMSC034F02,0.9677,0.4560,0.0000,0.0922,0.0,0.9999,0.0000,0.0006,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9902,0.5397,0.4215,0.1649,0.0,0.9971,0.9999,1.0000,NA,0.9835,0.9835,0.9576,0.9294,0.8706
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9902,0.5390,0.4338,0.1665,0.0,0.9970,0.9999,0.9995,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9875,0.5155,0.4705,0.1664,0.0,0.9883,1.0000,0.9996,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9872,0.5330,0.3911,0.1660,0.0,0.9960,0.9998,0.9998,NA,,,,,
+GCF_002092535.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc pseudomesenteroides,Leuconostoc pseudomesenteroides,0.9866,0.5428,0.3442,0.1666,0.0,0.9977,0.9994,0.9990,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9845,0.4881,0.5287,0.1664,0.0,0.9727,1.0000,0.9997,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9839,0.4877,0.5205,0.1664,0.0,0.9723,1.0000,0.9996,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9839,0.5279,0.3608,0.1666,0.0,0.9946,0.9996,0.9991,NA,,,,,
+GCF_002092555.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc pseudomesenteroides,Leuconostoc pseudomesenteroides,0.9832,0.5264,0.3530,0.1659,0.0,0.9941,0.9996,0.9999,NA,,,,,
+GCF_002749655.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.9823,0.5105,0.4079,0.1665,0.0,0.9851,0.9999,0.9994,NA,,,,,

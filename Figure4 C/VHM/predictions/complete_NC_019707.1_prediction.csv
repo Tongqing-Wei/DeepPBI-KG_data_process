@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003864015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Salmonella,Salmonella enterica,Salmonella enterica subsp. enterica serovar Typhimurium,0.5212,0.1567,0.1306,0.0469,0.0,0.9920,0.9999,0.9997,NA
+GCF_900660705.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma columbinasale,Mycoplasma columbinasale,0.4908,0.1823,0.0000,0.0470,0.0,1.0000,0.0002,0.0010,NA
+GCF_006239335.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus luminescens,Photorhabdus luminescens subsp. sonorensis,0.4711,0.1777,0.0000,0.0470,0.0,1.0000,0.0002,0.0010,NA
+GCF_001083805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus luminescens,Photorhabdus luminescens subsp. luminescens,0.4680,0.1770,0.0000,0.0470,0.0,1.0000,0.0002,0.0010,NA
+GCF_001696805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus australis,Photorhabdus australis,0.4668,0.1767,0.0000,0.0470,0.0,1.0000,0.0002,0.0010,NA
+GCF_900102985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus luminescens,Photorhabdus luminescens,0.4631,0.1759,0.0000,0.0470,0.0,0.9999,0.0002,0.0010,NA
+GCF_002204205.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus luminescens,Photorhabdus luminescens,0.4628,0.1758,0.0000,0.0470,0.0,0.9999,0.0002,0.0010,NA
+GCF_000007445.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli CFT073,0.4590,0.1386,0.1446,0.0469,0.0,0.9585,1.0000,0.9997,NA
+GCF_000711895.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus australis,Photorhabdus australis DSM 17609,0.4581,0.1747,0.0000,0.0470,0.0,0.9999,0.0002,0.0010,NA
+GCF_004348775.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Photorhabdus,Photorhabdus sp. MEX47-22,Photorhabdus sp. MEX47-22,0.4569,0.1744,0.0000,0.0470,0.0,0.9999,0.0002,0.0010,NA

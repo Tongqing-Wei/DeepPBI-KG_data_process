@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.9986,0.3923,0.9662,0.0885,0.0,0.9947,1.0000,0.9999,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9929,0.4106,0.5210,0.0890,0.0,0.9966,1.0000,0.9997,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9901,0.3960,0.5020,0.0891,0.0,0.9952,1.0000,0.9996,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9865,0.4010,0.4074,0.0888,0.0,0.9959,0.9999,0.9998,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.9860,0.3929,0.4178,0.0867,0.0,0.9948,1.0000,1.0000,NA,,,,,
+GCF_001596665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9739,0.3708,0.3736,0.0892,0.0,0.9843,0.9999,0.9994,NA,,,,,
+GCF_000463505.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus C238,0.9733,0.4632,0.0000,0.0896,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_003460205.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9731,0.4627,0.0000,0.0896,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_003463665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus anginosus,Streptococcus anginosus,0.9723,0.4611,0.0000,0.0896,0.0,1.0000,0.0001,0.0005,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9706,0.3602,0.3873,0.0892,0.0,0.9709,0.9999,0.9995,NA,,,,,

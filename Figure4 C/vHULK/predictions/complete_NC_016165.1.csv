@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Rhodobacter,0.9927955,0.16940257122150798,Rhodobacter_capsulatus,0.99997634,5.778486549077465

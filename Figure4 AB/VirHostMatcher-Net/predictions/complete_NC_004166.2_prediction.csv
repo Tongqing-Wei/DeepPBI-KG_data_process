@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001561955.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum propionicum,Anaerotignum propionicum DSM 1682,0.8741,0.4340,0.0000,0.1313,0.0,1.0000,0.0000,0.0008,NA,0.9534,0.9534,0.9198,0.8806,0.7910
+GCF_900129165.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum propionicum,Anaerotignum propionicum DSM 1682,0.8733,0.4336,0.0000,0.1313,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001571775.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum neopropionicum,Anaerotignum neopropionicum,0.8557,0.4248,0.0000,0.1313,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_003480465.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium AM29-6AC,Firmicutes bacterium AM29-6AC,0.8555,0.4247,0.0000,0.1313,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_902364095.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium,Firmicutes bacterium,0.8554,0.4246,0.0000,0.1313,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_003479265.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium AF19-2LB,Firmicutes bacterium AF19-2LB,0.8554,0.4246,0.0000,0.1313,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_003865035.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum sp. KCTC 15736,Anaerotignum sp. KCTC 15736,0.8453,0.4200,0.0000,0.1313,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_900142265.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum lactatifermentans,Anaerotignum lactatifermentans DSM 14214,0.8148,0.4074,0.0000,0.1313,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001645205.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus sp. SKDU10,Brevibacillus sp. SKDU10,0.8121,0.4063,0.0000,0.1313,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001696705.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.8107,0.4058,0.0000,0.1313,0.0,0.9999,0.0000,0.0008,NA,,,,,

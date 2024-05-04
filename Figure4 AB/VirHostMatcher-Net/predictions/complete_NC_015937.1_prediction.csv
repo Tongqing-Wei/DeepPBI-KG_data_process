@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.9582,0.4750,0.3877,0.1733,0.0,0.9947,0.9999,0.9995,NA,0.9735,0.9735,0.9430,0.9084,0.8473
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.9491,0.4782,0.3252,0.1732,0.0,0.9955,0.9996,0.9997,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.9476,0.4765,0.3250,0.1732,0.0,0.9951,0.9996,0.9997,NA,,,,,
+GCF_007993035.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Cryomorphaceae,Vicingus,Vicingus serpentipes,Vicingus serpentipes,0.9354,0.5452,0.0000,0.1735,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9325,0.4597,0.3281,0.1730,0.0,0.9894,0.9996,0.9998,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9292,0.4570,0.3282,0.1731,0.0,0.9879,0.9997,0.9997,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9286,0.4551,0.3346,0.1733,0.0,0.9870,0.9997,0.9993,NA,,,,,
+GCF_002120225.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Tenacibaculum,Tenacibaculum holothuriorum,Tenacibaculum holothuriorum,0.9265,0.5372,0.0000,0.1735,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000971605.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium psychrophilum,Flavobacterium psychrophilum,0.9256,0.4402,0.3822,0.1730,0.0,0.9736,0.9999,0.9998,NA,,,,,
+GCF_003143775.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Crocinitomicaceae,Brumimicrobium,Brumimicrobium sp. C305,Brumimicrobium sp. C305,0.9251,0.5360,0.0000,0.1735,0.0,1.0000,0.0000,0.0009,NA,,,,,

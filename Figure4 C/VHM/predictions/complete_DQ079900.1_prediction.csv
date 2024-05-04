@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003287245.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.6701,0.1838,0.4858,0.0960,0.0,0.9264,1.0000,0.9999,NA
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.4698,0.2108,0.1861,0.0963,0.0,0.9929,0.9998,0.9995,NA
+GCF_002921285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium versatile,Pectobacterium versatile,0.4419,0.1927,0.2320,0.0963,0.0,0.9628,1.0000,0.9996,NA
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.4374,0.1836,0.2640,0.0962,0.0,0.9254,1.0000,0.9998,NA
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.4363,0.2054,0.1762,0.0963,0.0,0.9881,0.9996,0.9994,NA
+GCF_001293545.1,Bacteria,Chloroflexi,Ardenticatenia,Ardenticatenales,Ardenticatenaceae,Ardenticatena,Ardenticatena maritima,Ardenticatena maritima,0.4345,0.2491,0.0000,0.0964,0.0,1.0000,0.0000,0.0012,NA
+GCF_001306175.1,Bacteria,Chloroflexi,Ardenticatenia,Ardenticatenales,Ardenticatenaceae,Ardenticatena,Ardenticatena maritima,Ardenticatena maritima,0.4340,0.2490,0.0000,0.0964,0.0,1.0000,0.0000,0.0012,NA
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.4128,0.2007,0.1727,0.0963,0.0,0.9790,0.9996,0.9993,NA
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.4113,0.2118,0.1271,0.0964,0.0,0.9936,0.9987,0.9985,NA
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.4061,0.2063,0.1439,0.0964,0.0,0.9894,0.9991,0.9989,NA

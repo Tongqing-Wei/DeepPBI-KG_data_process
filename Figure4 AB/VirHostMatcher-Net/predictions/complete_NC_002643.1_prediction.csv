@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002153915.1,Archaea,Euryarchaeota,Methanonatronarchaeia,Methanonatronarchaeales,Methanonatronarchaeaceae,Methanonatronarchaeum,Methanonatronarchaeum thermophilum,Methanonatronarchaeum thermophilum,0.4455,0.1754,0.0000,0.0493,0.0,1.0000,0.0002,0.0014,NA
+GCF_000332555.2,Bacteria,Spirochaetes,Spirochaetia,Leptospirales,Leptospiraceae,Leptospira,Leptospira alstonii,Leptospira alstonii serovar Pingchang str. 80-412,0.3638,0.1276,0.1116,0.0492,0.0,0.9987,1.0000,0.9997,NA
+GCF_900102185.1,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Terriglobus,Terriglobus roseus,Terriglobus roseus,0.3579,0.1541,0.0000,0.0493,0.0,1.0000,0.0002,0.0014,NA
+GCF_000800015.1,Bacteria,Acidobacteria,Acidobacteriia,Acidobacteriales,Acidobacteriaceae,Terriglobus,Terriglobus sp. TAA 43,Terriglobus sp. TAA 43,0.3561,0.1536,0.0000,0.0493,0.0,1.0000,0.0002,0.0014,NA
+GCF_000367225.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Taylorella,Taylorella asinigenitalis,Taylorella asinigenitalis 14/45,0.3404,0.1496,0.0000,0.0493,0.0,1.0000,0.0002,0.0014,NA
+GCF_900445285.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus prevotii,Anaerococcus prevotii,0.3399,0.1495,0.0000,0.0493,0.0,0.9999,0.0002,0.0014,NA
+GCF_000024105.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus prevotii,Anaerococcus prevotii DSM 20548,0.3370,0.1487,0.0000,0.0493,0.0,0.9999,0.0002,0.0014,NA
+GCF_000243735.2,Bacteria,Spirochaetes,Spirochaetia,Leptospirales,Leptospiraceae,Leptospira,Leptospira kmetyi,Leptospira kmetyi serovar Malaysia str. Bejo-Iso9,0.3300,0.1240,0.0914,0.0493,0.0,0.9984,0.9997,0.9994,NA
+GCF_900290195.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Anaerococcus,Anaerococcus sp. Marseille-P3557,Anaerococcus sp. Marseille-P3557,0.3289,0.1466,0.0000,0.0493,0.0,0.9999,0.0002,0.0014,NA
+GCF_000226625.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Alcaligenaceae,Taylorella,Taylorella asinigenitalis,Taylorella asinigenitalis MCE3,0.3280,0.1463,0.0000,0.0493,0.0,0.9999,0.0002,0.0014,NA

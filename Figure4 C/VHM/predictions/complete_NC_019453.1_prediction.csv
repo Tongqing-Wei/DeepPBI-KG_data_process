@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_004634195.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. SaA2.12,Flavobacterium sp. SaA2.12,0.4833,0.1509,0.0712,0.0397,0.0,0.9995,0.9993,0.9991,NA
+GCF_001423985.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. Leaf359,Flavobacterium sp. Leaf359,0.4721,0.1662,0.0000,0.0397,0.0,1.0000,0.0002,0.0012,NA
+GCF_003663835.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium lindanitolerans,Flavobacterium lindanitolerans,0.4692,0.1655,0.0000,0.0397,0.0,1.0000,0.0002,0.0012,NA
+GCF_002846575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium lindanitolerans,Flavobacterium lindanitolerans,0.4676,0.1651,0.0000,0.0397,0.0,1.0000,0.0002,0.0012,NA
+GCF_003634615.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. 102,Flavobacterium sp. 102,0.4540,0.1619,0.0000,0.0397,0.0,1.0000,0.0002,0.0012,NA
+GCF_900102265.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Chryseobacterium,Chryseobacterium hungaricum,Chryseobacterium hungaricum,0.4540,0.1619,0.0000,0.0397,0.0,0.9999,0.0002,0.0012,NA
+GCF_007109225.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. GT3R68,Flavobacterium sp. GT3R68,0.4493,0.1608,0.0000,0.0397,0.0,0.9999,0.0002,0.0012,NA
+GCF_000169115.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cellvibrionales,Halieaceae,NAmissing,marine gamma proteobacterium HTCC2080,marine gamma proteobacterium HTCC2080,0.4413,0.1589,0.0000,0.0397,0.0,0.9999,0.0002,0.0012,NA
+GCF_006385255.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. MaA-Y11,Flavobacterium sp. MaA-Y11,0.4407,0.1588,0.0000,0.0397,0.0,0.9999,0.0002,0.0012,NA
+GCF_006715975.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Zymomonas,Zymomonas mobilis,Zymomonas mobilis,0.4379,0.1581,0.0000,0.0397,0.0,0.9999,0.0002,0.0012,NA

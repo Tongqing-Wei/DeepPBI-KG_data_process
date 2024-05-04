@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.5159,0.2963,0.2919,0.1588,0.0,0.6925,0.9998,1.0000,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.4332,0.3912,0.2865,0.2286,0.0,0.9858,0.9998,0.9999,NA
+GCF_000013705.1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylobacillus,Methylobacillus flagellatus,Methylobacillus flagellatus KT,0.4141,0.4584,0.0000,0.2287,0.0,1.0000,0.0002,0.0023,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.4029,0.3644,0.3644,0.2285,0.0,0.9403,1.0000,0.9999,NA
+GCF_001275725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas coronafaciens,Pseudomonas coronafaciens pv. porri,0.3888,0.4019,0.2022,0.2288,0.0,0.9947,0.9992,0.0020,NA
+GCF_000192635.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. H13-3,Agrobacterium sp. H13-3,0.3828,0.3906,0.2407,0.2287,0.0,0.9848,0.9995,0.9995,NA
+GCF_900187985.1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Methylophilaceae,Methylobacillus,Methylobacillus rhizosphaerae,Methylobacillus rhizosphaerae,0.3650,0.4463,0.0000,0.2287,0.0,1.0000,0.0002,0.0023,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.3491,0.3872,0.2205,0.2287,0.0,0.9808,0.9993,0.0023,NA
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.3401,0.3833,0.2270,0.2287,0.0,0.9752,0.9994,0.0023,NA
+GCF_007992375.1,Bacteria,Proteobacteria,Betaproteobacteria,Nitrosomonadales,Gallionellaceae,Sulfuriferula,Sulfuriferula plumbiphila,Sulfuriferula plumbiphila,0.3363,0.4389,0.0000,0.2287,0.0,1.0000,0.0002,0.0023,NA

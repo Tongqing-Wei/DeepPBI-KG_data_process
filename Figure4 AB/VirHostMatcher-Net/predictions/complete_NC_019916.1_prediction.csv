@@ -1,0 +1,12 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002749655.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.9906,0.2760,1.0000,0.0900,0.0,0.9980,1.0000,1.0000,NA,0.9835,0.9835,0.9576,0.9294,0.8706
+GCF_000026485.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei BL23,0.7474,0.2702,0.1946,0.0908,0.0,0.9967,0.9997,0.9998,NA,,,,,
+GCF_000829055.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei subsp. casei ATCC 393,0.7080,0.2522,0.2205,0.0909,0.0,0.9936,0.9999,0.9997,NA,,,,,
+GCF_000648755.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum subsp. plantarum,0.6476,0.2913,0.0000,0.0911,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000814725.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.6466,0.2911,0.0000,0.0911,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_001704335.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.6455,0.2908,0.0000,0.0911,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_004101325.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.6448,0.2906,0.0000,0.0911,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_002290185.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.6420,0.2899,0.0000,0.0911,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_001704315.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.6408,0.2896,0.0000,0.0911,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_902386565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.6391,0.2892,0.0000,0.0911,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_001010995.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus brevis,Lactobacillus brevis,0.6391,0.2892,0.0000,0.0911,0.0,0.9999,0.0001,0.0012,NA,,,,,

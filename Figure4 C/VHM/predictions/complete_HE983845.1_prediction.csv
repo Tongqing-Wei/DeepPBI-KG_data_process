@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003332785.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.6897,0.1799,0.9176,0.1569,0.0,0.5498,1.0000,1.0000,NA
+GCF_003055545.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.6860,0.1780,0.9211,0.1569,0.0,0.5375,1.0000,1.0000,NA
+GCF_000011605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum SCRI1043,0.6689,0.3192,0.3400,0.1573,0.0,0.9960,0.9999,0.9999,NA
+GCF_001275725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas coronafaciens,Pseudomonas coronafaciens pv. porri,0.5981,0.2634,0.4897,0.1570,0.0,0.8612,0.9999,0.9999,NA
+GCF_002921285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium versatile,Pectobacterium versatile,0.5958,0.3100,0.3049,0.1576,0.0,0.9912,0.9997,0.9995,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.5924,0.2512,0.5357,0.1573,0.0,0.8161,1.0000,0.9999,NA
+GCF_002920025.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum,0.5796,0.3178,0.2586,0.1577,0.0,0.9955,0.9995,0.9992,NA
+GCF_000982825.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,Cronobacter sakazakii,0.5765,0.3004,0.3233,0.1574,0.0,0.9828,0.9998,0.9999,NA
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.5670,0.2952,0.3365,0.1576,0.0,0.9718,0.9999,0.9997,NA
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.5515,0.2910,0.3384,0.1576,0.0,0.9583,0.9999,0.9998,NA

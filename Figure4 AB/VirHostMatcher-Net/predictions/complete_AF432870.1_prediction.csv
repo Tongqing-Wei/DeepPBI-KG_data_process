@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.5661,0.1919,0.1736,0.0688,0.0,0.9992,1.0000,0.9998,NA
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.5502,0.1868,0.1790,0.0688,0.0,0.9959,1.0000,0.9998,NA
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.5309,0.1825,0.1780,0.0688,0.0,0.9931,1.0000,0.9998,NA
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.5291,0.1932,0.1339,0.0688,0.0,0.9997,0.9998,0.9995,NA
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.5237,0.1862,0.1560,0.0687,0.0,0.9954,0.9999,0.9998,NA
+GCF_000269945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Lactococcus garvieae Lg2,0.5069,0.1712,0.2008,0.0687,0.0,0.9829,1.0000,0.9998,NA
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.4809,0.1856,0.1191,0.0688,0.0,0.9949,0.9996,0.9993,NA
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.4809,0.1799,0.1386,0.0683,0.0,0.9918,0.9998,1.0000,NA
+GCF_000407285.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus saccharolyticus,Enterococcus saccharolyticus subsp. saccharolyticus ATCC 43076,0.4206,0.2012,0.0000,0.0689,0.0,1.0000,0.0001,0.0013,NA
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.4205,0.1676,0.1316,0.0684,0.0,0.9769,0.9998,1.0000,NA

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000829055.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei subsp. casei ATCC 393,0.7619,0.3332,0.2771,0.1397,0.0,0.9895,0.9999,0.9996,NA,0.9426,0.9391,0.9009,0.8557,0.7513
+GCF_000026485.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei BL23,0.7590,0.3347,0.2666,0.1395,0.0,0.9902,0.9999,0.9999,NA,,,,,
+GCF_900240275.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timonensis,Lactobacillus timonensis,0.7522,0.3996,0.0000,0.1398,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002871555.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Gardnerella vaginalis,0.7475,0.3981,0.0000,0.1398,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002553995.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus sp. UMNPBX5,Lactobacillus sp. UMNPBX5,0.7434,0.3968,0.0000,0.1398,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_902362445.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Gardnerella,Gardnerella vaginalis,Gardnerella vaginalis,0.7421,0.3964,0.0000,0.1398,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002749655.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus plantarum,Lactobacillus plantarum,0.7343,0.3366,0.2295,0.1397,0.0,0.9916,0.9997,0.9994,NA,,,,,
+GCF_003833155.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus vaginalis,Lactobacillus vaginalis,0.7320,0.3934,0.0000,0.1398,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_001435915.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus vaginalis,Lactobacillus vaginalis DSM 5837 = ATCC 49540,0.7304,0.3929,0.0000,0.1398,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_000267765.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli PA28,0.7265,0.3168,0.2992,0.1396,0.0,0.9803,1.0000,0.9998,NA,,,,,

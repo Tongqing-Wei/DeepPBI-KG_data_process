@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000056065.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus delbrueckii,Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002,0.9471,0.2874,1.0000,0.1608,0.0,0.9239,1.0000,1.0000,NA,0.9719,0.9719,0.9399,0.9058,0.8357
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.6919,0.3544,0.2516,0.1616,0.0,0.9990,0.9998,0.9998,NA,,,,,
+GCF_000092025.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,Agrobacterium fabrum str. C58,0.6361,0.3457,0.2290,0.1617,0.0,0.9966,0.9995,0.9992,NA,,,,,
+GCF_000026485.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus casei,Lactobacillus casei BL23,0.6045,0.3249,0.2796,0.1615,0.0,0.9898,1.0000,0.9999,NA,,,,,
+GCF_000192635.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. H13-3,Agrobacterium sp. H13-3,0.5940,0.3553,0.1493,0.1618,0.0,0.9992,0.9982,0.0011,NA,,,,,
+GCF_000739315.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Brucella abortus 544,0.5016,0.3079,0.2509,0.1617,0.0,0.9721,0.9998,0.9995,NA,,,,,
+GCF_001611555.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Anaerosporomusa,Anaerosporomusa subterranea,Anaerosporomusa subterranea,0.4905,0.3681,0.0000,0.1618,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_001404415.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,[Eubacterium] siraeum,[Eubacterium] siraeum,0.4900,0.3680,0.0000,0.1618,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000182725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella inopinata,Brucella inopinata BO1,0.4855,0.3082,0.2349,0.1617,0.0,0.9744,0.9996,0.9993,NA,,,,,
+GCF_001596675.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.4806,0.3005,0.2602,0.1616,0.0,0.9609,0.9999,0.9998,NA,,,,,

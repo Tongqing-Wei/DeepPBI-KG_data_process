@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9909,0.5922,0.4792,0.2037,0.0,0.9959,0.9999,0.9995,NA,0.9835,0.9835,0.9576,0.9294,0.8706
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9894,0.5918,0.4430,0.2035,0.0,0.9958,0.9998,0.9998,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9848,0.5871,0.3796,0.2038,0.0,0.9940,0.9995,0.9991,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9839,0.5834,0.3785,0.2034,0.0,0.9911,0.9995,0.9998,NA,,,,,
+GCF_000010465.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus str. Newman,0.9835,0.5849,0.3694,0.2039,0.0,0.9924,0.9994,0.9991,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9832,0.5840,0.3687,0.2039,0.0,0.9915,0.9994,0.9991,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9818,0.5822,0.3563,0.2039,0.0,0.9901,0.9992,0.9990,NA,,,,,
+GCF_000012325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea,Colwellia psychrerythraea 34H,0.9550,0.5109,0.4237,0.2038,0.0,0.9385,0.9997,0.9993,NA,,,,,
+GCF_000712995.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus capitis,Staphylococcus capitis,0.9532,0.6146,0.0000,0.2041,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_007668005.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus capitis,Staphylococcus capitis,0.9532,0.6146,0.0000,0.2041,0.0,1.0000,0.0000,0.0008,NA,,,,,

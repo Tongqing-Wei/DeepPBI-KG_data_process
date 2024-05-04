@@ -1,0 +1,20 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count,type
+GO:0071555,cell wall organization,8/23,33/851,6.89427856354116e-07,1.30991292707282e-05,7.982848863047659e-06,gene=lytB_1/gene=mepM/gene=lytB/gene=mepH/gene=atl/gene=lss/gene=lytM/gene=ykfC,8,biological_process
+GO:0005576,extracellular region,9/23,68/851,2.6110449169581895e-05,0.000248049267111028,0.000151165758350211,gene=lytB_1/gene=rpfE/gene=rpfC/gene=chiA1/gene=iap/gene=lytB/gene=atl/gene=lss/gene=lytM,9,cellular_component
+GO:0008234,cysteine-type peptidase activity,4/23,10/851,7.68696322282239e-05,0.000486841004112085,0.000296689808600162,gene=iap/gene=mepH/gene=pgdS/gene=ykfC,4,molecular_function
+GO:0016787,hydrolase activity,5/23,29/851,0.000705956319118567,0.00335329251581319,0.0020435577658695398,gene=rpfE/gene=rpfC/gene=rpfB/gene=mltF/gene=rpfA,5,molecular_function
+GO:0004222,metalloendopeptidase activity,2/23,11/851,0.0331514069447025,0.10805181646435,0.0658487524159474,gene=mepM/gene=cwlO,2,molecular_function
+GO:0008745,N-acetylmuramoyl-L-alanine amidase activity,2/23,12/851,0.0391332210802965,0.10805181646435,0.0658487524159474,gene=atl/gene=lss,2,molecular_function
+GO:0019835,cytolysis,2/23,13/851,0.045495501669199995,0.10805181646435,0.0658487524159474,gene=mltF/gene=atl,2,biological_process
+GO:0042742,defense response to bacterium,2/23,13/851,0.045495501669199995,0.10805181646435,0.0658487524159474,gene=mltF/gene=atl,2,biological_process
+GO:0033644,host cell membrane,2/23,15/851,0.0592703358586112,0.125126264590401,0.0762542332683887,gene=smc_1/gene=rpfD,2,cellular_component
+GO:0016021,integral component of membrane,5/23,84/851,0.0672115105003957,0.127701869950752,0.0778238542636161,gene=smc_1/gene=rpfD/gene=mepM/gene=mltF/gene=lss_2,5,cellular_component
+GO:0009253,peptidoglycan catabolic process,2/23,18/851,0.0822388536062323,0.14204892895621898,0.0865672143223498,gene=atl/gene=lss,2,biological_process
+GO:0005886,plasma membrane,3/23,62/851,0.23143809027545395,0.366443642936135,0.223317455528947,gene=rpfB/gene=mepM/gene=lss_2,3,cellular_component
+GO:0030430,host cell cytoplasm,1/23,12/851,0.2817674671753,0.399530806805129,0.24348137810838896,gene=gpFI,1,cellular_component
+GO:0046718,viral entry into host cell,1/23,13/851,0.301456797634141,0.399530806805129,0.24348137810838896,gene=pls,1,biological_process
+GO:0030435,sporulation resulting in formation of a cellular spore,1/23,15/851,0.33929771647015505,0.399530806805129,0.24348137810838896,gene=lss,1,biological_process
+GO:0004252,serine-type endopeptidase activity,1/23,16/851,0.357474932404589,0.399530806805129,0.24348137810838896,gene=clpP1,1,molecular_function
+GO:0016020,membrane,1/23,16/851,0.357474932404589,0.399530806805129,0.24348137810838896,gene=cwlO,1,cellular_component
+GO:0046872,metal ion binding,3/23,129/851,0.7029568094359421,0.742009965515716,0.452194438818442,gene=mepM/gene=lss_2/gene=lytM,3,molecular_function
+GO:0005737,cytoplasm,1/23,157/851,0.9914277871628628,0.9914277871628628,0.604194219323629,gene=clpP1,1,cellular_component

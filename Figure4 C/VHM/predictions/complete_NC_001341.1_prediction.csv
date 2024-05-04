@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001580475.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.5706,0.1970,0.1171,0.0626,0.0,0.9999,0.9992,0.9988,NA
+GCF_000364165.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium sp. ASF356,Clostridium sp. ASF356,0.4620,0.2009,0.0000,0.0626,0.0,1.0000,0.0000,0.0008,NA
+GCF_001995115.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.4613,0.2007,0.0000,0.0626,0.0,1.0000,0.0000,0.0008,NA
+GCF_900167105.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas,Porphyromonas circumdentaria,Porphyromonas circumdentaria,0.4572,0.1997,0.0000,0.0626,0.0,1.0000,0.0000,0.0008,NA
+GCF_000374405.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Riemerella,Riemerella columbina,Riemerella columbina DSM 16469,0.4571,0.1997,0.0000,0.0626,0.0,1.0000,0.0000,0.0008,NA
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.4506,0.1497,0.1932,0.0625,0.0,0.9640,1.0000,0.9996,NA
+GCF_001677395.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.4459,0.1971,0.0000,0.0626,0.0,0.9999,0.0000,0.0008,NA
+GCF_001936395.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.4456,0.1970,0.0000,0.0626,0.0,0.9999,0.0000,0.0008,NA
+GCF_003034215.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.4447,0.1968,0.0000,0.0626,0.0,0.9999,0.0000,0.0008,NA
+GCF_000240075.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare ATCC 49512,0.4421,0.1962,0.0000,0.0626,0.0,0.9999,0.0000,0.0008,NA

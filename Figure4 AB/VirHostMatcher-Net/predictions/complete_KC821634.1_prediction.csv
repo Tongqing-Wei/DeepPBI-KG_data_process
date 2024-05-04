@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.9641,0.4222,0.6596,0.1769,0.0,0.9560,1.0000,1.0000,NA,0.9733,0.9733,0.9424,0.9074,0.8457
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9522,0.4792,0.3672,0.1778,0.0,0.9895,0.9999,0.9995,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9486,0.4798,0.3459,0.1777,0.0,0.9898,0.9998,0.9997,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9468,0.4816,0.3294,0.1775,0.0,0.9904,0.9996,0.9998,NA,,,,,
+GCF_004684055.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Tissierellaceae,Soehngenia,Soehngenia sp. 1933P,Soehngenia sp. 1933P,0.9314,0.5489,0.0000,0.1781,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000015685.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. NATL1A,0.9304,0.4567,0.3614,0.1774,0.0,0.9828,0.9999,0.9999,NA,,,,,
+GCF_000015665.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9515,0.9296,0.4544,0.3688,0.1776,0.0,0.9821,0.9999,0.9997,NA,,,,,
+GCF_000012645.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9312,0.9292,0.4556,0.3644,0.1778,0.0,0.9825,0.9999,0.9995,NA,,,,,
+GCF_007993035.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Cryomorphaceae,Vicingus,Vicingus serpentipes,Vicingus serpentipes,0.9258,0.5440,0.0000,0.1781,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000011465.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus subsp. pastoris str. CCMP1986,0.9226,0.4646,0.3012,0.1772,0.0,0.9861,0.9994,0.9999,NA,,,,,

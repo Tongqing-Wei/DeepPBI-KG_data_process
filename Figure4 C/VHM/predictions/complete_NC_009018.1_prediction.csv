@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9991,0.5910,0.5385,0.1293,0.0,1.0000,1.0000,1.0000,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9911,0.4878,0.4380,0.1319,0.0,0.9868,1.0000,0.9996,NA,,,,,
+GCF_900460025.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Streptococcus dysgalactiae,0.9911,0.5976,0.0000,0.1323,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.9910,0.4954,0.4057,0.1320,0.0,0.9891,0.9999,0.9995,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9909,0.4879,0.4312,0.1319,0.0,0.9868,0.9999,0.9995,NA,,,,,
+GCF_000628885.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes ABC020052023,0.9900,0.5909,0.0000,0.1323,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_901544365.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Streptococcus dysgalactiae subsp. equisimilis,0.9887,0.5835,0.0000,0.1323,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_900459095.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Streptococcus dysgalactiae,0.9885,0.5826,0.0000,0.1323,0.0,0.9999,0.0001,0.0007,NA,,,,,
+GCF_901544045.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Streptococcus dysgalactiae,0.9884,0.5820,0.0000,0.1323,0.0,0.9999,0.0001,0.0007,NA,,,,,
+GCF_000631005.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes ABC020047619,0.9882,0.5810,0.0000,0.1323,0.0,0.9999,0.0001,0.0007,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9677,0.4532,0.2559,0.1299,0.0,0.9861,0.9995,0.9992,NA,0.9730,0.9730,0.9459,0.9127,0.8503
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9676,0.4278,0.3543,0.1295,0.0,0.9558,1.0000,0.9998,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9671,0.4379,0.3120,0.1298,0.0,0.9702,0.9999,0.9996,NA,,,,,
+GCF_002926995.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9649,0.5122,0.0000,0.1300,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9626,0.4403,0.2722,0.1299,0.0,0.9743,0.9997,0.9993,NA,,,,,
+GCF_003590075.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9621,0.5077,0.0000,0.1300,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002927085.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9621,0.5077,0.0000,0.1300,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_008638315.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Rummeliibacillus,Rummeliibacillus sp. TYF-LIM-RU47,Rummeliibacillus sp. TYF-LIM-RU47,0.9607,0.5055,0.0000,0.1300,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001617605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Rummeliibacillus,Rummeliibacillus stabekisii,Rummeliibacillus stabekisii,0.9602,0.5048,0.0000,0.1300,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9597,0.4337,0.2800,0.1299,0.0,0.9627,0.9998,0.9994,NA,,,,,

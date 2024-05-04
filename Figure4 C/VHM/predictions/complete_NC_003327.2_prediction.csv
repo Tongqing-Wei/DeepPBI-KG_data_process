@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.8780,0.2953,0.1713,0.0707,0.0,0.9984,0.9995,0.9997,NA,0.9551,0.9551,0.9215,0.8822,0.7925
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8771,0.2947,0.1723,0.0708,0.0,0.9980,0.9995,0.9991,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.8552,0.2898,0.1484,0.0709,0.0,0.9941,0.9991,0.9987,NA,,,,,
+GCF_000259175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii,Providencia stuartii MRSN 2154,0.8466,0.2831,0.1589,0.0709,0.0,0.9864,0.9993,0.9989,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.8317,0.2774,0.1561,0.0709,0.0,0.9828,0.9993,0.9989,NA,,,,,
+GCF_002849855.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio azureus,Vibrio azureus,0.8222,0.3126,0.0000,0.0710,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000400265.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio azureus,Vibrio azureus NBRC 104587,0.8207,0.3120,0.0000,0.0710,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000733315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. ER1A,Vibrio sp. ER1A,0.8180,0.3110,0.0000,0.0710,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900089835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio thalassae,Vibrio thalassae,0.8150,0.3098,0.0000,0.0710,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000467165.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio azureus,Vibrio azureus NBRC 104587,0.8122,0.3087,0.0000,0.0710,0.0,0.9999,0.0001,0.0008,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000761785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni S13,0.9997,0.5916,0.8606,0.1346,0.0,0.9998,1.0000,1.0000,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_001869235.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni,0.9916,0.6063,0.0000,0.1355,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001868915.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni,0.9908,0.6012,0.0000,0.1355,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001869505.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni,0.9908,0.6011,0.0000,0.1355,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001870035.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni,0.9908,0.6010,0.0000,0.1355,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000286235.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni AWRIB576,0.9906,0.5995,0.0000,0.1355,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_000286255.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni AWRIB568,0.9905,0.5993,0.0000,0.1355,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_000175355.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni AWRIB429,0.9905,0.5989,0.0000,0.1355,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001939365.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni,0.9904,0.5986,0.0000,0.1355,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001869065.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Oenococcus,Oenococcus oeni,Oenococcus oeni,0.9895,0.5932,0.0000,0.1355,0.0,0.9999,0.0000,0.0008,NA,,,,,

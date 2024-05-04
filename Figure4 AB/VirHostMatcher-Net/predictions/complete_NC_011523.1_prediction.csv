@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9620,0.4063,0.2936,0.1128,0.0,0.9960,1.0000,0.9996,NA,0.9733,0.9733,0.9425,0.9076,0.8460
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9593,0.3982,0.3093,0.1128,0.0,0.9847,1.0000,0.9996,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9562,0.3996,0.2842,0.1126,0.0,0.9870,0.9999,0.9998,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9525,0.4001,0.2647,0.1128,0.0,0.9878,0.9998,0.9994,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9470,0.4006,0.2354,0.1129,0.0,0.9892,0.9995,0.9992,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9380,0.3793,0.2815,0.1128,0.0,0.9766,0.9999,0.9995,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9253,0.3796,0.2340,0.1129,0.0,0.9767,0.9994,0.9992,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9079,0.3723,0.2100,0.1129,0.0,0.9737,0.9992,0.9989,NA,,,,,
+GCF_003665065.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Oceanobacillus,Oceanobacillus sp. YLB-02,Oceanobacillus sp. YLB-02,0.9033,0.4218,0.0000,0.1130,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002569845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. AFS075034,Bacillus sp. AFS075034,0.9005,0.4199,0.0000,0.1130,0.0,1.0000,0.0000,0.0008,NA,,,,,

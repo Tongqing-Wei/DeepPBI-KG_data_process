@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Burkholderia,0.9745728,0.4788254831739323,Burkholderia_cenocepacia,0.9999075,5.981715885477405

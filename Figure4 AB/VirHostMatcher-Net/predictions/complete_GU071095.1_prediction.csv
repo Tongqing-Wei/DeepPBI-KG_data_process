@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.8741,0.4244,0.6929,0.2322,0.0,0.7857,1.0000,0.9999,NA,0.9534,0.9534,0.9198,0.8806,0.7910
+GCF_900119285.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,NAmissing,Prevotellaceae bacterium HUN156,Prevotellaceae bacterium HUN156,0.8136,0.5739,0.0000,0.2344,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.8116,0.4857,0.3494,0.2343,0.0,0.9700,0.9996,0.9994,NA,,,,,
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8057,0.5014,0.2781,0.2344,0.0,0.9815,0.9989,0.9988,NA,,,,,
+GCF_900110745.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella bryantii,Prevotella bryantii B14,0.8051,0.5707,0.0000,0.2344,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_000179055.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella bryantii,Prevotella bryantii B14,0.8023,0.5697,0.0000,0.2344,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.8003,0.4914,0.3092,0.2343,0.0,0.9743,0.9992,0.9996,NA,,,,,
+GCF_002251425.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella bryantii,Prevotella bryantii,0.7999,0.5688,0.0000,0.2344,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_005771635.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium CS-1,Firmicutes bacterium CS-1,0.7985,0.5683,0.0000,0.2344,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.7936,0.4904,0.3040,0.2343,0.0,0.9737,0.9992,0.9995,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.3401,0.2054,0.1208,0.1025,0.0,0.9953,0.9998,0.9997,NA
+GCF_001281505.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,NAmissing,Lawsonella,Lawsonella clevelandensis,Lawsonella clevelandensis,0.3194,0.2302,0.0000,0.1025,0.0,1.0000,0.0001,0.0025,NA
+GCF_001293125.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,NAmissing,Lawsonella,Lawsonella clevelandensis,Lawsonella clevelandensis,0.3169,0.2295,0.0000,0.1025,0.0,1.0000,0.0001,0.0025,NA
+GCF_900610365.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,NAmissing,Lawsonella,Lawsonella clevelandensis,Lawsonella clevelandensis,0.3137,0.2286,0.0000,0.1025,0.0,1.0000,0.0001,0.0025,NA
+GCF_000315465.1,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinobaculum,Actinobaculum massiliense,Actinobaculum massiliense ACS-171-V-Col2,0.3078,0.2270,0.0000,0.1025,0.0,1.0000,0.0001,0.0025,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.3072,0.1565,0.1245,0.0782,0.0,0.7423,0.9998,1.0000,NA
+GCF_001457435.1,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Actinobaculum,Actinobaculum massiliense,Actinobaculum massiliense,0.3068,0.2268,0.0000,0.1025,0.0,0.9999,0.0001,0.0025,NA
+GCF_900447255.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium renale,Corynebacterium renale,0.2980,0.2243,0.0000,0.1025,0.0,0.9999,0.0001,0.0025,NA
+GCF_000175375.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium matruchotii,Corynebacterium matruchotii ATCC 14266,0.2937,0.2231,0.0000,0.1025,0.0,0.9999,0.0001,0.0025,NA
+GCF_900447555.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Corynebacteriaceae,Corynebacterium,Corynebacterium matruchotii,Corynebacterium matruchotii,0.2932,0.2230,0.0000,0.1025,0.0,0.9999,0.0001,0.0025,NA

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001274875.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma kunkelii,Spiroplasma kunkelii CR2-3x,0.9917,0.5177,0.0000,0.0806,0.0,1.0000,0.0001,0.0008,NA,0.9832,0.9832,0.9592,0.9305,0.8729
+GCF_003339775.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma phoeniceum,Spiroplasma phoeniceum P40,0.9891,0.5018,0.0000,0.0806,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_001886855.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma citri,Spiroplasma citri,0.9842,0.4800,0.0000,0.0806,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_002968355.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma sp. ChiS,Spiroplasma sp. ChiS,0.9823,0.4730,0.0000,0.0806,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_007993715.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma citri,Spiroplasma citri,0.9807,0.4680,0.0000,0.0806,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_005222125.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma melliferum,Spiroplasma melliferum,0.9589,0.4226,0.0000,0.0806,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_000236085.2,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma melliferum,Spiroplasma melliferum KC3,0.9499,0.4105,0.0000,0.0806,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9377,0.3346,0.2486,0.0803,0.0,0.9994,1.0000,0.9996,NA,,,,,
+GCF_003987485.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma endosymbiont of Megaselia nigra,Spiroplasma endosymbiont of Megaselia nigra,0.9342,0.3936,0.0000,0.0806,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_002868295.1,Bacteria,Tenericutes,Mollicutes,Entomoplasmatales,Spiroplasmataceae,Spiroplasma,Spiroplasma melliferum,Spiroplasma melliferum,0.9299,0.3897,0.0000,0.0806,0.0,0.9999,0.0001,0.0008,NA,,,,,

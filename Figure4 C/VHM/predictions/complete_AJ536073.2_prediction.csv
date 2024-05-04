@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9457,0.3256,0.2806,0.0745,0.0,0.9858,1.0000,0.9996,NA,0.9720,0.9720,0.9400,0.9040,0.8340
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9238,0.3133,0.2457,0.0745,0.0,0.9689,0.9999,0.9994,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9194,0.3096,0.2451,0.0743,0.0,0.9615,0.9999,0.9998,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9189,0.3138,0.2280,0.0745,0.0,0.9702,0.9998,0.9993,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9122,0.3128,0.2117,0.0745,0.0,0.9680,0.9996,0.9992,NA,,,,,
+GCF_003265735.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9104,0.3646,0.0000,0.0747,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_002926995.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9086,0.3633,0.0000,0.0747,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_003590075.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9082,0.3631,0.0000,0.0747,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_002706795.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus DSM 25,0.9081,0.3630,0.0000,0.0747,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000374385.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus DSM 25,0.9079,0.3628,0.0000,0.0747,0.0,0.9999,0.0000,0.0006,NA,,,,,

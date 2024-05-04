@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_003001695.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda pacifica,Muricauda pacifica,0.8590,0.4126,0.0000,0.1228,0.0,1.0000,0.0001,0.0010,NA,0.9540,0.9540,0.9190,0.8766,0.7864
+GCF_004296335.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda sp. 176CP4-71,Muricauda sp. 176CP4-71,0.8429,0.4052,0.0000,0.1228,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_004804315.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flagellimonas,Flagellimonas sp. XY-359,Flagellimonas sp. XY-359,0.8256,0.3979,0.0000,0.1228,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_003992675.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda aquimarina,Muricauda aquimarina,0.8089,0.3913,0.0000,0.1228,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_002742365.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Maribacter,Maribacter sp. 4U21,Maribacter sp. 4U21,0.7948,0.3862,0.0000,0.1228,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_001306415.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Croceitalea,Croceitalea dokdonensis,Croceitalea dokdonensis DOKDO 023,0.7917,0.3850,0.0000,0.1228,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003057865.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda sp. K001,Muricauda sp. K001,0.7813,0.3814,0.0000,0.1228,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_003970695.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Maribacter,Maribacter sp. MJ134,Maribacter sp. MJ134,0.7781,0.3803,0.0000,0.1228,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_005937185.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flagellimonas,Flagellimonas sp. AsT0115,Flagellimonas sp. AsT0115,0.7721,0.3783,0.0000,0.1228,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_900129665.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flagellimonas,Flagellimonas flava,Flagellimonas flava,0.7716,0.3782,0.0000,0.1228,0.0,0.9999,0.0001,0.0010,NA,,,,,

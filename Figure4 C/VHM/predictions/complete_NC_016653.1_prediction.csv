@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4512,0.2378,0.2648,0.1278,0.0,0.7225,0.9998,1.0000,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.3643,0.3282,0.2836,0.1996,0.0,0.9728,0.9999,0.9999,NA
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.3506,0.3334,0.2494,0.1997,0.0,0.9807,0.9998,0.9998,NA
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.2848,0.3309,0.1889,0.1998,0.0,0.9765,0.9995,0.0024,NA
+GCF_000342145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa PA21_ST175,0.2761,0.2933,0.3283,0.1996,0.0,0.9110,1.0000,0.9999,NA
+GCF_005298175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter sp. PJ-16,Marinobacter sp. PJ-16,0.2577,0.3700,0.0000,0.1998,0.0,1.0000,0.0001,0.0025,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.2543,0.2856,0.3329,0.1996,0.0,0.8903,1.0000,0.9999,NA
+GCF_900111555.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter segnicrescens,Marinobacter segnicrescens,0.2483,0.3671,0.0000,0.1998,0.0,1.0000,0.0001,0.0025,NA
+GCF_004803755.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. DG56-2,Pseudomonas sp. DG56-2,0.2476,0.3669,0.0000,0.1998,0.0,1.0000,0.0001,0.0025,NA
+GCF_004792665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Marinobacter,Marinobacter sp. W62,Marinobacter sp. W62,0.2465,0.3666,0.0000,0.1998,0.0,1.0000,0.0001,0.0025,NA

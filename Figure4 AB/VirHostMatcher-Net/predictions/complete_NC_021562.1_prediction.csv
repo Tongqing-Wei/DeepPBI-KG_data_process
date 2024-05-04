@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.8665,0.2889,0.2270,0.0791,0.0,0.9984,0.9999,0.9999,NA,0.9537,0.9537,0.9185,0.8778,0.7870
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8370,0.2857,0.1864,0.0793,0.0,0.9968,0.9995,0.9991,NA,,,,,
+GCF_000259175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii,Providencia stuartii MRSN 2154,0.8116,0.2762,0.1838,0.0793,0.0,0.9892,0.9995,0.9990,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.8007,0.2764,0.1666,0.0793,0.0,0.9895,0.9993,0.9988,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.7980,0.2813,0.1433,0.0794,0.0,0.9946,0.9988,0.9984,NA,,,,,
+GCF_900089835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio thalassae,Vibrio thalassae,0.7836,0.3121,0.0000,0.0795,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_009362845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Cardiobacteriales,NAmissing,NAmissing,Cardiobacteriales bacterium ML27,Cardiobacteriales bacterium ML27,0.7754,0.3093,0.0000,0.0795,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_002358135.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mediterranei,Vibrio mediterranei,0.7694,0.3073,0.0000,0.0795,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_000733315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. ER1A,Vibrio sp. ER1A,0.7691,0.3072,0.0000,0.0795,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_003051055.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Agitococcus,Agitococcus lubricus,Agitococcus lubricus,0.7684,0.3070,0.0000,0.0795,0.0,0.9999,0.0001,0.0007,NA,,,,,

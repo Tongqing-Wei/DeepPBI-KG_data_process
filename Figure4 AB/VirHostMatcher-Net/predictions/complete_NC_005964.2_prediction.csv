@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000186005.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma fermentans,Mycoplasma fermentans M64,0.9308,0.3995,0.0000,0.0862,0.0,1.0000,0.0001,0.0013,NA,0.9707,0.9707,0.9395,0.8984,0.8242
+GCF_003704055.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma fermentans,Mycoplasma fermentans MF-I1,0.9189,0.3895,0.0000,0.0862,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_000209735.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma fermentans,Mycoplasma fermentans PG18,0.9186,0.3893,0.0000,0.0862,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_003704075.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma fermentans,Mycoplasma fermentans MF-I2,0.9185,0.3892,0.0000,0.0862,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_900660445.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma salivarium,Mycoplasma salivarium,0.9087,0.3820,0.0000,0.0862,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_003855455.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma sp. 237IA,Mycoplasma sp. 237IA,0.9029,0.3780,0.0000,0.0862,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_006439365.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma sp. Ms01,Mycoplasma sp. Ms01,0.8980,0.3748,0.0000,0.0862,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_000222995.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma columbinum,Mycoplasma columbinum SF7,0.8932,0.3718,0.0000,0.0862,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_000712175.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma columbinum,Mycoplasma columbinum ATCC 29257,0.8927,0.3715,0.0000,0.0862,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_900660685.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma columbinum,Mycoplasma columbinum,0.8926,0.3715,0.0000,0.0862,0.0,0.9999,0.0001,0.0013,NA,,,,,

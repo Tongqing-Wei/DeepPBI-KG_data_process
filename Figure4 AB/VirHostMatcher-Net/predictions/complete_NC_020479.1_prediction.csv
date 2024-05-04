@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000024465.1,Bacteria,Proteobacteria,Alphaproteobacteria,NAmissing,NAmissing,Candidatus Puniceispirillum,Candidatus Puniceispirillum marinum,Candidatus Puniceispirillum marinum IMCC1322,0.8186,0.3280,0.2902,0.1261,0.0,0.9977,1.0000,0.9995,NA,0.9532,0.9495,0.9153,0.8739,0.7730
+GCF_003611805.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 1xD42-87,bacterium 1xD42-87,0.7538,0.3782,0.0000,0.1263,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_001404415.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,[Eubacterium] siraeum,[Eubacterium] siraeum,0.7318,0.3714,0.0000,0.1263,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000382085.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,[Eubacterium] siraeum,[Eubacterium] siraeum DSM 15702,0.7250,0.3694,0.0000,0.1263,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000154325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,[Eubacterium] siraeum,[Eubacterium] siraeum DSM 15702,0.7210,0.3683,0.0000,0.1263,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000011605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Pectobacterium,Pectobacterium atrosepticum,Pectobacterium atrosepticum SCRI1043,0.7158,0.3073,0.2364,0.1260,0.0,0.9912,0.9994,0.9997,NA,,,,,
+GCF_001571775.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Anaerotignum,Anaerotignum neopropionicum,Anaerotignum neopropionicum,0.7130,0.3660,0.0000,0.1263,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_001611555.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Anaerosporomusa,Anaerosporomusa subterranea,Anaerosporomusa subterranea,0.7109,0.3654,0.0000,0.1263,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_902364095.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium,Firmicutes bacterium,0.7091,0.3648,0.0000,0.1263,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_003479265.1,Bacteria,Firmicutes,NAmissing,NAmissing,NAmissing,NAmissing,Firmicutes bacterium AF19-2LB,Firmicutes bacterium AF19-2LB,0.7091,0.3648,0.0000,0.1263,0.0,0.9999,0.0000,0.0007,NA,,,,,

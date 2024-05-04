@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003287245.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.6842,0.1555,0.4920,0.0771,0.0,0.8867,1.0000,0.9999,NA
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.5695,0.2011,0.1960,0.0774,0.0,0.9880,0.9999,0.9996,NA
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.5685,0.2028,0.1882,0.0774,0.0,0.9898,0.9999,0.9996,NA
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5575,0.2075,0.1593,0.0775,0.0,0.9946,0.9996,0.9993,NA
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.5438,0.2009,0.1728,0.0775,0.0,0.9878,0.9998,0.9994,NA
+GCF_001329615.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5412,0.2059,0.1505,0.0775,0.0,0.9931,0.9995,0.9992,NA
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.5088,0.2027,0.1328,0.0775,0.0,0.9898,0.9991,0.9989,NA
+GCF_002270355.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Flectobacillus,Flectobacillus sp. BAB-3569,Flectobacillus sp. BAB-3569,0.5018,0.2344,0.0000,0.0776,0.0,1.0000,0.0001,0.0009,NA
+GCF_001154345.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.4871,0.2049,0.1040,0.0775,0.0,0.9924,0.9986,0.9984,NA
+GCF_004793585.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,NAmissing,Lachnospiraceae bacterium,Lachnospiraceae bacterium,0.4849,0.2304,0.0000,0.0776,0.0,1.0000,0.0001,0.0009,NA

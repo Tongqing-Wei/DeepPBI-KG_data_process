@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Escherichia,0.9067242,1.4272946219562528,Escherichia_coli,0.999828,4.1945854734168355

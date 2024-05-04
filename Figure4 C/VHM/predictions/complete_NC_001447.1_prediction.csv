@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000018785.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii PG-8A,0.9378,0.3625,0.0000,0.0591,0.0,1.0000,0.0002,0.0012,NA,0.9723,0.9723,0.9406,0.9050,0.8297
+GCF_900476025.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9376,0.3623,0.0000,0.0591,0.0,1.0000,0.0002,0.0012,NA,,,,,
+GCF_001729655.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9374,0.3621,0.0000,0.0591,0.0,1.0000,0.0002,0.0012,NA,,,,,
+GCF_002210205.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9374,0.3621,0.0000,0.0591,0.0,1.0000,0.0002,0.0012,NA,,,,,
+GCF_001650335.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9371,0.3618,0.0000,0.0591,0.0,0.9999,0.0002,0.0012,NA,,,,,
+GCF_003385765.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9370,0.3617,0.0000,0.0591,0.0,0.9999,0.0002,0.0012,NA,,,,,
+GCF_001729645.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9369,0.3615,0.0000,0.0591,0.0,0.9999,0.0002,0.0012,NA,,,,,
+GCF_007197615.1,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9368,0.3615,0.0000,0.0591,0.0,0.9999,0.0002,0.0012,NA,,,,,
+GCF_002252185.2,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9367,0.3614,0.0000,0.0591,0.0,0.9999,0.0002,0.0012,NA,,,,,
+GCF_002252075.2,Bacteria,Tenericutes,Mollicutes,Acholeplasmatales,Acholeplasmataceae,Acholeplasma,Acholeplasma laidlawii,Acholeplasma laidlawii,0.9367,0.3614,0.0000,0.0591,0.0,0.9999,0.0002,0.0012,NA,,,,,

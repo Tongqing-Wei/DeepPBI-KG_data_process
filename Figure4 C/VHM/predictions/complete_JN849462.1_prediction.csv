@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9904,0.4661,0.8544,0.1855,0.0,0.9963,1.0000,1.0000,NA,0.9835,0.9835,0.9576,0.9294,0.8706
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9431,0.4605,0.4499,0.1857,0.0,0.9946,1.0000,0.9999,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9084,0.4677,0.3044,0.1862,0.0,0.9970,0.9996,0.9992,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.8493,0.4482,0.2506,0.1862,0.0,0.9876,0.9986,0.9985,NA,,,,,
+GCF_001469215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Pseudoalteromonadaceae,Pseudoalteromonas,Pseudoalteromonas sp. H105,Pseudoalteromonas sp. H105,0.8412,0.4189,0.3527,0.1861,0.0,0.9820,1.0000,0.9995,NA,,,,,
+GCF_000300175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas macleodii,Alteromonas macleodii str. 'Balearic Sea AD45',0.8198,0.4148,0.3303,0.1856,0.0,0.9806,0.9998,0.9999,NA,,,,,
+GCF_001274785.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio hepatarius,Vibrio hepatarius,0.7959,0.4894,0.0000,0.1863,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002026255.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. L85,Vibrio sp. L85,0.7774,0.4830,0.0000,0.1863,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_003326605.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi,Vibrio harveyi,0.7759,0.4825,0.0000,0.1863,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_001185585.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi,Vibrio harveyi,0.7756,0.4824,0.0000,0.1863,0.0,1.0000,0.0000,0.0008,NA,,,,,

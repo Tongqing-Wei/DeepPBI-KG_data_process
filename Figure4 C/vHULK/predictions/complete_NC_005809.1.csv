@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Bordetella,0.9989498,0.030527033133148508,Bordetella_bronchiseptica,0.999995,6.029254052521446

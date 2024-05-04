@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Bacillus,0.9999614,0.0014016583789802084,Bacillus_cereus,0.9999994,2.032821049444864

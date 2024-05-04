@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.7667,0.3525,0.2853,0.1519,0.0,0.8988,0.9999,1.0000,NA,0.9443,0.9408,0.9024,0.8571,0.7526
+GCF_003367705.1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Microbacterium,Microbacterium foliorum,Microbacterium foliorum,0.4568,0.3902,0.2677,0.2216,0.0,0.9875,0.9998,1.0000,NA,,,,,
+GCF_900111255.1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,Olsenella umbonata,Olsenella umbonata,0.4013,0.4444,0.0000,0.2220,0.0,1.0000,0.0001,0.0024,NA,,,,,
+GCF_900108495.1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,Olsenella umbonata,Olsenella umbonata,0.4007,0.4442,0.0000,0.2220,0.0,1.0000,0.0001,0.0024,NA,,,,,
+GCF_900167315.1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Atopobiaceae,Olsenella,Olsenella sp. KH1P3,Olsenella sp. KH1P3,0.4000,0.4440,0.0000,0.2220,0.0,1.0000,0.0001,0.0024,NA,,,,,
+GCF_004307055.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.3788,0.3526,0.3446,0.2218,0.0,0.8993,1.0000,0.9999,NA,,,,,
+GCF_002159335.1,Bacteria,Actinobacteria,Coriobacteriia,Coriobacteriales,Coriobacteriaceae,Collinsella,Collinsella sp. An7,Collinsella sp. An7,0.3780,0.4386,0.0000,0.2220,0.0,1.0000,0.0001,0.0024,NA,,,,,
+GCF_000775415.1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermabacteraceae,Dermabacter,Dermabacter hominis,Dermabacter hominis 1368,0.3772,0.4384,0.0000,0.2220,0.0,0.9999,0.0001,0.0024,NA,,,,,
+GCF_001403775.1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermabacteraceae,Helcobacillus,Helcobacillus massiliensis,Helcobacillus massiliensis,0.3649,0.4354,0.0000,0.2220,0.0,0.9999,0.0001,0.0024,NA,,,,,
+GCF_002847685.1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Dermabacteraceae,Dermabacter,Dermabacter hominis,Dermabacter hominis,0.3639,0.4351,0.0000,0.2220,0.0,0.9999,0.0001,0.0024,NA,,,,,

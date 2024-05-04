@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9059,0.4148,0.3173,0.1565,0.0,0.9929,1.0000,0.9999,NA,0.9635,0.9635,0.9309,0.8906,0.8100
+GCF_003339505.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Runella,Runella sp. YX9,Runella sp. YX9,0.9038,0.4931,0.0000,0.1569,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_003325355.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Runella,Runella sp. HYN0085,Runella sp. HYN0085,0.8980,0.4894,0.0000,0.1569,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_000482465.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Runella,Runella limosa,Runella limosa DSM 17973,0.8946,0.4872,0.0000,0.1569,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_003711225.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Runella,Runella sp. SP2,Runella sp. SP2,0.8939,0.4868,0.0000,0.1569,0.0,1.0000,0.0001,0.0010,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8698,0.3927,0.3214,0.1567,0.0,0.9798,1.0000,0.9997,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.8670,0.4101,0.2469,0.1568,0.0,0.9902,0.9995,0.9991,NA,,,,,
+GCF_000423565.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Runella,Runella zeae,Runella zeae DSM 19591,0.8474,0.4625,0.0000,0.1569,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_000430505.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Microscillaceae,Eisenibacter,Eisenibacter elegans,Eisenibacter elegans DSM 3317,0.8428,0.4604,0.0000,0.1569,0.0,0.9999,0.0001,0.0010,NA,,,,,
+GCF_004363775.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Hydromonas,Hydromonas duriensis,Hydromonas duriensis,0.8258,0.4532,0.0000,0.1569,0.0,0.9999,0.0001,0.0010,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000468615.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 18,0.9449,0.1713,0.5257,0.0174,0.0,0.9827,1.0000,1.0000,NA,0.9721,0.9721,0.9402,0.9044,0.8307
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.8442,0.1867,0.2008,0.0184,0.0,0.9973,1.0000,0.9996,NA,,,,,
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.8223,0.1886,0.1567,0.0185,0.0,0.9980,0.9999,0.9994,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.8032,0.1822,0.1530,0.0185,0.0,0.9951,0.9999,0.9994,NA,,,,,
+GCF_001596665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.7962,0.1765,0.1655,0.0185,0.0,0.9901,1.0000,0.9995,NA,,,,,
+GCF_001596735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.7909,0.1753,0.1629,0.0185,0.0,0.9883,0.9999,0.9994,NA,,,,,
+GCF_005771495.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Maribacter,Maribacter sp. ACAM166,Maribacter sp. ACAM166,0.7805,0.2126,0.0000,0.0187,0.0,1.0000,0.0003,0.0005,NA,,,,,
+GCF_002806995.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Confluentibacter,Confluentibacter lentus,Confluentibacter lentus,0.7780,0.2118,0.0000,0.0187,0.0,1.0000,0.0003,0.0005,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.7771,0.1743,0.1481,0.0185,0.0,0.9868,0.9998,0.9993,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.7738,0.1794,0.1233,0.0185,0.0,0.9931,0.9996,0.9990,NA,,,,,

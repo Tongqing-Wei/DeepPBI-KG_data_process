@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001596675.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,1.0000,0.7356,0.7850,0.1268,0.0,0.9988,1.0000,1.0000,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_001596735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,1.0000,0.7308,0.7059,0.1277,0.0,0.9985,1.0000,0.9999,NA,,,,,
+GCF_001596665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,1.0000,0.7398,0.6521,0.1277,0.0,0.9993,1.0000,0.9999,NA,,,,,
+GCF_007981025.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9994,0.7458,0.0000,0.1284,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_007981045.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9994,0.7450,0.0000,0.1284,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_007976245.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9994,0.7445,0.0000,0.1284,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_002285815.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9993,0.7443,0.0000,0.1284,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_007965355.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9993,0.7442,0.0000,0.1284,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_002285575.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9993,0.7440,0.0000,0.1284,0.0,0.9999,0.0000,0.0007,NA,,,,,
+GCF_007978725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pasteurellales,Pasteurellaceae,Mannheimia,Mannheimia haemolytica,Mannheimia haemolytica,0.9993,0.7440,0.0000,0.1284,0.0,0.9999,0.0000,0.0007,NA,,,,,

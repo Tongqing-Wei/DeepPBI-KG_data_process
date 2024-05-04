@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003363155.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. 4G-K06,Dyella sp. 4G-K06,0.5448,0.3397,0.0000,0.1364,0.0,1.0000,0.0001,0.0024,NA
+GCF_003977665.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. 4M-K27,Dyella sp. 4M-K27,0.5389,0.3383,0.0000,0.1364,0.0,1.0000,0.0001,0.0024,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.5276,0.2207,0.1760,0.0925,0.0,0.7713,0.9998,1.0000,NA
+GCF_000011485.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9313,0.5169,0.2633,0.2785,0.1362,0.0,0.9382,1.0000,1.0000,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.4964,0.2811,0.1885,0.1363,0.0,0.9800,0.9999,0.9999,NA
+GCF_003977615.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. DHOA06,Dyella sp. DHOA06,0.4920,0.3273,0.0000,0.1364,0.0,1.0000,0.0001,0.0024,NA
+GCF_000153285.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 7805,Synechococcus sp. WH 7805,0.4865,0.2806,0.1817,0.1363,0.0,0.9796,0.9998,0.9997,NA
+GCF_000179235.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CB0101,Synechococcus sp. CB0101,0.4771,0.2880,0.1434,0.1364,0.0,0.9860,0.9995,0.9996,NA
+GCF_900114495.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. OK004,Dyella sp. OK004,0.4684,0.3218,0.0000,0.1364,0.0,1.0000,0.0001,0.0024,NA
+GCF_002878475.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. AD56,Dyella sp. AD56,0.4671,0.3215,0.0000,0.1364,0.0,0.9999,0.0001,0.0024,NA

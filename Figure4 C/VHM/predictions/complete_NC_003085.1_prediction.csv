@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000278585.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,Myxococcus xanthus DZ2,0.9125,0.7007,0.0000,0.2814,0.0,1.0000,0.0001,0.0023,NA,0.9653,0.9653,0.9345,0.8940,0.8131
+GCF_000340515.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,Myxococcus xanthus DZF1,0.9124,0.7007,0.0000,0.2814,0.0,1.0000,0.0001,0.0023,NA,,,,,
+GCF_900106535.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,Myxococcus xanthus,0.9116,0.7001,0.0000,0.2814,0.0,1.0000,0.0001,0.0023,NA,,,,,
+GCF_006401635.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,Myxococcus xanthus,0.9106,0.6994,0.0000,0.2814,0.0,1.0000,0.0001,0.0023,NA,,,,,
+GCF_000012685.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus xanthus,Myxococcus xanthus DK 1622,0.9087,0.6980,0.0000,0.2814,0.0,0.9999,0.0001,0.0023,NA,,,,,
+GCF_006518205.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus sp. AB025B,Myxococcus sp. AB025B,0.9084,0.6978,0.0000,0.2814,0.0,0.9999,0.0001,0.0023,NA,,,,,
+GCF_006547325.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus sp. AB056,Myxococcus sp. AB056,0.9080,0.6976,0.0000,0.2814,0.0,0.9999,0.0001,0.0023,NA,,,,,
+GCF_006519755.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus sp. CA010,Myxococcus sp. CA010,0.9079,0.6975,0.0000,0.2814,0.0,0.9999,0.0001,0.0023,NA,,,,,
+GCF_006547345.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus sp. CA005,Myxococcus sp. CA005,0.9078,0.6974,0.0000,0.2814,0.0,0.9999,0.0001,0.0023,NA,,,,,
+GCF_006518195.1,Bacteria,Proteobacteria,Deltaproteobacteria,Myxococcales,Myxococcaceae,Myxococcus,Myxococcus sp. AB036A,Myxococcus sp. AB036A,0.9072,0.6970,0.0000,0.2814,0.0,0.9999,0.0001,0.0023,NA,,,,,

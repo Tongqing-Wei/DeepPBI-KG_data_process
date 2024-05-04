@@ -1,0 +1,21 @@
+"ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"ko03400","DNA repair and recombination proteins [BR:ko03400]","31/78","80/449",2.73852184203066e-07,5.47704368406131e-06,3.17092002761444e-06,"gene=rdgC/gene=dam/gene=dinB1/gene=dnaN/gene=dinI/gene=polA_1/gene=hup/gene=ligA_1/gene=rtpR/gene=ligA_2/gene=nrdZ/gene=exoX/gene=holE/gene=recU/gene=dnaE1/gene=nrdA_2/gene=nrdB/gene=nrdA/gene=ssbA/gene=ssb/gene=recD2/gene=polB/gene=parE/gene=polA/gene=ssbB/gene=ung/gene=nrdA_1/gene=rusA/gene=gyrA/gene=radD/gene=recA",31
+"ko03032","DNA replication proteins [BR:ko03032]","18/78","40/449",1.65938687728151e-05,0.000165938687728151,9.60697665794561e-05,"gene=dam/gene=dcm/gene=dnaN/gene=polA_1/gene=hup/gene=ligA_1/gene=ligA_2/gene=holE/gene=dnaE1/gene=ssbA/gene=ssb/gene=polB/gene=parE/gene=hhaIM/gene=gyrB/gene=ssbB/gene=topoM/gene=gyrA",18
+"ko03440","Homologous recombination [PATH:ko03440]","10/78","18/449",0.000196543112537338,0.00131028741691559,0.000758587451898498,"gene=dnaN/gene=polA_1/gene=holE/gene=dnaE1/gene=ssbA/gene=ssb/gene=recD2/gene=polB/gene=ssbB/gene=recA",10
+"ko00240","Pyrimidine metabolism [PATH:ko00240]","13/78","29/449",0.000331754779869419,0.00165877389934709,0.000960342783832528,"gene=nrdD_2/gene=nrdD_1/gene=rtpR/gene=dcd/gene=nrdZ/gene=nrdD/gene=tadA/gene=nrdA_2/gene=nrdB/gene=nrdA/gene=thyA/gene=nrdA_1/gene=tdk",13
+"ko03030","DNA replication [PATH:ko03030]","10/78","21/449",0.00100251548055667,0.00401006192222669,0.00232161479707861,"gene=dnaN/gene=polA_1/gene=ligA_1/gene=ligA_2/gene=holE/gene=dnaE1/gene=ssbA/gene=ssb/gene=polB/gene=ssbB",10
+"ko03430","Mismatch repair [PATH:ko03430]","11/78","25/449",0.00124817638401722,0.00416058794672408,0.00240876144284026,"gene=dam/gene=dnaN/gene=ligA_1/gene=ligA_2/gene=exoX/gene=holE/gene=dnaE1/gene=ssbA/gene=ssb/gene=polB/gene=ssbB",11
+"ko03000","Transcription factors [BR:ko03000]","6/78","13/449",0.0140932740251013,0.0373143899273188,0.0216030678526583,"gene=abrB/gene=dcm/gene=whiB1/gene=whiB2_2/gene=whiB/gene=hhaIM",6
+"ko00230","Purine metabolism [PATH:ko00230]","12/78","37/449",0.0149257559709275,0.0373143899273188,0.0216030678526583,"gene=nrdD_2/gene=nrdD_1/gene=rtpR/gene=purA/gene=nrdZ/gene=nrdD/gene=nrdA_2/gene=nrdB/gene=nrdA/gene=purL_1/gene=purL_2/gene=nrdA_1",12
+"ko03410","Base excision repair [PATH:ko03410]","5/78","11/449",0.0272798596746831,0.0606219103881846,0.0350968954878963,"gene=polA_1/gene=ligA_1/gene=ligA_2/gene=polB/gene=ung",5
+"ko03036","Chromosome and associated proteins [BR:ko03036]","8/78","29/449",0.109414565009391,0.218829130018781,0.126690548958242,"gene=dcm/gene=pomZ/gene=hup/gene=cwlC/gene=hhaIM/gene=gyrB/gene=xerD/gene=topoM",8
+"ko03420","Nucleotide excision repair [PATH:ko03420]","4/78","12/449",0.137863284291738,0.25066051689407,0.145119246622882,"gene=polA_1/gene=ligA_1/gene=ligA_2/gene=polB",4
+"99980","Enzymes with EC numbers","5/78","25/449",0.444932338754893,0.738547651834276,0.427580219483002,"gene=nrdG/gene=cwlA/gene=pphA/gene=ravA/gene=rrrD",5
+"ko00270","Cysteine and methionine metabolism [PATH:ko00270]","2/78","10/449",0.541924603968471,0.738547651834276,0.427580219483002,"gene=dcm/gene=hhaIM",2
+"ko03016","Transfer RNA biogenesis [BR:ko03016]","4/78","22/449",0.550713068380423,0.738547651834276,0.427580219483002,"gene=cca/gene=rtcB/gene=queC/gene=queF",4
+"ko02048","Prokaryotic defense system [BR:ko02048]","3/78","17/449",0.590838121467421,0.738547651834276,0.427580219483002,"gene=dam/gene=dcm/gene=hhaIM",3
+"ko03029","Mitochondrial biogenesis [BR:ko03029]","3/78","17/449",0.590838121467421,0.738547651834276,0.427580219483002,"gene=ssbA/gene=ssb/gene=ssbB",3
+"ko02000","Transporters [BR:ko02000]","2/78","15/449",0.767614068080223,0.841268054756706,0.487049926438093,"gene=pnuC/gene=ail",2
+"ko01002","Peptidases and inhibitors [BR:ko01002]","3/78","22/449",0.769039749158046,0.841268054756706,0.487049926438093,"gene=cwlK/gene=apr/gene=cwlO",3
+"ko03019","Messenger RNA biogenesis [BR:ko03019]","2/78","16/449",0.799204652018871,0.841268054756706,0.487049926438093,"gene=orn/gene=rlmE",2
+"ko03110","Chaperones and folding catalysts [BR:ko03110]","1/78","17/449",0.963462423505533,0.963462423505533,0.557794034661098,"gene=apr",1

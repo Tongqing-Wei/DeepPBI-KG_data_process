@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9816,0.5426,0.5167,0.2045,0.0,0.9714,1.0000,0.9996,NA,0.9737,0.9737,0.9497,0.9168,0.8578
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9759,0.5403,0.4610,0.2045,0.0,0.9691,0.9999,0.9995,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9737,0.5638,0.3463,0.2045,0.0,0.9909,0.9994,0.9996,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9686,0.5244,0.4617,0.2045,0.0,0.9531,0.9999,0.9996,NA,,,,,
+GCF_003457635.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9668,0.6367,0.0000,0.2048,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003458205.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9665,0.6362,0.0000,0.2048,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_900453355.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas hypermegale,Megamonas hypermegale,0.9644,0.6325,0.0000,0.2048,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003465005.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9642,0.6323,0.0000,0.2048,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003436485.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9642,0.6321,0.0000,0.2048,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_900110235.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas sp. Calf98-2,Megamonas sp. Calf98-2,0.9639,0.6317,0.0000,0.2048,0.0,0.9999,0.0000,0.0012,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9050,0.3111,0.1924,0.0736,0.0,0.9973,0.9997,0.9997,NA,0.9635,0.9635,0.9309,0.8906,0.8100
+GCF_000259175.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Morganellaceae,Providencia,Providencia stuartii,Providencia stuartii MRSN 2154,0.9004,0.3094,0.1878,0.0738,0.0,0.9963,0.9996,0.9991,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8981,0.3101,0.1792,0.0738,0.0,0.9968,0.9994,0.9989,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.8949,0.3106,0.1691,0.0738,0.0,0.9971,0.9991,0.9987,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.8760,0.2904,0.2052,0.0736,0.0,0.9754,0.9999,0.9997,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.8726,0.2943,0.1834,0.0738,0.0,0.9792,0.9994,0.9990,NA,,,,,
+GCF_000733315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. ER1A,Vibrio sp. ER1A,0.8595,0.3337,0.0000,0.0739,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_003605645.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio sp. BEI233,Vibrio sp. BEI233,0.8591,0.3335,0.0000,0.0739,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_900089835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio thalassae,Vibrio thalassae,0.8561,0.3321,0.0000,0.0739,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_002358135.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mediterranei,Vibrio mediterranei,0.8550,0.3316,0.0000,0.0739,0.0,1.0000,0.0001,0.0007,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002795305.1,Bacteria,Proteobacteria,Gammaproteobacteria,Aeromonadales,Aeromonadaceae,Aeromonas,Aeromonas cavernicola,Aeromonas cavernicola,0.4322,0.3313,0.0000,0.1476,0.0,1.0000,0.0000,0.0022,NA
+GCF_002838725.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,Bifidobacterium breve,0.3871,0.3204,0.0000,0.1476,0.0,1.0000,0.0000,0.0022,NA
+GCF_002838585.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,Bifidobacterium breve,0.3869,0.3204,0.0000,0.1476,0.0,1.0000,0.0000,0.0022,NA
+GCF_006408855.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium sp. UTBIF-68,Bifidobacterium sp. UTBIF-68,0.3826,0.3193,0.0000,0.1476,0.0,1.0000,0.0000,0.0022,NA
+GCF_000771685.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium reuteri,Bifidobacterium reuteri DSM 23975,0.3789,0.3184,0.0000,0.1476,0.0,0.9999,0.0000,0.0022,NA
+GCF_001029445.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Photobacterium,Photobacterium aquae,Photobacterium aquae,0.3788,0.3184,0.0000,0.1476,0.0,0.9999,0.0000,0.0022,NA
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.3788,0.2698,0.1945,0.1475,0.0,0.9762,0.9998,0.9997,NA
+GCF_000226175.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium breve,Bifidobacterium breve DPC 6330,0.3772,0.3180,0.0000,0.1476,0.0,0.9999,0.0000,0.0022,NA
+GCF_006408775.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium sp. UTCIF-24,Bifidobacterium sp. UTCIF-24,0.3769,0.3179,0.0000,0.1476,0.0,0.9999,0.0000,0.0022,NA
+GCF_006408865.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Bifidobacterium,Bifidobacterium sp. UTBIF-56,Bifidobacterium sp. UTBIF-56,0.3768,0.3179,0.0000,0.1476,0.0,0.9999,0.0000,0.0022,NA

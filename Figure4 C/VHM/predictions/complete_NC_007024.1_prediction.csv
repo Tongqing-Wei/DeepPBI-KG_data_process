@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.6488,0.2852,0.2195,0.1210,0.0,0.8217,0.9997,1.0000,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.5273,0.3274,0.2670,0.1725,0.0,0.9708,0.9999,0.9999,NA
+GCF_003415675.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Rhodoferax,Rhodoferax sp. IMCC26218,Rhodoferax sp. IMCC26218,0.4999,0.3416,0.1860,0.1727,0.0,0.9973,0.9995,0.9995,NA
+GCF_003332735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4707,0.3086,0.2901,0.1726,0.0,0.9157,1.0000,0.9999,NA
+GCF_008274965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum brasilense,Azospirillum brasilense,0.4671,0.3242,0.2244,0.1727,0.0,0.9594,0.9997,0.9996,NA
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.4638,0.3057,0.2951,0.1726,0.0,0.9061,1.0000,0.9999,NA
+GCF_002866685.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4439,0.3069,0.2716,0.1726,0.0,0.9104,0.9999,0.9998,NA
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.4391,0.3168,0.2275,0.1726,0.0,0.9356,0.9997,0.9999,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.4351,0.3038,0.2758,0.1726,0.0,0.8981,1.0000,0.9999,NA
+GCF_000342145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa PA21_ST175,0.4202,0.3067,0.2501,0.1727,0.0,0.9096,0.9998,0.9998,NA

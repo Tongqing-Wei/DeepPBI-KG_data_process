@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.7593,0.2827,0.2005,0.0972,0.0,0.9952,1.0000,0.9998,NA,0.9426,0.9391,0.9009,0.8557,0.7513
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.7500,0.2925,0.1494,0.0972,0.0,0.9976,0.9995,0.9998,NA,,,,,
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.7498,0.2913,0.1544,0.0972,0.0,0.9972,0.9996,0.9993,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.6770,0.2759,0.1329,0.0973,0.0,0.9914,0.9992,0.9990,NA,,,,,
+GCF_001557945.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi,Vibrio harveyi,0.6482,0.3016,0.0000,0.0973,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_006378705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.6446,0.3007,0.0000,0.0973,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_000275705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio harveyi,Vibrio harveyi ZJ0603,0.6432,0.3003,0.0000,0.0973,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002887655.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio owensii,Vibrio owensii,0.6432,0.3003,0.0000,0.0973,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003691505.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio owensii,Vibrio owensii,0.6418,0.2999,0.0000,0.0973,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_002153875.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.6408,0.2997,0.0000,0.0973,0.0,0.9999,0.0000,0.0012,NA,,,,,

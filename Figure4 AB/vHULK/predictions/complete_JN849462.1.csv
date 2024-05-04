@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Vibrio,0.99425983,0.10301603139109972,Vibrio_alginolyticus,0.9999871,0.12116337168039615

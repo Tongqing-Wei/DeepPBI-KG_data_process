@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000504165.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. FJAT-14578,Bacillus sp. FJAT-14578,0.9343,0.4442,0.0000,0.1117,0.0,1.0000,0.0000,0.0008,NA,0.9704,0.9704,0.9387,0.9032,0.8281
+GCF_002019595.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus abyssalis,Bacillus abyssalis,0.9335,0.4434,0.0000,0.1117,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_003259935.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Anoxybacillus,Anoxybacillus vitaminiphilus,Anoxybacillus vitaminiphilus,0.9188,0.4308,0.0000,0.1117,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_005887555.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lentibacillus,Lentibacillus sp. NKC220-2,Lentibacillus sp. NKC220-2,0.9104,0.4246,0.0000,0.1117,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_007004555.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lentibacillus,Lentibacillus sp. NKC851-2,Lentibacillus sp. NKC851-2,0.9077,0.4227,0.0000,0.1117,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001591805.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus novalis,Bacillus novalis NBRC 102450,0.9051,0.4209,0.0000,0.1117,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_900162695.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Virgibacillus,Virgibacillus siamensis,Virgibacillus siamensis,0.9049,0.4207,0.0000,0.1117,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_003097615.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Pueribacillus,Pueribacillus theae,Pueribacillus theae,0.9044,0.4204,0.0000,0.1117,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_004145795.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Lentibacillus,Lentibacillus sp. SSKP1-9,Lentibacillus sp. SSKP1-9,0.9042,0.4202,0.0000,0.1117,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_003989135.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cavernae,Bacillus cavernae,0.9041,0.4202,0.0000,0.1117,0.0,0.9999,0.0000,0.0008,NA,,,,,

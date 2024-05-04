@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002003265.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae,0.9849,0.4447,0.5704,0.1451,0.0,0.9999,1.0000,1.0000,NA,0.9735,0.9735,0.9491,0.9181,0.8584
+GCF_000511115.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae DSM 25719,0.9014,0.4766,0.0000,0.1477,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002082155.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. pulvifaciens,0.8769,0.4620,0.0000,0.1477,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000187665.3,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae B-3650,0.8720,0.4594,0.0000,0.1477,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000153605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae BRL-230010,0.8664,0.4565,0.0000,0.1477,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000988145.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae,0.8532,0.4501,0.0000,0.1477,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_002951915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae,0.8514,0.4493,0.0000,0.1477,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_002951875.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae,0.8384,0.4435,0.0000,0.1477,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_002043025.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. pulvifaciens,0.8352,0.4422,0.0000,0.1477,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_000164985.3,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus polymyxa,Paenibacillus polymyxa SC2,0.8306,0.4402,0.0000,0.1477,0.0,0.9999,0.0000,0.0008,NA,,,,,

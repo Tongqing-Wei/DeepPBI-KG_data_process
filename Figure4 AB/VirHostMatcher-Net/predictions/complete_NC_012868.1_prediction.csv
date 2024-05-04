@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000981485.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli K-12,0.8574,0.2271,0.4075,0.0715,0.0,0.9380,1.0000,1.0000,NA,0.9540,0.9540,0.9190,0.8766,0.7864
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8191,0.2745,0.1579,0.0725,0.0,0.9936,0.9994,0.9999,NA,,,,,
+GCF_000463345.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. ATCC 39006,Serratia sp. ATCC 39006,0.8026,0.2608,0.1905,0.0730,0.0,0.9855,0.9998,0.9994,NA,,,,,
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.7879,0.2304,0.2906,0.0729,0.0,0.9471,1.0000,0.9997,NA,,,,,
+GCF_000522565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,Streptococcus mutans B05Sm11,0.7833,0.3017,0.0000,0.0731,0.0,1.0000,0.0001,0.0009,NA,,,,,
+GCF_000522665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,Streptococcus mutans B07Sm2,0.7831,0.3017,0.0000,0.0731,0.0,1.0000,0.0001,0.0009,NA,,,,,
+GCF_000023765.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,Candidatus Liberibacter asiaticus str. psy62,0.7808,0.2769,0.0958,0.0731,0.0,0.9951,0.9985,0.9984,NA,,,,,
+GCF_000229945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,Streptococcus mutans TCI-298,0.7806,0.3008,0.0000,0.0731,0.0,1.0000,0.0001,0.0009,NA,,,,,
+GCF_900091325.1,Bacteria,NAmissing,NAmissing,NAmissing,NAmissing,NAmissing,bacterium 2013Arg42i,bacterium 2013Arg42i,0.7804,0.3007,0.0000,0.0731,0.0,1.0000,0.0001,0.0009,NA,,,,,
+GCF_000340155.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus mutans,Streptococcus mutans 24,0.7790,0.3003,0.0000,0.0731,0.0,0.9999,0.0001,0.0009,NA,,,,,

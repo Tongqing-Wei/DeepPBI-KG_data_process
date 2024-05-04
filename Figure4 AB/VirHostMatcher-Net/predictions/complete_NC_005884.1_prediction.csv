@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000163755.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Scardovia,Scardovia inopinata,Scardovia inopinata F0304,0.5427,0.3025,0.0000,0.1137,0.0,1.0000,0.0002,0.0017,NA
+GCF_900445765.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Parascardovia,Parascardovia denticolens,Parascardovia denticolens,0.5414,0.3022,0.0000,0.1137,0.0,1.0000,0.0002,0.0017,NA
+GCF_001042695.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Scardovia,Scardovia inopinata,Scardovia inopinata JCM 12537,0.5405,0.3019,0.0000,0.1137,0.0,1.0000,0.0002,0.0017,NA
+GCF_002201535.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Lacimicrobium,Lacimicrobium sp. SS2-24,Lacimicrobium sp. SS2-24,0.5036,0.2933,0.0000,0.1137,0.0,1.0000,0.0002,0.0017,NA
+GCF_002259595.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Aeriscardovia,Aeriscardovia aeriphila,Aeriscardovia aeriphila,0.4969,0.2917,0.0000,0.1137,0.0,0.9999,0.0002,0.0017,NA
+GCF_000376885.1,Bacteria,Actinobacteria,Actinobacteria,Bifidobacteriales,Bifidobacteriaceae,Alloscardovia,Alloscardovia criceti,Alloscardovia criceti DSM 17774,0.4962,0.2916,0.0000,0.1137,0.0,0.9999,0.0002,0.0017,NA
+GCF_000092405.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Syntrophomonadaceae,Syntrophothermus,Syntrophothermus lipocalidus,Syntrophothermus lipocalidus DSM 12680,0.4930,0.2908,0.0000,0.1137,0.0,0.9999,0.0002,0.0017,NA
+GCF_003858455.1,Bacteria,Actinobacteria,Actinobacteria,Actinomycetales,Actinomycetaceae,Schaalia,Schaalia canis,Schaalia canis,0.4641,0.2841,0.0000,0.1137,0.0,0.9999,0.0002,0.0017,NA
+GCF_002591895.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Lacimicrobium,Lacimicrobium alkaliphilum,Lacimicrobium alkaliphilum,0.4636,0.2839,0.0000,0.1137,0.0,0.9999,0.0002,0.0017,NA
+GCF_001758465.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alteromonas,Alteromonas lipolytica,Alteromonas lipolytica,0.4568,0.2824,0.0000,0.1137,0.0,0.9999,0.0002,0.0017,NA

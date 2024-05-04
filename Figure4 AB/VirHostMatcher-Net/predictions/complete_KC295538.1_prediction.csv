@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9609,0.4990,0.4094,0.1890,0.0,0.9946,0.9999,0.9996,NA,0.9735,0.9735,0.9429,0.9082,0.8469
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9434,0.4986,0.3200,0.1889,0.0,0.9943,0.9996,0.9997,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9433,0.4947,0.3356,0.1891,0.0,0.9903,0.9996,0.9993,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.9345,0.4970,0.2909,0.1891,0.0,0.9934,0.9992,0.9990,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.9310,0.4929,0.2929,0.1889,0.0,0.9878,0.9993,0.9997,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9271,0.4568,0.4245,0.1890,0.0,0.9557,0.9999,0.9996,NA,,,,,
+GCF_000212435.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus RN4220,0.9244,0.4928,0.2718,0.1892,0.0,0.9877,0.9991,0.9989,NA,,,,,
+GCF_006493095.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timberlakei,Lactobacillus timberlakei,0.9217,0.5586,0.0000,0.1893,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_002993965.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timberlakei,Lactobacillus timberlakei,0.9194,0.5568,0.0000,0.1893,0.0,1.0000,0.0000,0.0011,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9191,0.4882,0.2722,0.1889,0.0,0.9840,0.9991,0.9996,NA,,,,,

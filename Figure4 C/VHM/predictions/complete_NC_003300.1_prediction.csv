@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4640,0.1806,0.1114,0.0670,0.0,0.9604,0.9997,1.0000,NA
+GCF_001426085.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. Leaf278,Rhodococcus sp. Leaf278,0.3482,0.2180,0.0000,0.0903,0.0,1.0000,0.0001,0.0023,NA
+GCF_002258735.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. WWJCD1,Rhodococcus sp. WWJCD1,0.3475,0.2178,0.0000,0.0903,0.0,1.0000,0.0001,0.0023,NA
+GCF_000761075.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus fascians,Rhodococcus fascians LMG 3625,0.3460,0.2174,0.0000,0.0903,0.0,1.0000,0.0001,0.0023,NA
+GCF_002259335.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. 14-2483-1-1,Rhodococcus sp. 14-2483-1-1,0.3444,0.2170,0.0000,0.0903,0.0,1.0000,0.0001,0.0023,NA
+GCF_000760935.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus fascians,Rhodococcus fascians A25f,0.3441,0.2170,0.0000,0.0903,0.0,0.9999,0.0001,0.0023,NA
+GCF_003977615.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Rhodanobacteraceae,Dyella,Dyella sp. DHOA06,Dyella sp. DHOA06,0.3433,0.2167,0.0000,0.0903,0.0,0.9999,0.0001,0.0023,NA
+GCF_002258785.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. 06-235-1A,Rhodococcus sp. 06-235-1A,0.3408,0.2161,0.0000,0.0903,0.0,0.9999,0.0001,0.0023,NA
+GCF_004563845.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. 1R11,Rhodococcus sp. 1R11,0.3381,0.2154,0.0000,0.0903,0.0,0.9999,0.0001,0.0023,NA
+GCF_002259165.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Nocardiaceae,Rhodococcus,Rhodococcus sp. PBTS 2,Rhodococcus sp. PBTS 2,0.3377,0.2153,0.0000,0.0903,0.0,0.9999,0.0001,0.0023,NA

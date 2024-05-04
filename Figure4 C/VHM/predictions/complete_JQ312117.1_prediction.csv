@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000192635.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium sp. H13-3,Agrobacterium sp. H13-3,0.9982,0.4997,1.0000,0.1674,0.0,0.9982,1.0000,1.0000,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_000182725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella inopinata,Brucella inopinata BO1,0.9740,0.4933,0.3956,0.1681,0.0,0.9969,1.0000,0.9998,NA,,,,,
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.9734,0.4897,0.4026,0.1678,0.0,0.9911,1.0000,0.9999,NA,,,,,
+GCF_000739315.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Brucella abortus 544,0.9608,0.4908,0.3070,0.1682,0.0,0.9952,0.9999,0.9997,NA,,,,,
+GCF_000092025.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,Agrobacterium fabrum str. C58,0.9519,0.4820,0.2922,0.1682,0.0,0.9890,0.9998,0.9996,NA,,,,,
+GCF_900104355.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. OV277,Phyllobacterium sp. OV277,0.9368,0.5383,0.0000,0.1684,0.0,1.0000,0.0000,0.0014,NA,,,,,
+GCF_900465725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.9353,0.5368,0.0000,0.1684,0.0,1.0000,0.0000,0.0014,NA,,,,,
+GCF_900466815.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.9352,0.5368,0.0000,0.1684,0.0,1.0000,0.0000,0.0014,NA,,,,,
+GCF_008932295.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum tritici,Ochrobactrum tritici,0.9200,0.5235,0.0000,0.1684,0.0,1.0000,0.0000,0.0014,NA,,,,,
+GCF_001562555.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium bohemicum,Agrobacterium bohemicum,0.9172,0.5213,0.0000,0.1684,0.0,0.9999,0.0000,0.0014,NA,,,,,

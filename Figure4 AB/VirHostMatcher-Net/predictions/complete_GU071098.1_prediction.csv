@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.8657,0.5289,0.0000,0.1926,0.0,1.0000,0.0000,0.0009,NA,0.9537,0.9537,0.9185,0.8778,0.7870
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8653,0.4472,0.3254,0.1924,0.0,0.9814,0.9996,0.9992,NA,,,,,
+GCF_000949285.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium aceticum,Clostridium aceticum,0.8638,0.5279,0.0000,0.1926,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001042715.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium aceticum,Clostridium aceticum,0.8632,0.5277,0.0000,0.1926,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.8621,0.4239,0.4118,0.1923,0.0,0.9515,0.9999,0.9996,NA,,,,,
+GCF_900114615.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus propionicus,Pelosinus propionicus DSM 13327,0.8553,0.5238,0.0000,0.1926,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8537,0.4439,0.3115,0.1917,0.0,0.9787,0.9994,0.9999,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8453,0.4452,0.2943,0.1922,0.0,0.9797,0.9992,0.9997,NA,,,,,
+GCF_000271665.2,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus fermentans,Pelosinus fermentans JBW45,0.8451,0.5192,0.0000,0.1926,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.8418,0.4153,0.4086,0.1923,0.0,0.9210,0.9998,0.9995,NA,,,,,

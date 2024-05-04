@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9588,0.5316,0.2833,0.1916,0.0,0.9917,0.9997,0.9998,NA,0.9735,0.9735,0.9430,0.9084,0.8473
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9578,0.5397,0.2456,0.1918,0.0,0.9939,0.9993,0.9992,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9352,0.5120,0.2505,0.1918,0.0,0.9880,0.9994,0.9993,NA,,,,,
+GCF_001558475.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mimicus,Vibrio mimicus,0.9303,0.5702,0.0000,0.1918,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_008464965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mimicus,Vibrio mimicus,0.9298,0.5697,0.0000,0.1918,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_001767355.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mimicus,Vibrio mimicus,0.9282,0.5683,0.0000,0.1918,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_001254655.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Vibrio cholerae,0.9271,0.5674,0.0000,0.1918,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_004358285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Vibrio cholerae,0.9268,0.5671,0.0000,0.1918,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_008083535.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio mimicus,Vibrio mimicus,0.9263,0.5666,0.0000,0.1918,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_000174275.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio cholerae,Vibrio cholerae RC9,0.9260,0.5664,0.0000,0.1918,0.0,0.9999,0.0001,0.0013,NA,,,,,

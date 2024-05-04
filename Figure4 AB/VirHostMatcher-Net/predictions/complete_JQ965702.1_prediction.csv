@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9283,0.2632,0.5738,0.0918,0.0,0.9722,1.0000,1.0000,NA,0.9707,0.9707,0.9395,0.8984,0.8242
+GCF_001281005.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter portucalensis,Citrobacter portucalensis,0.8718,0.2278,0.5691,0.0924,0.0,0.9019,1.0000,0.9999,NA,,,,,
+GCF_900119285.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,NAmissing,Prevotellaceae bacterium HUN156,Prevotellaceae bacterium HUN156,0.8472,0.3589,0.0000,0.0930,0.0,1.0000,0.0002,0.0007,NA,,,,,
+GCF_000467895.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. F0091,Prevotella sp. F0091,0.8447,0.3577,0.0000,0.0930,0.0,1.0000,0.0002,0.0007,NA,,,,,
+GCF_000224595.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. C561,Prevotella sp. C561,0.8437,0.3573,0.0000,0.0930,0.0,1.0000,0.0002,0.0007,NA,,,,,
+GCF_003043935.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. oral taxon 313,Prevotella sp. oral taxon 313,0.8437,0.3573,0.0000,0.0930,0.0,1.0000,0.0002,0.0007,NA,,,,,
+GCF_900187995.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella jejuni,Prevotella jejuni,0.8431,0.3570,0.0000,0.0930,0.0,0.9999,0.0002,0.0007,NA,,,,,
+GCF_002849795.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella jejuni,Prevotella jejuni,0.8424,0.3567,0.0000,0.0930,0.0,0.9999,0.0002,0.0007,NA,,,,,
+GCF_003609775.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.8420,0.3565,0.0000,0.0930,0.0,0.9999,0.0002,0.0007,NA,,,,,
+GCF_000759305.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica DNF00666,0.8374,0.3546,0.0000,0.0930,0.0,0.9999,0.0002,0.0007,NA,,,,,

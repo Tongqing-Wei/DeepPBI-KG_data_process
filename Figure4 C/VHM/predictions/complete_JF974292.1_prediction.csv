@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.9197,0.3631,0.8143,0.1950,0.0,0.7829,1.0000,1.0000,NA,0.9670,0.9670,0.9359,0.8951,0.8194
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.8735,0.5417,0.0000,0.1980,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000615725.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paralimentarius,Lactobacillus paralimentarius DSM 13238 = JCM 10415,0.8667,0.5382,0.0000,0.1980,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_001434985.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus paralimentarius,Lactobacillus paralimentarius DSM 13238 = JCM 10415,0.8650,0.5373,0.0000,0.1980,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8608,0.4682,0.2682,0.1979,0.0,0.9869,0.9993,0.9991,NA,,,,,
+GCF_003967595.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus musae,Lactobacillus musae,0.8601,0.5349,0.0000,0.1980,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_003573575.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus musae,Lactobacillus musae,0.8596,0.5347,0.0000,0.1980,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_002872255.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus nuruki,Lactobacillus nuruki,0.8588,0.5343,0.0000,0.1980,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_000271665.2,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus fermentans,Pelosinus fermentans JBW45,0.8568,0.5333,0.0000,0.1980,0.0,0.9999,0.0001,0.0012,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8556,0.4683,0.2570,0.1978,0.0,0.9870,0.9991,0.9997,NA,,,,,

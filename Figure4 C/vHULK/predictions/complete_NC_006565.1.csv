@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Lactobacillus,0.99610484,0.08719380506728384,Lactobacillus_plantarum,0.9999856,5.757497760436125

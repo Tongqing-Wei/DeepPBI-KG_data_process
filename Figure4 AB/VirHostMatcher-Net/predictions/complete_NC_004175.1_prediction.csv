@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000010085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Pectobacteriaceae,Sodalis,Sodalis glossinidius,Sodalis glossinidius str. 'morsitans',0.3765,0.2209,0.1530,0.1113,0.0,0.9866,0.9999,0.9997,NA
+GCF_004209775.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8101,Synechococcus sp. WH 8101,0.3702,0.2223,0.1412,0.1113,0.0,0.9887,0.9998,0.9998,NA
+GCF_000161795.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8109,Synechococcus sp. WH 8109,0.3685,0.2171,0.1586,0.1111,0.0,0.9809,1.0000,0.9999,NA
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.3489,0.2161,0.1437,0.1112,0.0,0.9778,0.9998,0.9999,NA
+GCF_003345655.1,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Oceanospirillaceae,Motiliproteus,Motiliproteus coralliicola,Motiliproteus coralliicola,0.3471,0.2518,0.0000,0.1113,0.0,1.0000,0.0001,0.0022,NA
+GCF_000009225.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fluorescens,Pseudomonas fluorescens SBW25,0.3394,0.2067,0.1716,0.1112,0.0,0.9492,1.0000,0.9999,NA
+GCF_008274195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella,Klebsiella pneumoniae,Klebsiella pneumoniae,0.3376,0.2141,0.1407,0.1113,0.0,0.9692,0.9997,0.9996,NA
+GCF_001642805.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia sp. YD25,Serratia sp. YD25,0.3321,0.2479,0.0000,0.1113,0.0,1.0000,0.0001,0.0022,NA
+GCF_000179235.2,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. CB0101,Synechococcus sp. CB0101,0.3229,0.2124,0.1316,0.1112,0.0,0.9638,0.9996,0.9999,NA
+GCF_001559135.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Serratia,Serratia liquefaciens,Serratia liquefaciens,0.3228,0.2454,0.0000,0.1113,0.0,1.0000,0.0001,0.0022,NA

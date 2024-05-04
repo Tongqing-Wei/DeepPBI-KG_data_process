@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000012325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea,Colwellia psychrerythraea 34H,0.9986,0.4192,1.0000,0.1101,0.0,0.9779,1.0000,0.9999,NA,0.9818,0.9818,0.9708,0.9562,0.9343
+GCF_000368225.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Acinetobacter baumannii NIPH 2061,0.9806,0.4276,0.3576,0.1109,0.0,0.9882,1.0000,0.9995,NA,,,,,
+GCF_000369285.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter baumannii,Acinetobacter baumannii NIPH 528,0.9787,0.4232,0.3532,0.1109,0.0,0.9837,0.9999,0.9995,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9771,0.4203,0.3473,0.1109,0.0,0.9794,0.9999,0.9995,NA,,,,,
+GCF_004123275.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii,0.9717,0.4949,0.0000,0.1112,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_009004095.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii,0.9716,0.4946,0.0000,0.1112,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_008981205.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii,0.9707,0.4928,0.0000,0.1112,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_000831735.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii,0.9707,0.4927,0.0000,0.1112,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_009012455.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii,0.9706,0.4924,0.0000,0.1112,0.0,0.9999,0.0001,0.0007,NA,,,,,
+GCF_000302355.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter junii,Acinetobacter junii TG19608,0.9705,0.4922,0.0000,0.1112,0.0,0.9999,0.0001,0.0007,NA,,,,,

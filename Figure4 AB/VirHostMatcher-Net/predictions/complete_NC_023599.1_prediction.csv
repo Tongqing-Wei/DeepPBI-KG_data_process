@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9992,0.5881,0.4895,0.1150,0.0,0.9865,1.0000,0.9999,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9990,0.6084,0.3660,0.1156,0.0,0.9999,1.0000,0.9996,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9990,0.5917,0.4277,0.1156,0.0,0.9886,1.0000,0.9997,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9986,0.5934,0.3393,0.1157,0.0,0.9915,0.9998,0.9995,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9985,0.5921,0.3359,0.1157,0.0,0.9893,0.9998,0.9994,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9966,0.5481,0.3201,0.1157,0.0,0.9846,0.9997,0.9994,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9957,0.5196,0.3750,0.1156,0.0,0.9735,1.0000,0.9996,NA,,,,,
+GCF_000835235.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar kurstaki,0.9957,0.6134,0.0000,0.1159,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000338755.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar kurstaki str. HD73,0.9954,0.6097,0.0000,0.1159,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002589015.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis,0.9954,0.6093,0.0000,0.1159,0.0,1.0000,0.0000,0.0008,NA,,,,,

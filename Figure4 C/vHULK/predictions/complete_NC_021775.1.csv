@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Salmonella,0.96261483,0.5482196553029212,Salmonella_enterica,0.99981743,5.334867126575485

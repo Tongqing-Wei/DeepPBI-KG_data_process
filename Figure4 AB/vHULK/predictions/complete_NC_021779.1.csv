@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Salmonella,0.550915,3.837656576051086,Salmonella_gallinarum,0.999897,4.887402595015905

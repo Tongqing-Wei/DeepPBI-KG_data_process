@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9214,0.4116,0.4487,0.1678,0.0,0.9952,1.0000,0.9999,NA,0.9688,0.9688,0.9376,0.8967,0.8226
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9144,0.4145,0.4181,0.1681,0.0,0.9963,0.9999,0.9995,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8738,0.4052,0.3542,0.1682,0.0,0.9928,0.9997,0.9993,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.8506,0.3765,0.4212,0.1678,0.0,0.9626,0.9999,0.9998,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.8202,0.3740,0.3815,0.1682,0.0,0.9589,0.9998,0.9994,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.8099,0.3701,0.3814,0.1682,0.0,0.9540,0.9998,0.9994,NA,,,,,
+GCF_002270355.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Cytophagaceae,Flectobacillus,Flectobacillus sp. BAB-3569,Flectobacillus sp. BAB-3569,0.7901,0.4584,0.0000,0.1684,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.7858,0.3676,0.3565,0.1682,0.0,0.9496,0.9997,0.9993,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.7688,0.3784,0.2861,0.1676,0.0,0.9653,0.9993,1.0000,NA,,,,,
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.7648,0.3641,0.3421,0.1682,0.0,0.9439,0.9996,0.9992,NA,,,,,

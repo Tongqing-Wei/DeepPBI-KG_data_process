@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Yersinia,0.6843763,3.645681298193813,Yersinia_pestis,0.9999354,4.631989299901798

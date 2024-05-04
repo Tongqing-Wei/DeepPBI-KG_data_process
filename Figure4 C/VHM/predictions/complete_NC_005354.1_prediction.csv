@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9792,0.4761,0.3677,0.1450,0.0,0.9828,1.0000,0.9998,NA,0.9741,0.9741,0.9503,0.9179,0.8575
+GCF_000008065.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Lactobacillus johnsonii NCC 533,0.9751,0.5582,0.0000,0.1455,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9750,0.4662,0.3657,0.1453,0.0,0.9754,1.0000,0.9995,NA,,,,,
+GCF_003122525.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Lactobacillus johnsonii,0.9747,0.5571,0.0000,0.1455,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_004684975.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Lactobacillus johnsonii,0.9735,0.5543,0.0000,0.1455,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001572665.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Lactobacillus johnsonii,0.9735,0.5543,0.0000,0.1455,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9726,0.4710,0.3247,0.1453,0.0,0.9795,0.9997,0.9993,NA,,,,,
+GCF_002253045.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus taiwanensis,Lactobacillus taiwanensis,0.9721,0.5512,0.0000,0.1455,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_001433975.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Lactobacillus johnsonii ATCC 33200,0.9703,0.5476,0.0000,0.1455,0.0,0.9999,0.0000,0.0009,NA,,,,,
+GCF_000159355.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus johnsonii,Lactobacillus johnsonii ATCC 33200,0.9703,0.5474,0.0000,0.1455,0.0,0.9999,0.0000,0.0009,NA,,,,,

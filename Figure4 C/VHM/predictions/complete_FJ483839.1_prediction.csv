@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_003316875.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Idiomarinaceae,Aliidiomarina,Aliidiomarina sp. F3105,Aliidiomarina sp. F3105,0.5692,0.1226,0.0000,-0.0012,0.0,1.0000,0.0009,0.0009,NA
+GCF_003666285.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. HF07.pep.5.2.highcov,Mesotoga sp. HF07.pep.5.2.highcov,0.5563,0.1196,0.0000,-0.0012,0.0,1.0000,0.0009,0.0009,NA
+GCF_003664995.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. BH458_6_3_2_1,Mesotoga sp. BH458_6_3_2_1,0.5370,0.1150,0.0000,-0.0012,0.0,1.0000,0.0009,0.0009,NA
+GCF_000147715.2,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga prima,Mesotoga prima MesG1.Ag.4.2,0.5357,0.1147,0.0000,-0.0012,0.0,1.0000,0.0009,0.0009,NA
+GCF_002896535.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. B105.6.4,Mesotoga sp. B105.6.4,0.5207,0.1112,0.0000,-0.0012,0.0,0.9999,0.0009,0.0009,NA
+GCF_002752615.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. H07.pep.5.3,Mesotoga sp. H07.pep.5.3,0.5206,0.1112,0.0000,-0.0012,0.0,0.9999,0.0009,0.0009,NA
+GCF_003265145.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. Brook.08.YT.4.2.5.4.,Mesotoga sp. Brook.08.YT.4.2.5.4.,0.5175,0.1105,0.0000,-0.0012,0.0,0.9999,0.0009,0.0009,NA
+GCF_002752635.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. Brook.08.105.5.1,Mesotoga sp. Brook.08.105.5.1,0.5157,0.1100,0.0000,-0.0012,0.0,0.9999,0.0009,0.0009,NA
+GCF_003664935.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. H07pep.5.4,Mesotoga sp. H07pep.5.4,0.5130,0.1094,0.0000,-0.0012,0.0,0.9999,0.0009,0.0009,NA
+GCF_003970425.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio penaeicida,Vibrio penaeicida,0.5117,0.1091,0.0000,-0.0012,0.0,0.9999,0.0009,0.0009,NA

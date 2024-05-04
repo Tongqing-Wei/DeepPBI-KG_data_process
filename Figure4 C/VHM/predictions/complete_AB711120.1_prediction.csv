@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000878265.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Bacillus subtilis,0.9648,0.5160,0.0000,0.1324,0.0,1.0000,0.0000,0.0006,NA,0.9733,0.9733,0.9424,0.9074,0.8457
+GCF_002003265.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Paenibacillus,Paenibacillus larvae,Paenibacillus larvae subsp. larvae,0.9636,0.4382,0.2965,0.1314,0.0,0.9713,0.9998,1.0000,NA,,,,,
+GCF_000830735.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Bacillus subtilis,0.9630,0.5129,0.0000,0.1324,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000828495.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus subtilis,Bacillus subtilis subsp. subtilis,0.9629,0.5127,0.0000,0.1324,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000204805.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus 1013-2,0.9619,0.5111,0.0000,0.1324,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000204885.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus BACI051-E,0.9619,0.5110,0.0000,0.1324,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_000204685.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus str. Dugway,0.9618,0.5110,0.0000,0.1324,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_000983035.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus,0.9618,0.5109,0.0000,0.1324,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_000165925.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus 1942,0.9618,0.5109,0.0000,0.1324,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_000204845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus atrophaeus,Bacillus atrophaeus ATCC 49822-1,0.9618,0.5109,0.0000,0.1324,0.0,0.9999,0.0000,0.0006,NA,,,,,

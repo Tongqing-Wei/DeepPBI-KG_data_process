@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Edwardsiella,0.9974437,0.0627879080193452,Edwardsiella_ictaluri,0.9999964,5.299358564579219

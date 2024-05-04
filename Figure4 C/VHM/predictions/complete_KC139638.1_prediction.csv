@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.9370,0.3851,0.3669,0.1302,0.0,0.9827,0.9998,0.9994,NA,0.9704,0.9704,0.9387,0.9032,0.8281
+GCF_900116225.1,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium wenxiniae,Sphingobacterium wenxiniae,0.9091,0.4540,0.0000,0.1305,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9067,0.3465,0.4217,0.1301,0.0,0.9327,0.9999,0.9995,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9060,0.3434,0.4318,0.1301,0.0,0.9295,1.0000,0.9996,NA,,,,,
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.9028,0.3848,0.2586,0.1303,0.0,0.9824,0.9991,0.9987,NA,,,,,
+GCF_000467895.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. F0091,Prevotella sp. F0091,0.9012,0.4486,0.0000,0.1305,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_001683355.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella scopos,Prevotella scopos JCM 17725,0.8956,0.4450,0.0000,0.1305,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_900129535.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella scopos,Prevotella scopos JCM 17725,0.8948,0.4445,0.0000,0.1305,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000614285.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella scopos,Prevotella scopos JCM 17725,0.8947,0.4445,0.0000,0.1305,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_002208725.2,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.8933,0.4436,0.0000,0.1305,0.0,0.9999,0.0000,0.0006,NA,,,,,

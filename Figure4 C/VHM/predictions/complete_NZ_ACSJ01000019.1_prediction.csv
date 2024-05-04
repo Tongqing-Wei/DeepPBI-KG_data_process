@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9204,0.2731,0.2476,0.0517,0.0,0.9981,1.0000,0.9998,NA,0.9669,0.9669,0.9358,0.8949,0.8210
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9167,0.2717,0.2403,0.0514,0.0,0.9976,1.0000,0.9999,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9125,0.2676,0.2469,0.0519,0.0,0.9963,1.0000,0.9996,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.8737,0.2569,0.1929,0.0518,0.0,0.9887,0.9997,0.9998,NA,,,,,
+GCF_004634195.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. SaA2.12,Flavobacterium sp. SaA2.12,0.8727,0.2527,0.2090,0.0519,0.0,0.9845,0.9998,0.9994,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.8615,0.2308,0.2731,0.0519,0.0,0.9428,1.0000,0.9996,NA,,,,,
+GCF_001940565.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Tissierellaceae,Tissierella,Tissierella creatinophila,Tissierella creatinophila DSM 6911,0.8609,0.2992,0.0000,0.0521,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900155565.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Tissierellaceae,Anaerosalibacter,Anaerosalibacter sp. Marseille-P3206,Anaerosalibacter sp. Marseille-P3206,0.8593,0.2984,0.0000,0.0521,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900130025.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,NAmissing,Sporanaerobacter,Sporanaerobacter acetigenes,Sporanaerobacter acetigenes DSM 13106,0.8574,0.2975,0.0000,0.0521,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.8573,0.2380,0.2368,0.0519,0.0,0.9618,0.9999,0.9995,NA,,,,,

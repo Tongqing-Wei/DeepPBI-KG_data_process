@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Lactococcus,0.99999464,0.00022764246383371047,Lactococcus_lactis,1.0,5.7450238621513385

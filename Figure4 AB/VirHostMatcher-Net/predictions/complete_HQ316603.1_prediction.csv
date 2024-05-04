@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002092735.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.9005,0.4760,0.2579,0.1875,0.0,0.9941,0.9991,0.9989,NA,0.9618,0.9618,0.9294,0.8893,0.8053
+GCF_000725345.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus sp. UFO1,Pelosinus sp. UFO1,0.8948,0.5369,0.0000,0.1875,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_002092565.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Leuconostocaceae,Leuconostoc,Leuconostoc mesenteroides,Leuconostoc mesenteroides subsp. mesenteroides,0.8894,0.4771,0.2254,0.1874,0.0,0.9944,0.9986,0.9992,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8829,0.4602,0.2749,0.1869,0.0,0.9864,0.9993,0.9998,NA,,,,,
+GCF_000020065.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma arthritidis,Mycoplasma arthritidis 158L3-1,0.8732,0.5246,0.0000,0.1875,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_900660715.1,Bacteria,Tenericutes,Mollicutes,Mycoplasmatales,Mycoplasmataceae,Mycoplasma,Mycoplasma arthritidis,Mycoplasma arthritidis,0.8718,0.5238,0.0000,0.1875,0.0,1.0000,0.0001,0.0012,NA,,,,,
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.8595,0.4417,0.3027,0.1873,0.0,0.9767,0.9995,0.9997,NA,,,,,
+GCF_000195975.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Synechococcaceae,Synechococcus,Synechococcus sp. WH 8102,Synechococcus sp. WH 8102,0.8564,0.3422,0.6817,0.1851,0.0,0.6965,1.0000,0.9999,NA,,,,,
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.8523,0.4358,0.3136,0.1874,0.0,0.9721,0.9996,0.9993,NA,,,,,
+GCF_000271665.2,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Sporomusaceae,Pelosinus,Pelosinus fermentans,Pelosinus fermentans JBW45,0.8452,0.5110,0.0000,0.1875,0.0,1.0000,0.0001,0.0012,NA,,,,,

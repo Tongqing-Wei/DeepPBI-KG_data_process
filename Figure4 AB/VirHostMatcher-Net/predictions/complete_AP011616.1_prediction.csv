@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.9588,0.4678,0.3860,0.1681,0.0,0.9950,1.0000,0.9995,NA,0.9735,0.9735,0.9430,0.9084,0.8473
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.9504,0.4711,0.3265,0.1679,0.0,0.9956,0.9997,0.9997,NA,,,,,
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.9482,0.4701,0.3200,0.1679,0.0,0.9954,0.9996,0.9997,NA,,,,,
+GCF_007993035.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Cryomorphaceae,Vicingus,Vicingus serpentipes,Vicingus serpentipes,0.9358,0.5373,0.0000,0.1683,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9355,0.4548,0.3253,0.1677,0.0,0.9902,0.9997,0.9998,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9305,0.4520,0.3191,0.1679,0.0,0.9890,0.9996,0.9997,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9304,0.4502,0.3275,0.1681,0.0,0.9879,0.9998,0.9994,NA,,,,,
+GCF_004345825.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Tenacibaculum,Tenacibaculum skagerrakense,Tenacibaculum skagerrakense,0.9286,0.5305,0.0000,0.1683,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_002120225.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Tenacibaculum,Tenacibaculum holothuriorum,Tenacibaculum holothuriorum,0.9273,0.5294,0.0000,0.1683,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_002243095.1,Bacteria,Firmicutes,Tissierellia,Tissierellales,Peptoniphilaceae,Finegoldia,Finegoldia magna,Finegoldia magna,0.9256,0.5280,0.0000,0.1683,0.0,1.0000,0.0000,0.0009,NA,,,,,

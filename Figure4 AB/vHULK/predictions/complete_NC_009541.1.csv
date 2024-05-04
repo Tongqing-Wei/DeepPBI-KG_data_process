@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Propionibacterium,0.9981754,0.05105780745070661,Propionibacterium_acnes,0.99999225,5.558522251343762

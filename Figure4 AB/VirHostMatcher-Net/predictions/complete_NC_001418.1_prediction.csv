@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000770585.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella norrlandica,Legionella norrlandica,0.7257,0.2897,0.0000,0.0770,0.0,1.0000,0.0001,0.0008,NA,0.9388,0.9354,0.8946,0.8435,0.7364
+GCF_000953135.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella fallonii,Legionella fallonii LLAP-10,0.7169,0.2872,0.0000,0.0770,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000423305.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella moravica,Legionella moravica DSM 19234,0.7091,0.2850,0.0000,0.0770,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900640165.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella moravica,Legionella moravica,0.7079,0.2846,0.0000,0.0770,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_001467865.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella moravica,Legionella moravica,0.7040,0.2835,0.0000,0.0770,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_900640105.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Fluoribacter,Fluoribacter gormanii,Fluoribacter gormanii,0.6994,0.2822,0.0000,0.0770,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_001467535.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella worsleiensis,Legionella worsleiensis,0.6978,0.2818,0.0000,0.0770,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_900452715.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella moravica,Legionella moravica,0.6954,0.2812,0.0000,0.0770,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_000162755.2,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella drancourtii,Legionella drancourtii LLAP12,0.6935,0.2806,0.0000,0.0770,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_003990085.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella sp. km535,Legionella sp. km535,0.6922,0.2803,0.0000,0.0770,0.0,0.9999,0.0001,0.0008,NA,,,,,

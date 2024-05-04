@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9940,0.4172,0.6665,0.1096,0.0,0.9765,1.0000,0.9997,NA,0.9848,0.9848,0.9596,0.9343,0.8864
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9921,0.4112,0.6286,0.1096,0.0,0.9640,1.0000,0.9997,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9773,0.3802,0.5023,0.1098,0.0,0.9201,1.0000,0.9996,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9744,0.4088,0.3605,0.1099,0.0,0.9591,0.9999,0.9994,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9689,0.4208,0.2664,0.1100,0.0,0.9809,0.9992,0.9989,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9681,0.4076,0.3106,0.1097,0.0,0.9571,0.9997,0.9997,NA,,,,,
+GCF_002743115.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina sp. P17b,Sporosarcina sp. P17b,0.9679,0.4856,0.0000,0.1102,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_002743245.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina sp. P26b,Sporosarcina sp. P26b,0.9664,0.4829,0.0000,0.1102,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9658,0.4168,0.2597,0.1101,0.0,0.9757,0.9992,0.9989,NA,,,,,
+GCF_002743375.1,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Sporosarcina,Sporosarcina sp. P34,Sporosarcina sp. P34,0.9654,0.4811,0.0000,0.1102,0.0,1.0000,0.0001,0.0007,NA,,,,,

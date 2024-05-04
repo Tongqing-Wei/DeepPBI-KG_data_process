@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000698805.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa subsp. sandyi Ann-1,0.9123,0.5808,0.0000,0.2074,0.0,1.0000,0.0000,0.0018,NA,0.9653,0.9653,0.9345,0.8940,0.8131
+GCF_000166855.2,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa subsp. sandyi Ann-1,0.9074,0.5773,0.0000,0.2074,0.0,1.0000,0.0000,0.0018,NA,,,,,
+GCF_000698825.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa MUL0034,0.9073,0.5772,0.0000,0.2074,0.0,1.0000,0.0000,0.0018,NA,,,,,
+GCF_001456195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa,0.8924,0.5676,0.0000,0.2074,0.0,1.0000,0.0000,0.0018,NA,,,,,
+GCF_006370235.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa subsp. pauca,0.8919,0.5673,0.0000,0.2074,0.0,0.9999,0.0000,0.0018,NA,,,,,
+GCF_006370015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa,0.8884,0.5652,0.0000,0.2074,0.0,0.9999,0.0000,0.0018,NA,,,,,
+GCF_001456235.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa,0.8873,0.5645,0.0000,0.2074,0.0,0.9999,0.0000,0.0018,NA,,,,,
+GCF_000567985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa Mul-MD,0.8843,0.5628,0.0000,0.2074,0.0,0.9999,0.0000,0.0018,NA,,,,,
+GCF_001417925.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa,0.8829,0.5620,0.0000,0.2074,0.0,0.9999,0.0000,0.0018,NA,,,,,
+GCF_001549815.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella,Xylella fastidiosa,Xylella fastidiosa,0.8811,0.5610,0.0000,0.2074,0.0,0.9999,0.0000,0.0018,NA,,,,,

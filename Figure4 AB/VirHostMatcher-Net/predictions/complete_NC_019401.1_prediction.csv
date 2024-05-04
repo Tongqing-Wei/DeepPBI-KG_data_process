@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9359,0.4501,0.3924,0.1749,0.0,0.9879,1.0000,0.9996,NA,0.9704,0.9704,0.9387,0.9032,0.8281
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9102,0.4288,0.3923,0.1749,0.0,0.9619,0.9999,0.9996,NA,,,,,
+GCF_000009645.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus N315,0.9051,0.4485,0.2998,0.1750,0.0,0.9861,0.9996,0.9992,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.8980,0.4463,0.2892,0.1749,0.0,0.9834,0.9995,0.9996,NA,,,,,
+GCF_006493095.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timberlakei,Lactobacillus timberlakei,0.8953,0.5172,0.0000,0.1752,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000013425.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus NCTC 8325,0.8923,0.4474,0.2701,0.1748,0.0,0.9845,0.9993,0.9997,NA,,,,,
+GCF_001267715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus subsp. aureus,0.8916,0.4497,0.2607,0.1751,0.0,0.9874,0.9991,0.9989,NA,,,,,
+GCF_002993965.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timberlakei,Lactobacillus timberlakei,0.8906,0.5143,0.0000,0.1752,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_006493055.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timberlakei,Lactobacillus timberlakei,0.8893,0.5135,0.0000,0.1752,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_006493425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus timberlakei,Lactobacillus timberlakei,0.8884,0.5130,0.0000,0.1752,0.0,1.0000,0.0000,0.0010,NA,,,,,

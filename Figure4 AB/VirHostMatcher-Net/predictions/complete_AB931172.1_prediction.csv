@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.5081,0.2769,0.2008,0.1339,0.0,0.9582,0.9999,0.9998,NA
+GCF_001450525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4801,0.2623,0.2326,0.1338,0.0,0.8875,1.0000,0.9999,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4776,0.2248,0.1642,0.1005,0.0,0.6898,0.9997,1.0000,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.4656,0.2565,0.2422,0.1338,0.0,0.8493,1.0000,1.0000,NA
+GCF_000427765.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae VF39,0.4597,0.2757,0.1604,0.1339,0.0,0.9529,0.9996,0.9995,NA
+GCF_001449605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4479,0.2631,0.1994,0.1339,0.0,0.8920,0.9999,0.9998,NA
+GCF_002708645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. IP1,Sphingobium sp. IP1,0.4436,0.2647,0.1892,0.1339,0.0,0.9002,0.9999,0.9998,NA
+GCF_002866685.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4348,0.2583,0.2063,0.1339,0.0,0.8606,0.9999,0.9998,NA
+GCF_008274965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum brasilense,Azospirillum brasilense,0.4325,0.2655,0.1754,0.1339,0.0,0.9044,0.9998,0.9997,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.4320,0.2651,0.1762,0.1338,0.0,0.9025,0.9998,0.9999,NA

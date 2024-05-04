@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.9880,0.4777,0.5407,0.1525,0.0,0.9969,1.0000,0.9997,NA,0.9817,0.9817,0.9566,0.9292,0.8699
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9862,0.4666,0.5517,0.1525,0.0,0.9931,1.0000,0.9997,NA,,,,,
+GCF_003394085.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.9735,0.4649,0.4021,0.1523,0.0,0.9925,0.9999,0.9998,NA,,,,,
+GCF_000009425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris MG1363,0.9713,0.4665,0.3782,0.1527,0.0,0.9930,0.9998,0.9994,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9697,0.4359,0.4871,0.1525,0.0,0.9786,1.0000,0.9996,NA,,,,,
+GCF_000006865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis Il1403,0.9661,0.4669,0.3290,0.1514,0.0,0.9932,0.9994,0.9999,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.9535,0.4448,0.3471,0.1525,0.0,0.9854,0.9997,0.9997,NA,,,,,
+GCF_003465005.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis,0.9451,0.5221,0.0000,0.1529,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_003458205.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas rupellensis,Megamonas rupellensis,0.9451,0.5220,0.0000,0.1529,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000245775.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Megamonas,Megamonas funiformis,Megamonas funiformis YIT 11815,0.9445,0.5214,0.0000,0.1529,0.0,1.0000,0.0000,0.0010,NA,,,,,

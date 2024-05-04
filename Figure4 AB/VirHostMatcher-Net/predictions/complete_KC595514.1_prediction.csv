@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9782,0.5019,0.3300,0.1568,0.0,0.9969,0.9997,0.9993,NA,0.9743,0.9743,0.9507,0.9186,0.8565
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9765,0.4898,0.3602,0.1568,0.0,0.9859,0.9999,0.9994,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9743,0.4819,0.3680,0.1565,0.0,0.9797,0.9999,0.9997,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9733,0.4918,0.3220,0.1568,0.0,0.9886,0.9996,0.9992,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9723,0.4902,0.3195,0.1568,0.0,0.9865,0.9996,0.9992,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9629,0.4696,0.3314,0.1568,0.0,0.9751,0.9997,0.9993,NA,,,,,
+GCF_003590075.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9608,0.5492,0.0000,0.1570,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_002927085.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9544,0.5401,0.0000,0.1570,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_002706795.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus DSM 25,0.9532,0.5385,0.0000,0.1570,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_003400265.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus sp. VP,Brevibacillus sp. VP,0.9518,0.5366,0.0000,0.1570,0.0,1.0000,0.0000,0.0007,NA,,,,,

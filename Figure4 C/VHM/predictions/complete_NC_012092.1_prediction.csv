@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_902143385.2,Bacteria,Verrucomicrobia,NAmissing,NAmissing,NAmissing,Methylacidimicrobium,Methylacidimicrobium cyclopophantes,Methylacidimicrobium cyclopophantes,0.3499,0.2048,0.0000,0.0819,0.0,1.0000,0.0001,0.0019,NA
+GCF_000263215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,Cronobacter sakazakii ES15,0.3485,0.1722,0.1289,0.0819,0.0,0.9943,0.9999,0.9997,NA
+GCF_000526255.1,Bacteria,Verrucomicrobia,NAmissing,NAmissing,NAmissing,NAmissing,Verrucomicrobia bacterium LP2A,Verrucomicrobia bacterium LP2A,0.3429,0.2030,0.0000,0.0819,0.0,1.0000,0.0001,0.0019,NA
+GCF_000009565.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli BL21(DE3),0.3392,0.1704,0.1261,0.0818,0.0,0.9901,0.9999,0.9999,NA
+GCF_000833145.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.3362,0.1703,0.1236,0.0819,0.0,0.9899,0.9998,0.9997,NA
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.3345,0.1731,0.1110,0.0819,0.0,0.9954,0.9996,0.9995,NA
+GCF_000800845.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli RS218,0.3296,0.1720,0.1101,0.0819,0.0,0.9937,0.9996,0.9995,NA
+GCF_000982825.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter sakazakii,Cronobacter sakazakii,0.3287,0.1682,0.1240,0.0818,0.0,0.9830,0.9998,0.9999,NA
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.3237,0.1707,0.1092,0.0819,0.0,0.9907,0.9996,0.9995,NA
+GCF_001868705.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Pediococcus,Pediococcus acidilactici,Pediococcus acidilactici,0.3186,0.1966,0.0000,0.0819,0.0,1.0000,0.0001,0.0019,NA

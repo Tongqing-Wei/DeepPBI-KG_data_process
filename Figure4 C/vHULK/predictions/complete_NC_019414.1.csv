@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Streptomyces,0.99956566,0.011490043087000856,Streptomyces_platensis,0.9999745,3.7556396536913237

@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Campylobacter,0.80121493,1.976705498881347,Campylobacter_jejuni,0.9999933,4.097646699706773

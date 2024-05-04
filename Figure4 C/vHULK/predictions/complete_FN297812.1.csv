@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Vibrio,0.975227,0.34928170196380964,Vibrio_parahaemolyticus,0.99998677,5.2704592902606215

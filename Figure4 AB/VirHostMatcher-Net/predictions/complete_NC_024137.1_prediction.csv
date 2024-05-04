@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9980,0.4023,0.9233,0.1008,0.0,0.9860,1.0000,0.9999,NA,0.9830,0.9830,0.9558,0.9320,0.9116
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9979,0.3979,0.9341,0.1008,0.0,0.9769,1.0000,0.9999,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.9789,0.3766,0.4803,0.1013,0.0,0.9496,1.0000,0.9996,NA,,,,,
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9769,0.3992,0.3683,0.1015,0.0,0.9794,0.9999,0.9995,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9697,0.4047,0.2820,0.1016,0.0,0.9896,0.9995,0.9990,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9652,0.3894,0.3100,0.1015,0.0,0.9663,0.9998,0.9993,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9640,0.3951,0.2774,0.1014,0.0,0.9730,0.9994,0.9996,NA,,,,,
+GCF_008830185.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Lachnospiraceae,Candidatus Galacturonibacter,Candidatus Galacturonibacter soehngenii,Candidatus Galacturonibacter soehngenii,0.9622,0.4621,0.0000,0.1018,0.0,1.0000,0.0000,0.0007,NA,,,,,
+GCF_000007785.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis V583,0.9617,0.3988,0.2491,0.1016,0.0,0.9786,0.9992,0.9988,NA,,,,,
+GCF_001481655.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,Myroides odoratimimus,Myroides odoratimimus,0.9610,0.4601,0.0000,0.1018,0.0,1.0000,0.0000,0.0007,NA,,,,,

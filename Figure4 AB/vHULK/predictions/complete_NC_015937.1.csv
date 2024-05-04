@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Thermus,0.9978968,0.057789816856802644,Thermus_thermophilus,0.9998668,6.174016470632483

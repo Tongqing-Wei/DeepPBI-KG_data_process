@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.5041,0.2075,0.1472,0.0833,0.0,0.7060,0.9997,1.0000,NA
+GCF_008274965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum brasilense,Azospirillum brasilense,0.4494,0.2426,0.1724,0.1168,0.0,0.9454,0.9999,0.9998,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.4492,0.2402,0.1819,0.1168,0.0,0.9321,0.9999,0.9998,NA
+GCF_000014625.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa UCBPP-PA14,0.4460,0.2311,0.2149,0.1168,0.0,0.8668,1.0000,0.9999,NA
+GCF_001450525.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4284,0.2342,0.1858,0.1168,0.0,0.8923,0.9999,0.9999,NA
+GCF_001449605.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,Pseudomonas aeruginosa,0.4276,0.2350,0.1821,0.1168,0.0,0.8963,0.9999,0.9998,NA
+GCF_003590875.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,Herbaspirillum sp. K2R10-39,Herbaspirillum sp. K2R10-39,0.4158,0.2777,0.0000,0.1169,0.0,1.0000,0.0003,0.0023,NA
+GCF_000374625.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Brachymonas,Brachymonas chironomi,Brachymonas chironomi DSM 19884,0.4048,0.2751,0.0000,0.1169,0.0,1.0000,0.0003,0.0023,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.4016,0.2339,0.1612,0.1168,0.0,0.8904,0.9998,0.9999,NA
+GCF_002012345.1,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Burkholderiaceae,Ralstonia,blood disease bacterium A2-HR MARDI,blood disease bacterium A2-HR MARDI,0.4005,0.2740,0.0000,0.1169,0.0,1.0000,0.0003,0.0023,NA

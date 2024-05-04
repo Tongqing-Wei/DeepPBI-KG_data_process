@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Bacillus,0.99594766,0.10002590281046651,Bacillus_anthracis,0.99999803,6.142873650248845

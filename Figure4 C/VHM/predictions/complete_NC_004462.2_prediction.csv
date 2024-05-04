@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000008125.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Thermus thermophilus HB27,0.9860,0.6110,0.3108,0.2051,0.0,0.9998,0.9999,0.9999,NA,0.9755,0.9755,0.9510,0.9220,0.8619
+GCF_001399775.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus Y51MC23,0.9604,0.6266,0.0000,0.2052,0.0,1.0000,0.0000,0.0026,NA,,,,,
+GCF_000173055.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus Y51MC23,0.9603,0.6266,0.0000,0.2052,0.0,1.0000,0.0000,0.0026,NA,,,,,
+GCF_000794385.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus sp. 2.9,Thermus sp. 2.9,0.9583,0.6236,0.0000,0.2052,0.0,1.0000,0.0000,0.0026,NA,,,,,
+GCF_001280255.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus,0.9576,0.6226,0.0000,0.2052,0.0,1.0000,0.0000,0.0026,NA,,,,,
+GCF_900604845.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Thermus thermophilus,0.9563,0.6207,0.0000,0.2052,0.0,0.9999,0.0000,0.0026,NA,,,,,
+GCF_001535545.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus parvatiensis,Thermus parvatiensis,0.9540,0.6176,0.0000,0.2052,0.0,0.9999,0.0000,0.0026,NA,,,,,
+GCF_900102145.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus arciformis,Thermus arciformis,0.9540,0.6176,0.0000,0.2052,0.0,0.9999,0.0000,0.0026,NA,,,,,
+GCF_000252835.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus parvatiensis,Thermus parvatiensis,0.9535,0.6169,0.0000,0.2052,0.0,0.9999,0.0000,0.0026,NA,,,,,
+GCF_000214845.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Thermus thermophilus SG0.5JP17-16,0.9515,0.6144,0.0000,0.2052,0.0,0.9999,0.0000,0.0026,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9276,0.2748,0.5946,0.1026,0.0,0.9692,1.0000,1.0000,NA,0.9688,0.9688,0.9376,0.8967,0.8226
+GCF_001281005.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Citrobacter,Citrobacter portucalensis,Citrobacter portucalensis,0.8719,0.2424,0.5809,0.1032,0.0,0.9119,1.0000,0.9999,NA,,,,,
+GCF_003001695.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda pacifica,Muricauda pacifica,0.8357,0.3713,0.0000,0.1038,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000467895.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. F0091,Prevotella sp. F0091,0.8335,0.3704,0.0000,0.1038,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_000224595.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. C561,Prevotella sp. C561,0.8259,0.3672,0.0000,0.1038,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_900187995.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella jejuni,Prevotella jejuni,0.8238,0.3664,0.0000,0.1038,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_002849795.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella jejuni,Prevotella jejuni,0.8236,0.3663,0.0000,0.1038,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_003043935.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella sp. oral taxon 313,Prevotella sp. oral taxon 313,0.8235,0.3663,0.0000,0.1038,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_003609775.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella melaninogenica,Prevotella melaninogenica,0.8194,0.3646,0.0000,0.1038,0.0,0.9999,0.0001,0.0008,NA,,,,,
+GCF_000614565.2,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli O153:H2 str. 2010C-5034,0.8184,0.2342,0.5175,0.1033,0.0,0.8887,1.0000,0.9998,NA,,,,,

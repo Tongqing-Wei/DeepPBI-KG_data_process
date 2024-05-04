@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Burkholderia,0.9992854,0.020937288169625392,Burkholderia_thailandensis,0.9999852,5.868054665679675

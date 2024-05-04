@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.9575,0.5116,0.4171,0.2011,0.0,0.9938,0.9999,0.9994,NA,0.9735,0.9735,0.9430,0.9084,0.8473
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.9427,0.5134,0.3360,0.2011,0.0,0.9945,0.9994,0.9996,NA,,,,,
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.9221,0.5139,0.2585,0.2012,0.0,0.9949,0.9985,0.9989,NA,,,,,
+GCF_008520265.1,Bacteria,Bacteroidetes,Sphingobacteriia,Sphingobacteriales,Sphingobacteriaceae,Sphingobacterium,Sphingobacterium sp. 5.0403-2,Sphingobacterium sp. 5.0403-2,0.9147,0.5728,0.0000,0.2014,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_002190295.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.9144,0.4591,0.4529,0.2011,0.0,0.9180,1.0000,0.9995,NA,,,,,
+GCF_000379805.1,Bacteria,Bacteroidetes,Saprospiria,Saprospirales,Lewinellaceae,Lewinella,Lewinella cohaerens,Lewinella cohaerens DSM 23179,0.9108,0.5700,0.0000,0.2014,0.0,1.0000,0.0000,0.0009,NA,,,,,
+GCF_001580475.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.9100,0.4837,0.3420,0.2012,0.0,0.9687,0.9995,0.9992,NA,,,,,
+GCF_000269945.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus garvieae,Lactococcus garvieae Lg2,0.9087,0.4836,0.3391,0.2012,0.0,0.9685,0.9995,0.9992,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9065,0.4930,0.2922,0.2007,0.0,0.9809,0.9988,0.9998,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9053,0.4804,0.3423,0.2012,0.0,0.9642,0.9995,0.9992,NA,,,,,

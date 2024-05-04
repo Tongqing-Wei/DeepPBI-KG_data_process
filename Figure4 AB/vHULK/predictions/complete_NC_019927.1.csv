@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Cronobacter,0.99996924,0.0011362175038572176,Cronobacter_sakazakii,0.9999937,6.000758518024324

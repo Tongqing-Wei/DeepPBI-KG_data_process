@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_003590075.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9664,0.5445,0.0000,0.1483,0.0,1.0000,0.0000,0.0006,NA,0.9730,0.9730,0.9459,0.9127,0.8503
+GCF_002927085.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9618,0.5367,0.0000,0.1483,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_002706795.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus DSM 25,0.9615,0.5362,0.0000,0.1483,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9609,0.4549,0.3207,0.1481,0.0,0.9917,0.9996,0.9991,NA,,,,,
+GCF_000374385.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus DSM 25,0.9595,0.5331,0.0000,0.1483,0.0,1.0000,0.0000,0.0006,NA,,,,,
+GCF_003400265.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus sp. VP,Brevibacillus sp. VP,0.9590,0.5324,0.0000,0.1483,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_002927075.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9580,0.5309,0.0000,0.1483,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_002926995.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9576,0.5303,0.0000,0.1483,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_003265735.1,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Brevibacillus,Brevibacillus laterosporus,Brevibacillus laterosporus,0.9565,0.5288,0.0000,0.1483,0.0,0.9999,0.0000,0.0006,NA,,,,,
+GCF_004802515.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus alcalophilus,Bacillus alcalophilus ATCC 27647 = CGMCC 1.3604,0.9553,0.4388,0.3523,0.1480,0.0,0.9715,0.9998,0.9993,NA,,,,,

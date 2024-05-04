@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.8726,0.3351,0.3394,0.1230,0.0,0.9852,1.0000,0.9997,NA,0.9535,0.9535,0.9182,0.8773,0.7881
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.8703,0.3249,0.3735,0.1227,0.0,0.9800,1.0000,0.9999,NA,,,,,
+GCF_003860055.1,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Conchiformibius,Conchiformibius steedae,Conchiformibius steedae,0.8501,0.4092,0.0000,0.1233,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_000620925.1,Bacteria,Proteobacteria,Betaproteobacteria,Neisseriales,Neisseriaceae,Conchiformibius,Conchiformibius steedae,Conchiformibius steedae DSM 2580,0.8443,0.4066,0.0000,0.1233,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_006546595.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,NAmissing,Moraxellaceae bacterium AER2_44_116,Moraxellaceae bacterium AER2_44_116,0.8399,0.4047,0.0000,0.1233,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002752795.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Moraxella osloensis,Moraxella osloensis,0.8189,0.3960,0.0000,0.1233,0.0,1.0000,0.0000,0.0008,NA,,,,,
+GCF_002786455.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Moraxella osloensis,Moraxella osloensis,0.8164,0.3951,0.0000,0.1233,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_002752755.2,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Moraxella osloensis,Moraxella osloensis,0.8160,0.3949,0.0000,0.1233,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_001679205.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Moraxella osloensis,Moraxella osloensis,0.8138,0.3940,0.0000,0.1233,0.0,0.9999,0.0000,0.0008,NA,,,,,
+GCF_002863315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Moraxella,Moraxella osloensis,Moraxella osloensis,0.8133,0.3939,0.0000,0.1233,0.0,0.9999,0.0000,0.0008,NA,,,,,

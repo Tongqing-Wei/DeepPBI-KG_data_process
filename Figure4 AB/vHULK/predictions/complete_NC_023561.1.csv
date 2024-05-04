@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Enterobacter,0.9987012,0.028189072720111064,Enterobacter_cloacae,0.99999523,0.7852663497981449

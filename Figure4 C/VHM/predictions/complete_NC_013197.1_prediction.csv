@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000008125.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus thermophilus,Thermus thermophilus HB27,0.9812,0.5904,0.2669,0.1963,0.0,0.9996,0.9998,0.9998,NA,0.9737,0.9737,0.9497,0.9168,0.8578
+GCF_000771745.2,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus filiformis,Thermus filiformis,0.9712,0.6315,0.0000,0.1964,0.0,1.0000,0.0000,0.0025,NA,,,,,
+GCF_000376265.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus igniterrae,Thermus igniterrae ATCC 700962,0.9698,0.6287,0.0000,0.1964,0.0,1.0000,0.0000,0.0025,NA,,,,,
+GCF_000173055.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus Y51MC23,0.9689,0.6271,0.0000,0.1964,0.0,1.0000,0.0000,0.0025,NA,,,,,
+GCF_001399775.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus Y51MC23,0.9689,0.6271,0.0000,0.1964,0.0,1.0000,0.0000,0.0025,NA,,,,,
+GCF_001280255.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus aquaticus,Thermus aquaticus,0.9662,0.6219,0.0000,0.1964,0.0,0.9999,0.0000,0.0025,NA,,,,,
+GCF_000236585.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus sp. CCB_US3_UF1,Thermus sp. CCB_US3_UF1,0.9619,0.6148,0.0000,0.1964,0.0,0.9999,0.0000,0.0025,NA,,,,,
+GCF_000309885.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus oshimai,Thermus oshimai JL-2,0.9547,0.6042,0.0000,0.1964,0.0,0.9999,0.0000,0.0025,NA,,,,,
+GCF_003426945.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus sediminis,Thermus sediminis,0.9542,0.6035,0.0000,0.1964,0.0,0.9999,0.0000,0.0025,NA,,,,,
+GCF_900102145.1,Bacteria,Deinococcus-Thermus,Deinococci,Thermales,Thermaceae,Thermus,Thermus arciformis,Thermus arciformis,0.9537,0.6029,0.0000,0.1964,0.0,0.9999,0.0000,0.0025,NA,,,,,

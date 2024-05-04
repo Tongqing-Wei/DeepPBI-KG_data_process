@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.6213,0.3704,0.2985,0.1900,0.0,0.8049,0.9998,1.0000,NA
+GCF_008728435.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.6115,0.4688,0.2623,0.2467,0.0,0.9982,0.9996,0.9999,NA
+GCF_001481615.1,Bacteria,Actinobacteria,Actinobacteria,Propionibacteriales,Propionibacteriaceae,Cutibacterium,Cutibacterium acnes,Cutibacterium acnes,0.6022,0.4690,0.2540,0.2470,0.0,0.9983,0.9996,0.9995,NA
+GCF_000427765.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae VF39,0.5937,0.4443,0.3442,0.2469,0.0,0.9863,0.9999,0.9998,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.5689,0.4459,0.3141,0.2469,0.0,0.9881,0.9999,0.9998,NA
+GCF_000175575.2,Bacteria,Proteobacteria,Acidithiobacillia,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus,Acidithiobacillus caldus,Acidithiobacillus caldus ATCC 51756,0.5126,0.4236,0.3502,0.2469,0.0,0.9573,1.0000,0.9999,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.4376,0.4232,0.2814,0.2469,0.0,0.9565,0.9998,0.9998,NA
+GCF_001698225.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Gordoniaceae,Gordonia,Gordonia terrae,Gordonia terrae,0.4245,0.4046,0.3126,0.2422,0.0,0.9157,0.9999,1.0000,NA
+GCF_006788895.1,Bacteria,Actinobacteria,Actinobacteria,Micrococcales,Microbacteriaceae,Rhodoglobus,Rhodoglobus vestalii,Rhodoglobus vestalii,0.4227,0.4901,0.0000,0.2470,0.0,1.0000,0.0001,0.0024,NA
+GCF_000011485.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9313,0.4044,0.4007,0.3399,0.2469,0.0,0.9073,0.9999,0.9998,NA

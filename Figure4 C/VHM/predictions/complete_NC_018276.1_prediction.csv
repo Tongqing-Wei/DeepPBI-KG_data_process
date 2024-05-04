@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_002355195.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8940,0.4986,0.0000,0.1642,0.0,1.0000,0.0000,0.0012,NA,0.9602,0.9602,0.9280,0.8883,0.8011
+GCF_002797185.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8935,0.4983,0.0000,0.1642,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003265025.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8903,0.4963,0.0000,0.1642,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_002763955.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8890,0.4956,0.0000,0.1642,0.0,1.0000,0.0000,0.0012,NA,,,,,
+GCF_003861325.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8883,0.4952,0.0000,0.1642,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_002529225.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8881,0.4951,0.0000,0.1642,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_003838285.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8881,0.4951,0.0000,0.1642,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_002797175.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8872,0.4945,0.0000,0.1642,0.0,0.9999,0.0000,0.0012,NA,,,,,
+GCF_004634195.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium sp. SaA2.12,Flavobacterium sp. SaA2.12,0.8868,0.4129,0.3248,0.1640,0.0,0.9966,0.9999,0.9997,NA,,,,,
+GCF_002797135.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella intermedia,Prevotella intermedia,0.8861,0.4939,0.0000,0.1642,0.0,0.9999,0.0000,0.0012,NA,,,,,

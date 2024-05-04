@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.6314,0.2139,0.1937,0.0757,0.0,0.9968,0.9999,0.9995,NA
+GCF_003287245.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia,Escherichia coli,Escherichia coli,0.6232,0.1467,0.4527,0.0753,0.0,0.8937,1.0000,0.9999,NA
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.6030,0.2145,0.1635,0.0757,0.0,0.9974,0.9997,0.9993,NA
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.5773,0.2145,0.1389,0.0757,0.0,0.9973,0.9994,0.9991,NA
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.5641,0.2085,0.1501,0.0757,0.0,0.9927,0.9996,0.9992,NA
+GCF_000014365.2,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae D39,0.5600,0.2031,0.1676,0.0757,0.0,0.9886,0.9997,0.9993,NA
+GCF_000380105.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus orisratti,Streptococcus orisratti DSM 15617,0.5422,0.2410,0.0000,0.0758,0.0,1.0000,0.0001,0.0010,NA
+GCF_001329615.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5410,0.2071,0.1339,0.0757,0.0,0.9916,0.9992,0.9990,NA
+GCF_001328955.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5311,0.2066,0.1269,0.0757,0.0,0.9911,0.9991,0.9989,NA
+GCF_001154345.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pneumoniae,Streptococcus pneumoniae,0.5210,0.2048,0.1246,0.0757,0.0,0.9898,0.9991,0.9988,NA

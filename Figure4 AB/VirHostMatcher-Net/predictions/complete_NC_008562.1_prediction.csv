@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_003953885.1,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halocella,Halocella sp. SP3-1,Halocella sp. SP3-1,0.7386,0.4604,0.0000,0.1800,0.0,1.0000,0.0001,0.0013,NA,0.9386,0.9352,0.8959,0.8464,0.7389
+GCF_000429685.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus aidingensis,Bacillus aidingensis DSM 18341,0.7367,0.4598,0.0000,0.1800,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_000972495.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Hymenobacteraceae,Hymenobacter,Hymenobacter terrenus,Hymenobacter terrenus,0.7300,0.4578,0.0000,0.1800,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_900182555.1,Bacteria,Balneolaeota,Balneolia,Balneolales,Balneolaceae,Aliifodinibius,Aliifodinibius sediminis,Aliifodinibius sediminis,0.7267,0.4569,0.0000,0.1800,0.0,1.0000,0.0001,0.0013,NA,,,,,
+GCF_900111615.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Natronincola,Natronincola peptidivorans,Natronincola peptidivorans,0.7262,0.4567,0.0000,0.1800,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_900114715.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Salibacterium,Salibacterium qingdaonense,Salibacterium qingdaonense,0.7226,0.4557,0.0000,0.1800,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_900188145.1,Bacteria,Firmicutes,Clostridia,Clostridiales,NAmissing,Anaerovirgula,Anaerovirgula multivorans,Anaerovirgula multivorans,0.7220,0.4555,0.0000,0.1800,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_000023765.2,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Liberibacter,Candidatus Liberibacter asiaticus,Candidatus Liberibacter asiaticus str. psy62,0.7099,0.4006,0.2055,0.1800,0.0,0.9931,0.9987,0.9986,NA,,,,,
+GCF_002240035.1,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella,Legionella clemsonensis,Legionella clemsonensis,0.7010,0.4495,0.0000,0.1800,0.0,0.9999,0.0001,0.0013,NA,,,,,
+GCF_000020485.1,Bacteria,Firmicutes,Clostridia,Halanaerobiales,Halanaerobiaceae,Halothermothrix,Halothermothrix orenii,Halothermothrix orenii H 168,0.6964,0.4482,0.0000,0.1800,0.0,0.9999,0.0001,0.0013,NA,,,,,

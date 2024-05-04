@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.8992,0.3008,0.2188,0.0737,0.0,0.9951,0.9996,0.9992,NA,0.9618,0.9618,0.9294,0.8893,0.8053
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.8931,0.2972,0.2180,0.0737,0.0,0.9933,0.9996,0.9992,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.8930,0.2957,0.2234,0.0737,0.0,0.9924,0.9997,0.9992,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.8870,0.2956,0.2098,0.0737,0.0,0.9923,0.9995,0.9991,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.8863,0.2777,0.2774,0.0734,0.0,0.9816,1.0000,0.9998,NA,,,,,
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.8861,0.2888,0.2286,0.0727,0.0,0.9898,0.9997,1.0000,NA,,,,,
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.8841,0.2716,0.2983,0.0736,0.0,0.9740,1.0000,0.9996,NA,,,,,
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.8770,0.2742,0.2696,0.0732,0.0,0.9773,0.9999,0.9999,NA,,,,,
+GCF_902167705.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus constellatus,Streptococcus constellatus,0.8696,0.3387,0.0000,0.0739,0.0,1.0000,0.0001,0.0008,NA,,,,,
+GCF_902167685.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus gordonii,Streptococcus gordonii,0.8690,0.3384,0.0000,0.0739,0.0,1.0000,0.0001,0.0008,NA,,,,,

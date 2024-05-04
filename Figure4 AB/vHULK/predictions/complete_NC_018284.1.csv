@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Staphylococcus,0.99954754,0.013528734655517382,Staphylococcus_epidermidis,0.9999995,5.726719928170382

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000017705.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio campbellii,Vibrio campbellii ATCC BAA-1116,0.9655,0.4249,0.3113,0.1233,0.0,0.9985,0.9997,0.9997,NA,0.9731,0.9731,0.9441,0.9089,0.8468
+GCF_001011015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio parahaemolyticus,Vibrio parahaemolyticus,0.9479,0.4012,0.3064,0.1236,0.0,0.9846,0.9997,0.9993,NA,,,,,
+GCF_000354175.2,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio alginolyticus,Vibrio alginolyticus NBRC 15630 = ATCC 17749,0.9417,0.4104,0.2427,0.1237,0.0,0.9877,0.9991,0.9988,NA,,,,,
+GCF_000169995.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,NAmissing,NAmissing,Vibrionales bacterium SWAT-3,Vibrionales bacterium SWAT-3,0.9397,0.4112,0.2311,0.1237,0.0,0.9880,0.9990,0.9987,NA,,,,,
+GCF_002892925.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9314,0.4611,0.0000,0.1238,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_003269215.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9304,0.4602,0.0000,0.1238,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_002892885.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9294,0.4592,0.0000,0.1238,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_002892965.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus,0.9292,0.4590,0.0000,0.1238,0.0,1.0000,0.0001,0.0006,NA,,,,,
+GCF_000740015.1,Bacteria,Proteobacteria,Gammaproteobacteria,Vibrionales,Vibrionaceae,Vibrio,Vibrio diazotrophicus,Vibrio diazotrophicus NBRC 103148,0.9288,0.4587,0.0000,0.1238,0.0,0.9999,0.0001,0.0006,NA,,,,,
+GCF_001050795.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Yersiniaceae,Yersinia,Yersinia enterocolitica,Yersinia enterocolitica (type O:3) str. YE12/03,0.9285,0.3756,0.3287,0.1233,0.0,0.9726,0.9998,0.9997,NA,,,,,

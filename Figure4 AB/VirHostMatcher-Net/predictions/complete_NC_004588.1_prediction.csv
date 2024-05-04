@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.9991,0.5499,0.5946,0.1115,0.0,1.0000,1.0000,1.0000,NA,0.9956,0.9956,0.9956,0.9823,0.9646
+GCF_000167375.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis 89/1591,0.9908,0.4680,0.3979,0.1147,0.0,0.9922,0.9999,0.9995,NA,,,,,
+GCF_000231865.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis SS12,0.9905,0.4567,0.4352,0.1146,0.0,0.9886,1.0000,0.9996,NA,,,,,
+GCF_000231905.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis D12,0.9886,0.4551,0.3980,0.1147,0.0,0.9883,0.9999,0.9995,NA,,,,,
+GCF_000392875.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus faecalis,Enterococcus faecalis ATCC 19433,0.9881,0.4629,0.3563,0.1147,0.0,0.9909,0.9998,0.9993,NA,,,,,
+GCF_000628885.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes ABC020052023,0.9877,0.5508,0.0000,0.1150,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_901544225.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Streptococcus dysgalactiae subsp. equisimilis,0.9877,0.5507,0.0000,0.1150,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_900460025.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus dysgalactiae,Streptococcus dysgalactiae,0.9876,0.5501,0.0000,0.1150,0.0,1.0000,0.0001,0.0007,NA,,,,,
+GCF_000231925.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus suis,Streptococcus suis ST1,0.9874,0.4491,0.3988,0.1147,0.0,0.9865,0.9999,0.9995,NA,,,,,
+GCF_001302265.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus phocae,Streptococcus phocae,0.9863,0.5440,0.0000,0.1150,0.0,0.9999,0.0001,0.0007,NA,,,,,

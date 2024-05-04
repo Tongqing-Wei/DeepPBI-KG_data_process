@@ -1,0 +1,12 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001747095.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Fabibacter,Fabibacter sp. 4D4,Fabibacter sp. 4D4,0.4803,0.1600,0.0000,0.0347,0.0,1.0000,0.0002,0.0007,NA
+GCF_000711315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Hydrogenovibrio,Hydrogenovibrio marinus,Hydrogenovibrio marinus DSM 11271,0.4577,0.1547,0.0000,0.0347,0.0,1.0000,0.0002,0.0007,NA
+GCF_000696325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Hydrogenovibrio,Hydrogenovibrio marinus,Hydrogenovibrio marinus,0.4490,0.1526,0.0000,0.0347,0.0,1.0000,0.0002,0.0007,NA
+GCF_004340205.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Acetobacteroides,Acetobacteroides hydrogenigenes,Acetobacteroides hydrogenigenes,0.4479,0.1524,0.0000,0.0347,0.0,1.0000,0.0002,0.0007,NA
+GCF_000012325.1,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Colwelliaceae,Colwellia,Colwellia psychrerythraea,Colwellia psychrerythraea 34H,0.4456,0.1131,0.1543,0.0346,0.0,0.9465,1.0000,0.9997,NA
+GCF_000613925.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella histicola,Prevotella histicola JCM 15637 = DNF00424,0.4403,0.1506,0.0000,0.0347,0.0,0.9999,0.0002,0.0007,NA
+GCF_000234055.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella histicola,Prevotella histicola F0411,0.4392,0.1503,0.0000,0.0347,0.0,0.9999,0.0002,0.0007,NA
+GCF_000526715.1,Bacteria,Proteobacteria,Gammaproteobacteria,Thiotrichales,Piscirickettsiaceae,Hydrogenovibrio,Hydrogenovibrio kuenenii,Hydrogenovibrio kuenenii DSM 12350,0.4380,0.1500,0.0000,0.0347,0.0,0.9999,0.0002,0.0007,NA
+GCF_001747105.1,Bacteria,Bacteroidetes,Cytophagia,Cytophagales,Flammeovirgaceae,Fabibacter,Fabibacter misakiensis,Fabibacter misakiensis,0.4335,0.1489,0.0000,0.0347,0.0,0.9999,0.0002,0.0007,NA
+GCF_000185845.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella salivae,Prevotella salivae DSM 15606,0.4334,0.1489,0.0000,0.0347,0.0,0.9999,0.0002,0.0007,NA
+GCF_902374235.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella,Prevotella salivae,Prevotella salivae,0.4334,0.1489,0.0000,0.0347,0.0,0.9999,0.0002,0.0007,NA

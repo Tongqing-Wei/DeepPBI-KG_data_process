@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.6982,0.1937,0.3481,0.0762,0.0,0.9245,1.0000,0.9998,NA
+GCF_001580475.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.6328,0.2354,0.1143,0.0764,0.0,0.9987,0.9987,0.9986,NA
+GCF_001456795.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. lactis,0.6124,0.2003,0.2334,0.0763,0.0,0.9434,1.0000,0.9996,NA
+GCF_000007425.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Streptococcus,Streptococcus pyogenes,Streptococcus pyogenes MGAS315,0.6089,0.2193,0.1515,0.0759,0.0,0.9885,0.9994,0.9999,NA
+GCF_000468575.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 4,0.5962,0.2131,0.1668,0.0764,0.0,0.9815,0.9997,0.9994,NA
+GCF_001005455.1,Bacteria,Firmicutes,Bacilli,Lactobacillales,Streptococcaceae,Lactococcus,Lactococcus lactis,Lactococcus lactis subsp. cremoris,0.5952,0.1969,0.2303,0.0763,0.0,0.9339,1.0000,0.9996,NA
+GCF_002286775.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Myroides,Myroides sp. N17-2,Myroides sp. N17-2,0.5939,0.2544,0.0000,0.0765,0.0,1.0000,0.0000,0.0008,NA
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.5881,0.2126,0.1606,0.0763,0.0,0.9800,0.9996,0.9997,NA
+GCF_000468595.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica 13,0.5804,0.2129,0.1519,0.0763,0.0,0.9809,0.9995,0.9996,NA
+GCF_000477035.2,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Cellulophaga,Cellulophaga baltica,Cellulophaga baltica NN016038,0.5777,0.2142,0.1443,0.0763,0.0,0.9837,0.9992,0.9996,NA

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000344375.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. actinidiae ICMP 18800,0.5872,0.3503,0.3260,0.1870,0.0,0.9900,0.9999,0.9998,NA
+GCF_900235835.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas syringae,Pseudomonas syringae pv. avii,0.5733,0.3534,0.2996,0.1869,0.0,0.9920,0.9998,0.9999,NA
+GCF_001275725.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas coronafaciens,Pseudomonas coronafaciens pv. porri,0.5516,0.3504,0.2913,0.1870,0.0,0.9901,0.9997,0.9998,NA
+GCF_009600465.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.4329,0.3957,0.0000,0.1872,0.0,1.0000,0.0000,0.0021,NA
+GCF_009600495.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.4301,0.3950,0.0000,0.1872,0.0,1.0000,0.0000,0.0021,NA
+GCF_009600025.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.4293,0.3948,0.0000,0.1872,0.0,1.0000,0.0000,0.0021,NA
+GCF_009600315.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas helleri,Pseudomonas helleri,0.4291,0.3948,0.0000,0.1872,0.0,1.0000,0.0000,0.0021,NA
+GCF_001411475.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas endophytica,Pseudomonas endophytica,0.4138,0.3911,0.0000,0.1872,0.0,0.9999,0.0000,0.0021,NA
+GCF_900167065.1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio bizertensis,Desulfovibrio bizertensis DSM 18034,0.3942,0.3864,0.0000,0.1872,0.0,0.9999,0.0000,0.0021,NA
+GCF_007858365.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas sp. DSM 108989,Pseudomonas sp. DSM 108989,0.3861,0.3844,0.0000,0.1872,0.0,0.9999,0.0000,0.0021,NA

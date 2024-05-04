@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Bacillus,0.9999933,0.00026586606932532675,Bacillus_thuringiensis,0.9999972,2.372036905370871

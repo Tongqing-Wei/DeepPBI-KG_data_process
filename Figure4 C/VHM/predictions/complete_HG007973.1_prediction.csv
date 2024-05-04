@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.6133,0.2667,0.2127,0.1140,0.0,0.8074,0.9998,1.0000,NA
+GCF_008274965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum brasilense,Azospirillum brasilense,0.4907,0.3042,0.2812,0.1657,0.0,0.9884,1.0000,1.0000,NA
+GCF_002708645.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. IP1,Sphingobium sp. IP1,0.4157,0.2902,0.2668,0.1657,0.0,0.9274,1.0000,0.9999,NA
+GCF_000009265.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium leguminosarum,Rhizobium leguminosarum bv. viciae 3841,0.3886,0.2866,0.2548,0.1657,0.0,0.9044,1.0000,0.9999,NA
+GCF_902153225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium,Rhizobium sp. P007,Rhizobium sp. P007,0.3867,0.2963,0.2140,0.1657,0.0,0.9653,0.9999,0.9999,NA
+GCF_002896965.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium guangzhouense,Novosphingobium guangzhouense,0.3539,0.3417,0.0000,0.1658,0.0,1.0000,0.0001,0.0025,NA
+GCF_000203835.1,Bacteria,Actinobacteria,Actinobacteria,Streptomycetales,Streptomycetaceae,Streptomyces,Streptomyces coelicolor,Streptomyces coelicolor A3(2),0.3512,0.2935,0.1899,0.1658,0.0,0.9509,0.9997,0.9997,NA
+GCF_000092025.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Agrobacterium,Agrobacterium fabrum,Agrobacterium fabrum str. C58,0.3358,0.2910,0.1842,0.1658,0.0,0.9326,0.9997,0.9996,NA
+GCF_000632105.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium resinovorum,Novosphingobium resinovorum,0.3294,0.3353,0.0000,0.1658,0.0,1.0000,0.0001,0.0025,NA
+GCF_001742225.1,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Novosphingobium,Novosphingobium resinovorum,Novosphingobium resinovorum,0.3272,0.3347,0.0000,0.1658,0.0,1.0000,0.0001,0.0025,NA

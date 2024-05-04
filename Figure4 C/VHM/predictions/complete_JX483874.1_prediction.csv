@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000182725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella inopinata,Brucella inopinata BO1,0.6779,0.2865,0.3288,0.1339,0.0,0.9925,1.0000,0.9997,NA
+GCF_900104355.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. OV277,Phyllobacterium sp. OV277,0.6532,0.3625,0.0000,0.1341,0.0,1.0000,0.0001,0.0014,NA
+GCF_900466815.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.6490,0.3614,0.0000,0.1341,0.0,1.0000,0.0001,0.0014,NA
+GCF_900465725.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,NAmissing,NAmissing,Rhizobiales bacterium,Rhizobiales bacterium,0.6488,0.3614,0.0000,0.1341,0.0,1.0000,0.0001,0.0014,NA
+GCF_000739315.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Brucella,Brucella abortus,Brucella abortus 544,0.6427,0.2835,0.3043,0.1339,0.0,0.9895,0.9999,0.9997,NA
+GCF_000282595.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Phyllobacteriaceae,Phyllobacterium,Phyllobacterium sp. YR531,Phyllobacterium sp. YR531,0.6371,0.3584,0.0000,0.1341,0.0,1.0000,0.0001,0.0014,NA
+GCF_002252475.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum rhizosphaerae,Ochrobactrum rhizosphaerae,0.6076,0.3510,0.0000,0.1341,0.0,0.9999,0.0001,0.0014,NA
+GCF_004368705.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum sp. LP_5_YM,Ochrobactrum sp. LP_5_YM,0.6013,0.3495,0.0000,0.1341,0.0,0.9999,0.0001,0.0014,NA
+GCF_001581035.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Acetobacteraceae,Acetobacter,Acetobacter malorum,Acetobacter malorum,0.5921,0.3473,0.0000,0.1341,0.0,0.9999,0.0001,0.0014,NA
+GCF_003049685.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Brucellaceae,Ochrobactrum,Ochrobactrum pituitosum,Ochrobactrum pituitosum,0.5905,0.3469,0.0000,0.1341,0.0,0.9999,0.0001,0.0014,NA

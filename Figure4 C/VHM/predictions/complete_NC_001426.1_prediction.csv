@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001697285.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Thermoclostridium,Thermoclostridium stercorarium,Thermoclostridium stercorarium subsp. leptospartum DSM 9219,0.5409,0.1309,0.0000,0.0080,0.0,1.0000,0.0010,0.0012,NA
+GCF_000349885.2,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Thermoclostridium,Thermoclostridium stercorarium,Thermoclostridium stercorarium subsp. stercorarium DSM 8532,0.5394,0.1306,0.0000,0.0080,0.0,1.0000,0.0010,0.0012,NA
+GCF_000331995.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Thermoclostridium,Thermoclostridium stercorarium,Thermoclostridium stercorarium subsp. stercorarium DSM 8532,0.5390,0.1305,0.0000,0.0080,0.0,1.0000,0.0010,0.0012,NA
+GCF_001697245.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Hungateiclostridiaceae,Thermoclostridium,Thermoclostridium stercorarium,Thermoclostridium stercorarium subsp. thermolacticum DSM 2910,0.5292,0.1282,0.0000,0.0080,0.0,1.0000,0.0010,0.0012,NA
+GCF_000147715.2,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga prima,Mesotoga prima MesG1.Ag.4.2,0.5025,0.1219,0.0000,0.0080,0.0,0.9999,0.0010,0.0012,NA
+GCF_003666285.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. HF07.pep.5.2.highcov,Mesotoga sp. HF07.pep.5.2.highcov,0.4995,0.1212,0.0000,0.0080,0.0,0.9999,0.0010,0.0012,NA
+GCF_003664995.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. BH458_6_3_2_1,Mesotoga sp. BH458_6_3_2_1,0.4857,0.1180,0.0000,0.0080,0.0,0.9999,0.0010,0.0012,NA
+GCF_002752615.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. H07.pep.5.3,Mesotoga sp. H07.pep.5.3,0.4833,0.1174,0.0000,0.0080,0.0,0.9999,0.0010,0.0012,NA
+GCF_003664935.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. H07pep.5.4,Mesotoga sp. H07pep.5.4,0.4785,0.1163,0.0000,0.0080,0.0,0.9999,0.0010,0.0012,NA
+GCF_002896535.1,Bacteria,Thermotogae,Thermotogae,Kosmotogales,Kosmotogaceae,Mesotoga,Mesotoga sp. B105.6.4,Mesotoga sp. B105.6.4,0.4785,0.1163,0.0000,0.0080,0.0,0.9999,0.0010,0.0012,NA

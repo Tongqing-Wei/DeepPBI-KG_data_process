@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Shigella,0.67621714,2.608831130264298,Shigella_sonnei,0.9999756,5.773638694042961

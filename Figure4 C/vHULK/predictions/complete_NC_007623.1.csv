@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Pseudomonas,0.9638123,0.5287317831445535,Pseudomonas_aeruginosa,0.9999624,4.620980047407958

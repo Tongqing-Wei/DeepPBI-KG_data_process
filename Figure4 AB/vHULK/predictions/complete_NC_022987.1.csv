@@ -1,0 +1,2 @@
+pred_genus,score_genus,entropy_genus,pred_species,score_species,entropy_species
+Xylella,0.9215991,0.7953884052259127,Xylella_fastidiosa,0.99999815,5.982086655458993

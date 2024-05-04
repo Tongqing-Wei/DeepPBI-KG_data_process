@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_001904985.1,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas protegens,Pseudomonas protegens,0.5494,0.1589,0.7617,0.1415,0.0,0.4256,1.0000,1.0000,NA
+GCF_002798275.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,NAmissing,Xanthomonadaceae bacterium NML08-0793,Xanthomonadaceae bacterium NML08-0793,0.4754,0.3329,0.0000,0.1423,0.0,1.0000,0.0000,0.0015,NA
+GCF_002798335.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,NAmissing,Xanthomonadaceae bacterium NML120232,Xanthomonadaceae bacterium NML120232,0.4692,0.3315,0.0000,0.1423,0.0,1.0000,0.0000,0.0015,NA
+GCF_000786575.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Alistipes,Alistipes inops,Alistipes inops,0.4060,0.3165,0.0000,0.1423,0.0,1.0000,0.0000,0.0015,NA
+GCF_002798185.1,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,NAmissing,Xanthomonadaceae bacterium NML75-0749,Xanthomonadaceae bacterium NML75-0749,0.4022,0.3155,0.0000,0.1423,0.0,1.0000,0.0000,0.0015,NA
+GCF_900104605.1,Bacteria,Bacteroidetes,Bacteroidia,Bacteroidales,Rikenellaceae,Tidjanibacter,Tidjanibacter massiliensis,Tidjanibacter massiliensis,0.3976,0.3144,0.0000,0.1423,0.0,0.9999,0.0000,0.0015,NA
+GCF_001277195.1,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Cronobacter,Cronobacter muytjensii,Cronobacter muytjensii ATCC 51329,0.3926,0.2474,0.2627,0.1421,0.0,0.9538,0.9999,0.9997,NA
+GCF_900142455.1,Bacteria,Fibrobacteres,Fibrobacteria,Fibrobacterales,Fibrobacteraceae,Fibrobacter,Fibrobacter sp. UWOS,Fibrobacter sp. UWOS,0.3910,0.3128,0.0000,0.1423,0.0,0.9999,0.0000,0.0015,NA
+GCF_000424065.1,Bacteria,Firmicutes,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas,Selenomonas ruminantium,Selenomonas ruminantium subsp. ruminantium ATCC 12561,0.3903,0.3126,0.0000,0.1423,0.0,0.9999,0.0000,0.0015,NA
+GCF_006539305.1,Bacteria,Proteobacteria,Deltaproteobacteria,Desulfovibrionales,Desulfovibrionaceae,Desulfovibrio,Desulfovibrio desulfuricans,Desulfovibrio desulfuricans,0.3878,0.3120,0.0000,0.1423,0.0,0.9999,0.0000,0.0015,NA

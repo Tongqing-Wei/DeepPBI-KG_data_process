@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_002079305.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodovulum,Rhodovulum sp. P5,Rhodovulum sp. P5,0.3146,0.1052,0.0827,0.0389,0.0,0.9994,1.0000,0.9999,NA
+GCF_009363795.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Maribius,Maribius sp. THAF1,Maribius sp. THAF1,0.2922,0.1197,0.0000,0.0389,0.0,1.0000,0.0007,0.0023,NA
+GCF_900609015.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,NAmissing,Rhodobacteraceae bacterium THAF1,Rhodobacteraceae bacterium THAF1,0.2913,0.1195,0.0000,0.0389,0.0,1.0000,0.0007,0.0023,NA
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.2871,0.0695,0.0581,0.0177,0.0,0.9349,0.9997,1.0000,NA
+GCF_001403795.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Jannaschia,Jannaschia donghaensis,Jannaschia donghaensis,0.2865,0.1181,0.0000,0.0389,0.0,1.0000,0.0007,0.0023,NA
+GCF_001887735.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus sp. SM22M-07,Paracoccus sp. SM22M-07,0.2710,0.1136,0.0000,0.0389,0.0,1.0000,0.0007,0.0023,NA
+GCF_003259195.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Paracoccus,Paracoccus sediminilitoris,Paracoccus sediminilitoris,0.2707,0.1135,0.0000,0.0389,0.0,0.9999,0.0007,0.0023,NA
+GCF_900104035.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Aurantimonadaceae,Aurantimonas,Aureimonas jatrophae,Aureimonas jatrophae,0.2699,0.1133,0.0000,0.0389,0.0,0.9999,0.0007,0.0023,NA
+GCF_002900975.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Tabrizicola,Tabrizicola aquatica,Tabrizicola aquatica,0.2673,0.1125,0.0000,0.0389,0.0,0.9999,0.0007,0.0023,NA
+GCF_005222785.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobacter,Rhodobacter sp. SY28-1,Rhodobacter sp. SY28-1,0.2646,0.1117,0.0000,0.0389,0.0,0.9999,0.0007,0.0023,NA

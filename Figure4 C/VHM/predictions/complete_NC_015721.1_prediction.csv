@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct
+GCF_000015005.1,Bacteria,Actinobacteria,Actinobacteria,Corynebacteriales,Mycobacteriaceae,Mycolicibacterium,Mycolicibacterium smegmatis,Mycolicibacterium smegmatis MC2 155,0.4050,0.1371,0.1428,0.0537,0.0,0.8989,0.9999,1.0000,NA
+GCF_002208115.1,Bacteria,Proteobacteria,Oligoflexia,Bdellovibrionales,Bdellovibrionaceae,Bdellovibrio,Bdellovibrio bacteriovorus,Bdellovibrio bacteriovorus,0.4035,0.2483,0.0000,0.1005,0.0,1.0000,0.0006,0.0024,NA
+GCF_000711215.1,Archaea,Euryarchaeota,Methanomicrobia,Methanomicrobiales,Methanomicrobiaceae,Methanomicrobium,Methanomicrobium mobile,Methanomicrobium mobile BP,0.3756,0.2414,0.0000,0.1005,0.0,1.0000,0.0006,0.0024,NA
+GCF_000196175.1,Bacteria,Proteobacteria,Oligoflexia,Bdellovibrionales,Bdellovibrionaceae,Bdellovibrio,Bdellovibrio bacteriovorus,Bdellovibrio bacteriovorus HD100,0.3737,0.2410,0.0000,0.1005,0.0,1.0000,0.0006,0.0024,NA
+GCF_000691605.1,Bacteria,Proteobacteria,Oligoflexia,Bdellovibrionales,Bdellovibrionaceae,Bdellovibrio,Bdellovibrio bacteriovorus,Bdellovibrio bacteriovorus,0.3702,0.2401,0.0000,0.1005,0.0,1.0000,0.0006,0.0024,NA
+GCF_000317895.1,Bacteria,Proteobacteria,Oligoflexia,Bdellovibrionales,Bdellovibrionaceae,Bdellovibrio,Bdellovibrio bacteriovorus,Bdellovibrio bacteriovorus str. Tiberius,0.3660,0.2390,0.0000,0.1005,0.0,0.9999,0.0006,0.0024,NA
+GCF_900104495.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Ruminococcaceae,NAmissing,Ruminococcaceae bacterium FB2012,Ruminococcaceae bacterium FB2012,0.3072,0.2236,0.0000,0.1005,0.0,0.9999,0.0006,0.0024,NA
+GCF_000296445.1,Bacteria,Actinobacteria,Coriobacteriia,Eggerthellales,Eggerthellaceae,Slackia,Slackia piriformis,Slackia piriformis YIT 12062,0.2990,0.2214,0.0000,0.1005,0.0,0.9999,0.0006,0.0024,NA
+GCF_902374735.1,Bacteria,Actinobacteria,Coriobacteriia,Eggerthellales,Eggerthellaceae,Slackia,Slackia piriformis,Slackia piriformis,0.2990,0.2214,0.0000,0.1005,0.0,0.9999,0.0006,0.0024,NA
+GCF_002850435.1,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,NAmissing,Rhodobacteraceae bacterium,Rhodobacteraceae bacterium,0.2963,0.2206,0.0000,0.1005,0.0,0.9999,0.0006,0.0024,NA

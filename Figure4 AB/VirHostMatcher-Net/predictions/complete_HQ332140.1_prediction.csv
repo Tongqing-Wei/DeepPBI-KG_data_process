@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000012645.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9312,0.9420,0.4194,0.5407,0.1750,0.0,0.9745,1.0000,0.9998,NA,0.9722,0.9722,0.9404,0.9046,0.8310
+GCF_000762305.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9383,0.4637,0.3463,0.1748,0.0,0.9949,0.9998,0.9999,NA,,,,,
+GCF_000762315.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani ATCC 9441,0.9367,0.4592,0.3609,0.1752,0.0,0.9926,0.9999,0.9995,NA,,,,,
+GCF_000762325.1,Bacteria,Firmicutes,Clostridia,Clostridiales,Clostridiaceae,Clostridium,Clostridium tetani,Clostridium tetani,0.9362,0.4616,0.3481,0.1750,0.0,0.9941,0.9998,0.9997,NA,,,,,
+GCF_000011465.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus subsp. pastoris str. CCMP1986,0.9183,0.4057,0.4970,0.1731,0.0,0.9649,1.0000,1.0000,NA,,,,,
+GCF_000015665.1,Bacteria,Cyanobacteria,NAmissing,Synechococcales,Prochloraceae,Prochlorococcus,Prochlorococcus marinus,Prochlorococcus marinus str. MIT 9515,0.9001,0.4180,0.4076,0.1749,0.0,0.9741,1.0000,0.9998,NA,,,,,
+GCF_000709475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus aureus,Staphylococcus aureus,0.8854,0.4146,0.3876,0.1752,0.0,0.9724,0.9999,0.9996,NA,,,,,
+GCF_001580475.1,Bacteria,Bacteroidetes,Flavobacteriia,Flavobacteriales,Flavobacteriaceae,Flavobacterium,Flavobacterium columnare,Flavobacterium columnare,0.8709,0.4243,0.3173,0.1753,0.0,0.9761,0.9996,0.9993,NA,,,,,
+GCF_001559865.1,Bacteria,Firmicutes,Clostridia,Clostridiales,NAmissing,NAmissing,Clostridiales bacterium MCWD3,Clostridiales bacterium MCWD3,0.8585,0.4976,0.0000,0.1754,0.0,1.0000,0.0000,0.0010,NA,,,,,
+GCF_000390405.1,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus epidermidis,Staphylococcus epidermidis 36-1,0.8549,0.4175,0.3117,0.1751,0.0,0.9740,0.9996,0.9997,NA,,,,,

@@ -1,0 +1,11 @@
+hostNCBIName,hostSuperkingdom,hostPhylum,hostClass,hostOrder,hostFamily,hostGenus,hostSpecies,hostName,score,s2star_val,posSV_val,negSV_val,crispr_val,s2star_pct,posSV_pct,negSV_pct,crispr_pct,acc_phylum,acc_class,acc_order,acc_family,acc_genus
+GCF_000160915.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BGSC 6E1,0.9900,0.4008,0.3355,0.0668,0.0,0.9973,1.0000,0.9997,NA,0.9815,0.9815,0.9560,0.9282,0.8681
+GCF_000399345.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus BMG1.7,0.9875,0.4022,0.2773,0.0669,0.0,0.9992,1.0000,0.9996,NA,,,,,
+GCF_000832845.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 4342,0.9864,0.3973,0.2758,0.0666,0.0,0.9911,1.0000,0.9998,NA,,,,,
+GCF_000007825.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus cereus,Bacillus cereus ATCC 14579,0.9759,0.3994,0.1339,0.0670,0.0,0.9948,0.9989,0.9988,NA,,,,,
+GCF_000293605.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus mycoides,Bacillus mycoides,0.9757,0.3925,0.1601,0.0670,0.0,0.9888,0.9993,0.9991,NA,,,,,
+GCF_002147375.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar wuhanensis,0.9721,0.4243,0.0000,0.0671,0.0,1.0000,0.0003,0.0009,NA,,,,,
+GCF_002147475.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar ostriniae,0.9672,0.4146,0.0000,0.0671,0.0,1.0000,0.0003,0.0009,NA,,,,,
+GCF_000940785.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar morrisoni,0.9670,0.4142,0.0000,0.0671,0.0,1.0000,0.0003,0.0009,NA,,,,,
+GCF_003990255.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus sp. VKPM B-3276,Bacillus sp. VKPM B-3276,0.9669,0.4139,0.0000,0.0671,0.0,1.0000,0.0003,0.0009,NA,,,,,
+GCF_002912065.1,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus thuringiensis,Bacillus thuringiensis serovar morrisoni,0.9668,0.4137,0.0000,0.0671,0.0,0.9999,0.0003,0.0009,NA,,,,,
